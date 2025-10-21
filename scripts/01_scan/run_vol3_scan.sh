@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # run_vol3_scan.sh
-# Usage: ./run_vol3_scan.sh PATH TO MEMORY IMAGE
+# Usage: ./run_vol3_scan.sh PATH_TO_MEMORY_IMAGE
 # Description: Runs a set of Volatility3 plugins against a memory image and saves outputs.
 # Outputs are saved in a timestamped directory under "outputs/".
 # Example: ./run_vol3_scan.sh memory.raw
