@@ -1,0 +1,10 @@
+Image: /home/ubuntu_user/volatility3/Cleanmemdump.mem
+Timestamp: 20251024T034306Z
+Plugins run:
+- windows.pslist
+- windows.psscan
+- windows.netscan
+- windows.cmdline
+- windows.dlllist
+- windows.malfind
+- windows.clipboard
