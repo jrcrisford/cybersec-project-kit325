@@ -34,7 +34,7 @@ PLUGINS=(
 # Run each plugin and capture output and exit status
 for plugin in "${PLUGINS[@]}"; do
   outfile="${OUTDIR}/${BASENAME}_${plugin//./_}.txt"
-  echo "Running: python3 ./volatility3/vol.py -f \"$IMAGE\" $plugin  -> $outfile"
+  echo "Running: python3 ~/volatility3/vol.py -f \"$IMAGE\" $plugin  -> $outfile"
   if python3 ./volatility3/vol.py -f "$IMAGE" $plugin > "$outfile" 2>&1; then
     echo "[OK] $plugin"
   else
