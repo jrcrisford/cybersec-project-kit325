@@ -30,7 +30,7 @@ PLUGINS=(
 for plugin in "${PLUGINS[@]}"; do
   outfile="${OUTDIR}/${BASENAME}_${plugin//./_}.txt"
   echo "Running: python3 ./volatility3/vol.py -f \"$IMAGE\" $plugin -> $outfile"
-  if python3 ./volatility3/vol.py -f "$IMAGE" $plugin > "$outfile" 2>&1; then
+  if python3 ~/volatility3/vol.py -f "$IMAGE" $plugin > "$outfile" 2>&1; then
     echo "[OK] $plugin"
   else
     echo "[WARN] $plugin had errors. See $outfile"
@@ -40,7 +40,7 @@ done
 # Optional MBR extraction
 echo "Running optional MBR extraction..."
 MBR_OUT="${OUTDIR}/${BASENAME}_windows_mbr.txt"
-if python3 ./volatility3/vol.py -f "$IMAGE" windows.mbr > "$MBR_OUT" 2>&1; then
+if python3 ~/volatility3/vol.py -f "$IMAGE" windows.mbr > "$MBR_OUT" 2>&1; then
   echo "[OK] windows.mbr"
 else
   echo "[INFO] windows.mbr not supported on this image."
@@ -49,7 +49,7 @@ fi
 # Extract registry hives and attempt TimeZoneInformation key
 echo "Listing loaded registry hives..."
 HIVELIST_OUT="${OUTDIR}/${BASENAME}_registry_hivelist.txt"
-if python3 ./volatility3/vol.py -f "$IMAGE" windows.registry.hivelist > "$HIVELIST_OUT" 2>&1; then
+if python3 ~/volatility3/vol.py -f "$IMAGE" windows.registry.hivelist > "$HIVELIST_OUT" 2>&1; then
   echo "[OK] windows.registry.hivelist"
 else
   echo "[WARN] windows.registry.hivelist failed."
@@ -60,7 +60,7 @@ TZ_OUT="${OUTDIR}/${BASENAME}_registry_timezone.txt"
 SYSTEM_HIVE=$(grep -i "SYSTEM" "$HIVELIST_OUT" | awk '{print $1}' | head -n 1 || true)
 if [[ -n "$SYSTEM_HIVE" ]]; then
   echo "Searching for TimeZoneInformation key in SYSTEM hive..."
-  if python3 ./volatility3/vol.py -f "$IMAGE" windows.registry.find_key --hive "$SYSTEM_HIVE" --key "ControlSet001\Control\TimeZoneInformation" > "$TZ_OUT" 2>&1; then
+  if python3 ~/volatility3/vol.py -f "$IMAGE" windows.registry.find_key --hive "$SYSTEM_HIVE" --key "ControlSet001\Control\TimeZoneInformation" > "$TZ_OUT" 2>&1; then
     echo "[OK] windows.registry.find_key (TimeZoneInformation)"
   else
     echo "[WARN] TimeZoneInformation key not found in SYSTEM hive."
