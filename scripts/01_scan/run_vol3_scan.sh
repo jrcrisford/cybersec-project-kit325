@@ -6,8 +6,6 @@
 # Example: ./run_vol3_scan.sh memory.raw
 # Requires: volatility3 in PATH (volatility3 CLI)
 
-### TO BE TESTED - BASIC VERSION
-
 set -euo pipefail
 
 IMAGE="$1"
@@ -20,7 +18,7 @@ mkdir -p "$OUTDIR"
 echo "Image: $IMAGE"
 echo "Output dir: $OUTDIR"
 
-# List of Volatility3 plugins to run (Windows-focused) - ADD MORE AS NEEDED
+# List of Volatility3 plugins to run (Windows-focused)
 PLUGINS=(
   "windows.pslist"
   "windows.psscan"
@@ -28,7 +26,9 @@ PLUGINS=(
   "windows.cmdline"
   "windows.dlllist"
   "windows.malfind"
-  "windows.clipboard"
+  "windows.consoles"
+  "windows.cmdscan"
+  "windows.envars"
 )
 
 # Run each plugin and capture output and exit status
