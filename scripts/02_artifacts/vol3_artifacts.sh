@@ -33,8 +33,8 @@ USER_PLUGINS=(
 
 for plugin in "${USER_PLUGINS[@]}"; do
   outfile="${OUTDIR}/${BASENAME}_${plugin//./_}.txt"
-  echo "Running: python3 ./volatility3/vol.py -f \"$IMAGE\" $plugin -> $outfile"
-  if python3 ./volatility3/vol.py -f "$IMAGE" $plugin > "$outfile" 2>&1; then
+  echo "Running: python3 ~/volatility3/vol.py -f \"$IMAGE\" $plugin -> $outfile"
+  if python3 ~/volatility3/vol.py -f "$IMAGE" $plugin > "$outfile" 2>&1; then
     echo "[OK] $plugin"
   else
     echo "[WARN] $plugin had errors. See $outfile"
@@ -52,8 +52,8 @@ CREDENTIAL_PLUGINS=(
 
 for plugin in "${CREDENTIAL_PLUGINS[@]}"; do
   outfile="${OUTDIR}/${BASENAME}_${plugin//./_}.txt"
-  echo "Running: python3 ./volatility3/vol.py -f \"$IMAGE\" $plugin -> $outfile"
-  if python3 ./volatility3/vol.py -f "$IMAGE" $plugin > "$outfile" 2>&1; then
+  echo "Running: python3 ~/volatility3/vol.py -f \"$IMAGE\" $plugin -> $outfile"
+  if python3 ~/volatility3/vol.py -f "$IMAGE" $plugin > "$outfile" 2>&1; then
     echo "[OK] $plugin"
   else
     echo "[WARN] $plugin had errors. See $outfile"
@@ -74,8 +74,8 @@ MALWARE_PLUGINS=(
 
 for plugin in "${MALWARE_PLUGINS[@]}"; do
   outfile="${OUTDIR}/${BASENAME}_${plugin//./_}.txt"
-  echo "Running: python3 ./volatility3/vol.py -f \"$IMAGE\" $plugin -> $outfile"
-  if python3 ./volatility3/vol.py -f "$IMAGE" $plugin > "$outfile" 2>&1; then
+  echo "Running: python3 ~/volatility3/vol.py -f \"$IMAGE\" $plugin -> $outfile"
+  if python3 ~/volatility3/vol.py -f "$IMAGE" $plugin > "$outfile" 2>&1; then
     echo "[OK] $plugin"
   else
     echo "[WARN] $plugin had errors. See $outfile"
@@ -94,8 +94,8 @@ TIMELINE_PLUGINS=(
 
 for plugin in "${TIMELINE_PLUGINS[@]}"; do
   outfile="${OUTDIR}/${BASENAME}_${plugin//./_}.txt"
-  echo "Running: python3 ./volatility3/vol.py -f \"$IMAGE\" $plugin -> $outfile"
-  if python3 ./volatility3/vol.py -f "$IMAGE" $plugin > "$outfile" 2>&1; then
+  echo "Running: python3 ~/volatility3/vol.py -f \"$IMAGE\" $plugin -> $outfile"
+  if python3 ~/volatility3/vol.py -f "$IMAGE" $plugin > "$outfile" 2>&1; then
     echo "[OK] $plugin"
   else
     echo "[WARN] $plugin had errors. See $outfile"
@@ -114,8 +114,8 @@ ADVANCED_PLUGINS=(
 
 for plugin in "${ADVANCED_PLUGINS[@]}"; do
   outfile="${OUTDIR}/${BASENAME}_${plugin//./_}.txt"
-  echo "Running: python3 ./volatility3/vol.py -f \"$IMAGE\" $plugin -> $outfile"
-  if python3 ./volatility3/vol.py -f "$IMAGE" $plugin > "$outfile" 2>&1; then
+  echo "Running: python3 ~/volatility3/vol.py -f \"$IMAGE\" $plugin -> $outfile"
+  if python3 ~/volatility3/vol.py -f "$IMAGE" $plugin > "$outfile" 2>&1; then
     echo "[OK] $plugin"
   else
     echo "[WARN] $plugin had errors. See $outfile"
