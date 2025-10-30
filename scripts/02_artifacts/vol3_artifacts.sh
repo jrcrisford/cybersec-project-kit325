@@ -89,7 +89,7 @@ TIMELINE_PLUGINS=(
   "windows.filescan"
   "windows.handles"
   "windows.vadinfo"
-  "windows.mftscan"
+  "windows.mftscan.MFTScan"
 )
 
 for plugin in "${TIMELINE_PLUGINS[@]}"; do
