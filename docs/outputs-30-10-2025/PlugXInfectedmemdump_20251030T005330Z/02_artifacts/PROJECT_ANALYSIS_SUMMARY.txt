@@ -1,0 +1,30 @@
+=== KIT325 MEMORY FORENSICS PROJECT SUMMARY ===
+Student/Group: Aashish Anand/Group #09
+Analysis Date: 20251030T005330Z
+Memory Image: /home/ubuntu_user/volatility3/PlugXInfectedmemdump.mem
+
+=== PROJECT OBJECTIVES ADDRESSED ===
+Objective 4.iii: User sessions and logged-in users extracted
+Objective 4.iv: Credential remnants and sensitive data recovered
+Objective 4.v: Persistence and malware artifacts identified
+Objective 5: System timeline and activity narrative created
+
+=== FORENSIC FINDINGS FOR REPORT ===
+1. User Activity Analysis:
+   - Check windows_sessions.txt for active/terminated sessions
+   - Review windows_privileges.txt for privilege escalation
+
+2. Credential Security Assessment:
+   - Password hashes extracted (hashdump.txt)
+   - LSA secrets analyzed (lsadump.txt)
+   - Cached credentials reviewed (cachedump.txt)
+
+3. Malware & Persistence Indicators:
+   - System call hooks checked (ssdt.txt)
+   - Suspicious threads identified (suspicious_threads.txt)
+   - Module integrity verified (modules.txt, modscan.txt)
+
+4. File System Activity:
+   - Recent file access patterns (filescan.txt)
+   - Open file handles (handles.txt)
+   - Memory mapped files (vadinfo.txt)

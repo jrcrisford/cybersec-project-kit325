@@ -1,0 +1,73 @@
+Progress:    0.00		Scanning FileLayer using PageMapScannerProgress:   23.33		Scanning FileLayer using PageMapScannerProgress:  100.00		Stacking attempts finished             Progress:    0.00		Scanning memory_layer using BytesScannerProgress:    0.78		Scanning memory_layer using BytesScannerProgress:    1.56		Scanning memory_layer using BytesScannerProgress:    2.34		Scanning memory_layer using BytesScannerProgress:    3.13		Scanning memory_layer using BytesScannerProgress:    3.91		Scanning memory_layer using BytesScannerProgress:    4.69		Scanning memory_layer using BytesScannerProgress:    5.47		Scanning memory_layer using BytesScannerProgress:    6.25		Scanning memory_layer using BytesScannerProgress:    7.03		Scanning memory_layer using BytesScannerProgress:    7.81		Scanning memory_layer using BytesScannerProgress:    8.59		Scanning memory_layer using BytesScannerProgress:    9.38		Scanning memory_layer using BytesScannerProgress:   10.16		Scanning memory_layer using BytesScannerProgress:   10.94		Scanning memory_layer using BytesScannerProgress:   11.72		Scanning memory_layer using BytesScannerProgress:   12.50		Scanning memory_layer using BytesScannerProgress:   13.28		Scanning memory_layer using BytesScannerProgress:   14.06		Scanning memory_layer using BytesScannerProgress:   14.84		Scanning memory_layer using BytesScannerProgress:   15.63		Scanning memory_layer using BytesScannerProgress:   16.41		Scanning memory_layer using BytesScannerProgress:   17.19		Scanning memory_layer using BytesScannerProgress:   17.97		Scanning memory_layer using BytesScannerProgress:   18.75		Scanning memory_layer using BytesScannerProgress:   19.53		Scanning memory_layer using BytesScannerProgress:   20.31		Scanning memory_layer using BytesScannerProgress:   21.09		Scanning memory_layer using BytesScannerProgress:   21.88		Scanning memory_layer using BytesScannerProgress:   22.66		Scanning memory_layer using BytesScannerProgress:   23.44		Scanning memory_layer using BytesScannerProgress:   24.22		Scanning memory_layer using BytesScannerProgress:   25.00		Scanning memory_layer using BytesScannerProgress:   25.78		Scanning memory_layer using BytesScannerProgress:   26.56		Scanning memory_layer using BytesScannerProgress:   27.34		Scanning memory_layer using BytesScannerProgress:   28.13		Scanning memory_layer using BytesScannerProgress:   28.91		Scanning memory_layer using BytesScannerProgress:   29.69		Scanning memory_layer using BytesScannerProgress:   30.47		Scanning memory_layer using BytesScannerProgress:   31.25		Scanning memory_layer using BytesScannerProgress:   32.03		Scanning memory_layer using BytesScannerProgress:   32.81		Scanning memory_layer using BytesScannerProgress:   33.59		Scanning memory_layer using BytesScannerProgress:   34.38		Scanning memory_layer using BytesScannerProgress:   35.16		Scanning memory_layer using BytesScannerProgress:   35.94		Scanning memory_layer using BytesScannerProgress:   36.72		Scanning memory_layer using BytesScannerProgress:   37.50		Scanning memory_layer using BytesScannerProgress:   38.28		Scanning memory_layer using BytesScannerProgress:   39.06		Scanning memory_layer using BytesScannerProgress:   39.85		Scanning memory_layer using BytesScannerProgress:   40.63		Scanning memory_layer using BytesScannerProgress:   41.41		Scanning memory_layer using BytesScannerProgress:   42.19		Scanning memory_layer using BytesScannerProgress:   42.97		Scanning memory_layer using BytesScannerProgress:   43.75		Scanning memory_layer using BytesScannerProgress:   44.53		Scanning memory_layer using BytesScannerProgress:   45.31		Scanning memory_layer using BytesScannerProgress:   46.10		Scanning memory_layer using BytesScannerProgress:   46.88		Scanning memory_layer using BytesScannerProgress:   47.66		Scanning memory_layer using BytesScannerProgress:   48.44		Scanning memory_layer using BytesScannerProgress:   49.22		Scanning memory_layer using BytesScannerProgress:   50.00		Scanning memory_layer using BytesScannerProgress:   50.78		Scanning memory_layer using BytesScannerProgress:   51.56		Scanning memory_layer using BytesScannerProgress:   52.35		Scanning memory_layer using BytesScannerProgress:   53.13		Scanning memory_layer using BytesScannerProgress:   53.91		Scanning memory_layer using BytesScannerProgress:   54.69		Scanning memory_layer using BytesScannerProgress:   55.47		Scanning memory_layer using BytesScannerProgress:   56.25		Scanning memory_layer using BytesScannerProgress:   57.03		Scanning memory_layer using BytesScannerProgress:   57.81		Scanning memory_layer using BytesScannerProgress:   58.60		Scanning memory_layer using BytesScannerProgress:   59.38		Scanning memory_layer using BytesScannerProgress:   60.16		Scanning memory_layer using BytesScannerProgress:   60.94		Scanning memory_layer using BytesScannerProgress:   61.72		Scanning memory_layer using BytesScannerProgress:   62.50		Scanning memory_layer using BytesScannerProgress:   63.28		Scanning memory_layer using BytesScannerProgress:   64.06		Scanning memory_layer using BytesScannerProgress:   64.85		Scanning memory_layer using BytesScannerProgress:   65.63		Scanning memory_layer using BytesScannerProgress:   66.41		Scanning memory_layer using BytesScannerProgress:   67.19		Scanning memory_layer using BytesScannerProgress:   67.97		Scanning memory_layer using BytesScannerProgress:   68.75		Scanning memory_layer using BytesScannerProgress:   69.53		Scanning memory_layer using BytesScannerProgress:   70.31		Scanning memory_layer using BytesScannerProgress:   71.10		Scanning memory_layer using BytesScannerProgress:   71.88		Scanning memory_layer using BytesScannerProgress:   72.66		Scanning memory_layer using BytesScannerProgress:   73.44		Scanning memory_layer using BytesScannerProgress:   74.22		Scanning memory_layer using BytesScannerProgress:   75.00		Scanning memory_layer using BytesScannerProgress:   75.78		Scanning memory_layer using BytesScannerProgress:   76.57		Scanning memory_layer using BytesScannerProgress:   77.35		Scanning memory_layer using BytesScannerProgress:   78.13		Scanning memory_layer using BytesScannerProgress:   78.91		Scanning memory_layer using BytesScannerProgress:   79.69		Scanning memory_layer using BytesScannerProgress:   80.47		Scanning memory_layer using BytesScannerProgress:   81.25		Scanning memory_layer using BytesScannerProgress:   82.03		Scanning memory_layer using BytesScannerProgress:   82.82		Scanning memory_layer using BytesScannerProgress:   83.60		Scanning memory_layer using BytesScannerProgress:   84.38		Scanning memory_layer using BytesScannerProgress:   85.16		Scanning memory_layer using BytesScannerProgress:   85.94		Scanning memory_layer using BytesScannerProgress:   86.72		Scanning memory_layer using BytesScannerProgress:   87.50		Scanning memory_layer using BytesScannerProgress:   88.28		Scanning memory_layer using BytesScannerProgress:   89.07		Scanning memory_layer using BytesScannerProgress:   89.85		Scanning memory_layer using BytesScannerProgress:   90.63		Scanning memory_layer using BytesScannerProgress:   91.41		Scanning memory_layer using BytesScannerProgress:   92.19		Scanning memory_layer using BytesScannerProgress:   92.97		Scanning memory_layer using BytesScannerProgress:   93.75		Scanning memory_layer using BytesScannerProgress:   94.53		Scanning memory_layer using BytesScannerProgress:   95.32		Scanning memory_layer using BytesScannerProgress:   96.10		Scanning memory_layer using BytesScannerProgress:   96.88		Scanning memory_layer using BytesScannerProgress:   97.66		Scanning memory_layer using BytesScannerProgress:   98.44		Scanning memory_layer using BytesScannerProgress:   99.22		Scanning memory_layer using BytesScannerProgress:    0.00		Scanning memory_layer using BytesScannerProgress:    0.78		Scanning memory_layer using BytesScannerProgress:    1.56		Scanning memory_layer using BytesScannerProgress:    2.34		Scanning memory_layer using BytesScannerProgress:    3.13		Scanning memory_layer using BytesScannerProgress:    3.91		Scanning memory_layer using BytesScannerProgress:    4.69		Scanning memory_layer using BytesScannerProgress:    5.47		Scanning memory_layer using BytesScannerProgress:    6.25		Scanning memory_layer using BytesScannerProgress:    7.03		Scanning memory_layer using BytesScannerProgress:    7.81		Scanning memory_layer using BytesScannerProgress:    8.59		Scanning memory_layer using BytesScannerProgress:    9.38		Scanning memory_layer using BytesScannerProgress:   10.16		Scanning memory_layer using BytesScannerProgress:   10.94		Scanning memory_layer using BytesScannerProgress:   11.72		Scanning memory_layer using BytesScannerProgress:   12.50		Scanning memory_layer using BytesScannerProgress:   13.28		Scanning memory_layer using BytesScannerProgress:   14.06		Scanning memory_layer using BytesScannerProgress:   14.84		Scanning memory_layer using BytesScannerProgress:   15.63		Scanning memory_layer using BytesScannerProgress:   16.41		Scanning memory_layer using BytesScannerProgress:   17.19		Scanning memory_layer using BytesScannerProgress:   17.97		Scanning memory_layer using BytesScannerProgress:   18.75		Scanning memory_layer using BytesScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:   32.62		Scanning layer_name using PdbSignatureScannerProgress:  100.00		PDB scanning finished                        Volatility 3 Framework 2.27.0
+
+PID	Process	Args
+
+4	System	-
+72	Registry	-
+324	smss.exe	\SystemRoot\System32\smss.exe
+412	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+480	wininit.exe	wininit.exe
+488	csrss.exe	%SystemRoot%\system32\csrss.exe ObjectDirectory=\Windows SharedSection=1024,20480,768 Windows=On SubSystemType=Windows ServerDll=basesrv,1 ServerDll=winsrv:UserServerDllInitialization,3 ServerDll=sxssrv,4 ProfileControl=Off MaxRequestThreads=16
+548	winlogon.exe	winlogon.exe
+572	services.exe	C:\Windows\system32\services.exe
+580	lsass.exe	C:\Windows\system32\lsass.exe
+700	fontdrvhost.ex	"fontdrvhost.exe"
+708	fontdrvhost.ex	"fontdrvhost.exe"
+716	svchost.exe	C:\Windows\system32\svchost.exe -k DcomLaunch -p
+796	svchost.exe	C:\Windows\system32\svchost.exe -k RPCSS -p
+884	dwm.exe	"dwm.exe"
+980	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNoNetwork -p
+1004	svchost.exe	C:\Windows\system32\svchost.exe -k netsvcs -p
+1012	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+692	svchost.exe	C:\Windows\System32\svchost.exe -k LocalSystemNetworkRestricted -p
+940	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -p
+1144	svchost.exe	C:\Windows\System32\svchost.exe -k NetworkService -p
+1184	svchost.exe	C:\Windows\system32\svchost.exe -k LocalService -p
+1240	svchost.exe	C:\Windows\system32\svchost.exe -k LocalSystemNetworkRestricted
+1288	VBoxService.ex	C:\Windows\System32\VBoxService.exe
+1356	MemCompression	-
+1520	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+1604	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted -p
+1612	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNetworkRestricted -p
+1716	spoolsv.exe	C:\Windows\System32\spoolsv.exe
+1724	svchost.exe	C:\Windows\system32\svchost.exe -k appmodel -p
+1768	svchost.exe	C:\Windows\system32\svchost.exe -k LocalServiceNoNetworkFirewall -p
+1988	svchost.exe	C:\Windows\system32\svchost.exe -k NetworkServiceNetworkRestricted -p
+1060	AppleMobileDev	"C:\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe"
+868	mDNSResponder.	"C:\Program Files\Bonjour\mDNSResponder.exe"
+1160	CmWebAdmin.exe	"C:\Program Files\CodeMeter\Runtime\bin\CmWebAdmin.exe"
+1376	CodeMeter.exe	"C:\Program Files\CodeMeter\Runtime\bin\CodeMeter.exe"
+1388	svchost.exe	C:\Windows\System32\svchost.exe -k utcsvc -p
+2084	MsMpEng.exe	"C:\Program Files\Windows Defender\MsMpEng.exe"
+2304	svchost.exe	C:\Windows\system32\svchost.exe -k wsappx -p
+2312	SearchIndexer.	C:\Windows\system32\SearchIndexer.exe /Embedding
+2664	svchost.exe	C:\Windows\System32\svchost.exe -k LocalServiceNetworkRestricted
+2776	WmiPrvSE.exe	C:\Windows\system32\wbem\wmiprvse.exe
+2956	sihost.exe	sihost.exe
+2968	svchost.exe	C:\Windows\system32\svchost.exe -k UnistackSvcGroup
+1660	NisSrv.exe	"C:\Program Files\Windows Defender\NisSrv.exe"
+2648	taskhostw.exe	taskhostw.exe {222A245B-E637-4AE9-A93F-A59CA119A75E}
+2936	MicrosoftEdgeU	-
+3168	userinit.exe	-
+3216	explorer.exe	C:\Windows\Explorer.EXE
+3472	ctfmon.exe	"ctfmon.exe"
+3544	svchost.exe	C:\Windows\system32\svchost.exe -k ClipboardSvcGroup -p
+3744	dllhost.exe	C:\Windows\system32\DllHost.exe /Processid:{3EB3C877-1F16-487C-9050-104DBCD66683}
+3844	StartMenuExper	"C:\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe" -ServerName:App.AppXywbrabmsek0gm3tkwpr5kwzbs55tkqay.mca
+3940	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+4080	SearchApp.exe	-
+724	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+4140	backgroundTask	-
+4296	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding
+4692	smartscreen.ex	C:\Windows\System32\smartscreen.exe -Embedding
+4732	SecurityHealth	"C:\Windows\System32\SecurityHealthSystray.exe" 
+4764	SecurityHealth	C:\Windows\system32\SecurityHealthService.exe
+4816	VBoxTray.exe	"C:\Windows\System32\VBoxTray.exe" 
+4836	svchost.exe	C:\Windows\System32\svchost.exe -k NetworkService -p
+4996	OneDrive.exe	"C:\Users\windows10_user\AppData\Local\Microsoft\OneDrive\OneDrive.exe" /background
+2612	CodeMeterCC.ex	"C:\Program Files\CodeMeter\Runtime\bin\CodeMeterCC.exe" 
+4988	audiodg.exe	C:\Windows\system32\AUDIODG.EXE 0x4e8
+496	FTK Imager.exe	"C:\Program Files\AccessData\FTK Imager\FTK Imager.exe" 
+5636	WinStore.App.e	"C:\Program Files\WindowsApps\Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe\WinStore.App.exe" -ServerName:App.AppXc75wvwned5vhz4xyxxecvgdjhdkgsdza.mca
+5644	ApplicationFra	C:\Windows\system32\ApplicationFrameHost.exe -Embedding
+5760	RuntimeBroker.	C:\Windows\System32\RuntimeBroker.exe -Embedding

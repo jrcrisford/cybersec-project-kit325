@@ -1,0 +1,12 @@
+Image: /home/ubuntu_user/volatility3/PlugXInfectedmemdump.mem
+Timestamp: 20251030T002059Z
+Plugins run:
+- windows.pslist
+- windows.psscan
+- windows.netscan
+- windows.cmdline
+- windows.dlllist
+- windows.malfind
+- windows.consoles
+- windows.cmdscan
+- windows.envars
