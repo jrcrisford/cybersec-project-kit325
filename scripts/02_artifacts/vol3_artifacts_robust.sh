@@ -31,19 +31,19 @@ run_robust_plugin() {
     echo "Attempting: $plugin"
     
     # Strategy 1: Normal execution
-    if python3 ./volatility3/vol.py -f "$IMAGE" $plugin > "$outfile" 2>&1; then
+    if python3 ~/volatility3/vol.py -f "$IMAGE" $plugin > "$outfile" 2>&1; then
         echo "[OK] $plugin (normal)"
         success=true
     else
         # Strategy 2: Try with --single-location
         echo "  Retrying with --single-location..."
-        if python3 ./volatility3/vol.py -f "$IMAGE" --single-location file://"$IMAGE" $plugin > "$outfile" 2>&1; then
+        if python3 ~/volatility3/vol.py -f "$IMAGE" --single-location file://"$IMAGE" $plugin > "$outfile" 2>&1; then
             echo "[OK] $plugin (single-location)"
             success=true
         else
             # Strategy 3: Try with different scanning methods
             echo "  Retrying with alternative scanning..."
-            if python3 ./volatility3/vol.py -f "$IMAGE" $plugin --scanning-method all > "$outfile" 2>&1; then
+            if python3 ~/volatility3/vol.py -f "$IMAGE" $plugin --scanning-method all > "$outfile" 2>&1; then
                 echo "[OK] $plugin (alternative scan)"
                 success=true
             fi
