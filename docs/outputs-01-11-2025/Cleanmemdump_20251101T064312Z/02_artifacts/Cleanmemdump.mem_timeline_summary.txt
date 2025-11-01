@@ -1,0 +1,25 @@
+=== MEMORY FORENSICS TIMELINE SUMMARY ===
+Image: /home/ubuntu_user/volatility3/Cleanmemdump.mem
+Analysis Timestamp: 20251101T064312Z
+Generated for: KIT325 Memory Forensics Project
+
+=== KEY SYSTEM EVENTS ===
+--- User Sessions ---
+Session ID	Session Type	Process ID	Process	User Name	Create Time
+--- Recent File Handles ---
+4	System	0xb78aa5fb2340	0x5c	Process	0x102a	svchost.exe Pid 2968
+4	System	0xb78aa08e8040	0xec	Process	0x102a	smss.exe Pid 324
+4	System	0xb78aa08e8040	0x134	Process	0x1fffff	smss.exe Pid 324
+4	System	0xb78aa08e8040	0x148	Process	0x102a	smss.exe Pid 324
+4	System	0xb78aa4fb6080	0x14c	Process	0x102a	csrss.exe Pid 488
+4	System	0xb78aa08e8040	0x200	Process	0x102a	smss.exe Pid 324
+4	System	0xb78aa4fcf080	0x35c	Process	0x102a	winlogon.exe Pid 548
+4	System	0xb78aa308bd40	0x3b0	File	0x150003	\Device\HarddiskVolume1\DumpStack.log.tmp
+4	System	0xb78aa4e86080	0x438	Process	0x102a	csrss.exe Pid 412
+4	System	0xb78aa4e86080	0x43c	Process	0x102a	csrss.exe Pid 412
+4	System	0xb78aa4e86080	0x440	Process	0x1fffff	csrss.exe Pid 412
+4	System	0xb78aa4e86080	0x48c	Process	0x40	csrss.exe Pid 412
+4	System	0xb78aa4e86080	0x490	Process	0x40	csrss.exe Pid 412
+4	System	0xb78aa56362c0	0x4b0	Process	0x102a	svchost.exe Pid 796
+4	System	0xb78aa56362c0	0x4b4	Process	0x102a	svchost.exe Pid 796
+No file handles found
