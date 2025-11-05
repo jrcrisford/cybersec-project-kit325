@@ -1,0 +1,2960 @@
+Progress:    0.00		Scanning FileLayer using PageMapScannerProgress:   23.33		Scanning FileLayer using PageMapScannerProgress:  100.00		Stacking attempts finished             Progress:    0.00		Scanning memory_layer using BytesScannerProgress:    0.78		Scanning memory_layer using BytesScannerProgress:    1.56		Scanning memory_layer using BytesScannerProgress:    2.34		Scanning memory_layer using BytesScannerProgress:    3.13		Scanning memory_layer using BytesScannerProgress:    3.91		Scanning memory_layer using BytesScannerProgress:    4.69		Scanning memory_layer using BytesScannerProgress:    5.47		Scanning memory_layer using BytesScannerProgress:    6.25		Scanning memory_layer using BytesScannerProgress:    7.03		Scanning memory_layer using BytesScannerProgress:    7.81		Scanning memory_layer using BytesScannerProgress:    8.59		Scanning memory_layer using BytesScannerProgress:    9.38		Scanning memory_layer using BytesScannerProgress:   10.16		Scanning memory_layer using BytesScannerProgress:   10.94		Scanning memory_layer using BytesScannerProgress:   11.72		Scanning memory_layer using BytesScannerProgress:   12.50		Scanning memory_layer using BytesScannerProgress:   13.28		Scanning memory_layer using BytesScannerProgress:   14.06		Scanning memory_layer using BytesScannerProgress:   14.84		Scanning memory_layer using BytesScannerProgress:   15.63		Scanning memory_layer using BytesScannerProgress:   16.41		Scanning memory_layer using BytesScannerProgress:   17.19		Scanning memory_layer using BytesScannerProgress:   17.97		Scanning memory_layer using BytesScannerProgress:   18.75		Scanning memory_layer using BytesScannerProgress:   19.53		Scanning memory_layer using BytesScannerProgress:   20.31		Scanning memory_layer using BytesScannerProgress:   21.09		Scanning memory_layer using BytesScannerProgress:   21.88		Scanning memory_layer using BytesScannerProgress:   22.66		Scanning memory_layer using BytesScannerProgress:   23.44		Scanning memory_layer using BytesScannerProgress:   24.22		Scanning memory_layer using BytesScannerProgress:   25.00		Scanning memory_layer using BytesScannerProgress:   25.78		Scanning memory_layer using BytesScannerProgress:   26.56		Scanning memory_layer using BytesScannerProgress:   27.34		Scanning memory_layer using BytesScannerProgress:   28.13		Scanning memory_layer using BytesScannerProgress:   28.91		Scanning memory_layer using BytesScannerProgress:   29.69		Scanning memory_layer using BytesScannerProgress:   30.47		Scanning memory_layer using BytesScannerProgress:   31.25		Scanning memory_layer using BytesScannerProgress:   32.03		Scanning memory_layer using BytesScannerProgress:   32.81		Scanning memory_layer using BytesScannerProgress:   33.59		Scanning memory_layer using BytesScannerProgress:   34.38		Scanning memory_layer using BytesScannerProgress:   35.16		Scanning memory_layer using BytesScannerProgress:   35.94		Scanning memory_layer using BytesScannerProgress:   36.72		Scanning memory_layer using BytesScannerProgress:   37.50		Scanning memory_layer using BytesScannerProgress:   38.28		Scanning memory_layer using BytesScannerProgress:   39.06		Scanning memory_layer using BytesScannerProgress:   39.85		Scanning memory_layer using BytesScannerProgress:   40.63		Scanning memory_layer using BytesScannerProgress:   41.41		Scanning memory_layer using BytesScannerProgress:   42.19		Scanning memory_layer using BytesScannerProgress:   42.97		Scanning memory_layer using BytesScannerProgress:   43.75		Scanning memory_layer using BytesScannerProgress:   44.53		Scanning memory_layer using BytesScannerProgress:   45.31		Scanning memory_layer using BytesScannerProgress:   46.10		Scanning memory_layer using BytesScannerProgress:   46.88		Scanning memory_layer using BytesScannerProgress:   47.66		Scanning memory_layer using BytesScannerProgress:   48.44		Scanning memory_layer using BytesScannerProgress:   49.22		Scanning memory_layer using BytesScannerProgress:   50.00		Scanning memory_layer using BytesScannerProgress:   50.78		Scanning memory_layer using BytesScannerProgress:   51.56		Scanning memory_layer using BytesScannerProgress:   52.35		Scanning memory_layer using BytesScannerProgress:   53.13		Scanning memory_layer using BytesScannerProgress:   53.91		Scanning memory_layer using BytesScannerProgress:   54.69		Scanning memory_layer using BytesScannerProgress:   55.47		Scanning memory_layer using BytesScannerProgress:   56.25		Scanning memory_layer using BytesScannerProgress:   57.03		Scanning memory_layer using BytesScannerProgress:   57.81		Scanning memory_layer using BytesScannerProgress:   58.60		Scanning memory_layer using BytesScannerProgress:   59.38		Scanning memory_layer using BytesScannerProgress:   60.16		Scanning memory_layer using BytesScannerProgress:   60.94		Scanning memory_layer using BytesScannerProgress:   61.72		Scanning memory_layer using BytesScannerProgress:   62.50		Scanning memory_layer using BytesScannerProgress:   63.28		Scanning memory_layer using BytesScannerProgress:   64.06		Scanning memory_layer using BytesScannerProgress:   64.85		Scanning memory_layer using BytesScannerProgress:   65.63		Scanning memory_layer using BytesScannerProgress:   66.41		Scanning memory_layer using BytesScannerProgress:   67.19		Scanning memory_layer using BytesScannerProgress:   67.97		Scanning memory_layer using BytesScannerProgress:   68.75		Scanning memory_layer using BytesScannerProgress:   69.53		Scanning memory_layer using BytesScannerProgress:   70.31		Scanning memory_layer using BytesScannerProgress:   71.10		Scanning memory_layer using BytesScannerProgress:   71.88		Scanning memory_layer using BytesScannerProgress:   72.66		Scanning memory_layer using BytesScannerProgress:   73.44		Scanning memory_layer using BytesScannerProgress:   74.22		Scanning memory_layer using BytesScannerProgress:   75.00		Scanning memory_layer using BytesScannerProgress:   75.78		Scanning memory_layer using BytesScannerProgress:   76.57		Scanning memory_layer using BytesScannerProgress:   77.35		Scanning memory_layer using BytesScannerProgress:   78.13		Scanning memory_layer using BytesScannerProgress:   78.91		Scanning memory_layer using BytesScannerProgress:   79.69		Scanning memory_layer using BytesScannerProgress:   80.47		Scanning memory_layer using BytesScannerProgress:   81.25		Scanning memory_layer using BytesScannerProgress:   82.03		Scanning memory_layer using BytesScannerProgress:   82.82		Scanning memory_layer using BytesScannerProgress:   83.60		Scanning memory_layer using BytesScannerProgress:   84.38		Scanning memory_layer using BytesScannerProgress:   85.16		Scanning memory_layer using BytesScannerProgress:   85.94		Scanning memory_layer using BytesScannerProgress:   86.72		Scanning memory_layer using BytesScannerProgress:   87.50		Scanning memory_layer using BytesScannerProgress:   88.28		Scanning memory_layer using BytesScannerProgress:   89.07		Scanning memory_layer using BytesScannerProgress:   89.85		Scanning memory_layer using BytesScannerProgress:   90.63		Scanning memory_layer using BytesScannerProgress:   91.41		Scanning memory_layer using BytesScannerProgress:   92.19		Scanning memory_layer using BytesScannerProgress:   92.97		Scanning memory_layer using BytesScannerProgress:   93.75		Scanning memory_layer using BytesScannerProgress:   94.53		Scanning memory_layer using BytesScannerProgress:   95.32		Scanning memory_layer using BytesScannerProgress:   96.10		Scanning memory_layer using BytesScannerProgress:   96.88		Scanning memory_layer using BytesScannerProgress:   97.66		Scanning memory_layer using BytesScannerProgress:   98.44		Scanning memory_layer using BytesScannerProgress:   99.22		Scanning memory_layer using BytesScannerProgress:    0.00		Scanning memory_layer using BytesScannerProgress:    0.78		Scanning memory_layer using BytesScannerProgress:    1.56		Scanning memory_layer using BytesScannerProgress:    2.34		Scanning memory_layer using BytesScannerProgress:    3.13		Scanning memory_layer using BytesScannerProgress:    3.91		Scanning memory_layer using BytesScannerProgress:    4.69		Scanning memory_layer using BytesScannerProgress:    5.47		Scanning memory_layer using BytesScannerProgress:    6.25		Scanning memory_layer using BytesScannerProgress:    7.03		Scanning memory_layer using BytesScannerProgress:    7.81		Scanning memory_layer using BytesScannerProgress:    8.59		Scanning memory_layer using BytesScannerProgress:    9.38		Scanning memory_layer using BytesScannerProgress:   10.16		Scanning memory_layer using BytesScannerProgress:   10.94		Scanning memory_layer using BytesScannerProgress:   11.72		Scanning memory_layer using BytesScannerProgress:   12.50		Scanning memory_layer using BytesScannerProgress:   13.28		Scanning memory_layer using BytesScannerProgress:   14.06		Scanning memory_layer using BytesScannerProgress:   14.84		Scanning memory_layer using BytesScannerProgress:   15.63		Scanning memory_layer using BytesScannerProgress:   16.41		Scanning memory_layer using BytesScannerProgress:   17.19		Scanning memory_layer using BytesScannerProgress:   17.97		Scanning memory_layer using BytesScannerProgress:   18.75		Scanning memory_layer using BytesScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:   32.62		Scanning layer_name using PdbSignatureScannerProgress:  100.00		PDB scanning finished                        Volatility 3 Framework 2.27.0
+
+Offset	Name
+
+0xb78aa008d0a0	\$Extend\$RmMetadata\$TxfLog\$TxfLogContainer00000000000000000001
+0xb78aa008d380	\$Mft
+0xb78aa008d4f0	\$Mft::$BITMAP
+0xb78aa008dc20	\SystemRoot\System32\Config\TxR\{53b39e3e-18c4-11ea-a811-000d3aa4692b}.TM
+0xb78aa008dd90	\$LogFile
+0xb78aa008ea80	\$MftMirr
+0xb78aa008ebf0	\$BitMap
+0xb78aa012a0a0	\Windows\System32\drivers\mssmbios.sys
+0xb78aa012a380	\Windows\System32\drivers\npsvctrig.sys
+0xb78aa012a940	\Windows\System32\drivers\dfsc.sys
+0xb78aa012b1e0	\Windows\System32\drivers\Vid.sys
+0xb78aa012b630	\Windows\System32\drivers\winhvr.sys
+0xb78aa012b7a0	\Windows\System32\drivers\nsiproxy.sys
+0xb78aa012ba80	\Windows\System32\drivers\gpuenergydrv.sys
+0xb78aa012bd60	\Windows\System32\drivers\rdbss.sys
+0xb78aa01751e0	\Windows\SysWOW64\msftedit.dll
+0xb78aa0175370	\Windows\SysWOW64\sfc_os.dll
+0xb78aa0175500	\Windows\SysWOW64\edgehtml.dll
+0xb78aa0175690	\Windows\SysWOW64\RTWorkQ.dll
+0xb78aa0175820	\Windows\SysWOW64\prnfldr.dll
+0xb78aa01759b0	\Windows\SysWOW64\dsound.dll
+0xb78aa0175b40	\Windows\SysWOW64\Chakra.dll
+0xb78aa0175cd0	\Windows\SysWOW64\devrtl.dll
+0xb78aa0175e60	\Windows\SysWOW64\cryptui.dll
+0xb78aa0176180	\Windows\SysWOW64\dinput8.dll
+0xb78aa0176310	\Windows\System32\WMADMOE.DLL
+0xb78aa01764a0	\Windows\SysWOW64\oleacc.dll
+0xb78aa0176630	\Windows\SysWOW64\wdigest.dll
+0xb78aa01767c0	\Windows\SysWOW64\msimg32.dll
+0xb78aa0176950	\Windows\SysWOW64\twinapi.dll
+0xb78aa0176ae0	\Windows\SysWOW64\MP3DMOD.DLL
+0xb78aa0176c70	\Windows\SysWOW64\rtutils.dll
+0xb78aa0176e00	\Windows\SysWOW64\imgutil.dll
+0xb78aa0177120	\Windows\SysWOW64\msfeeds.dll
+0xb78aa01772b0	\Windows\SysWOW64\cabinet.dll
+0xb78aa0177440	\Windows\SysWOW64\mssprxy.dll
+0xb78aa01775d0	\Windows\System32\WWAHost.exe
+0xb78aa0177760	\Windows\SysWOW64\linkinfo.dll
+0xb78aa01778f0	\Windows\SysWOW64\MMDevAPI.dll
+0xb78aa0177a80	\Windows\SysWOW64\MrmCoreR.dll
+0xb78aa0177c10	\Windows\System32\wshext.dll
+0xb78aa0177da0	\Windows\SysWOW64\devobj.dll
+0xb78aa01780c0	\Windows\System32\WUDFHost.exe
+0xb78aa01783e0	\Windows\SysWOW64\Windows.Graphics.dll
+0xb78aa0178570	\Windows\SysWOW64\PhotoMetadataHandler.dll
+0xb78aa0178700	\Windows\SysWOW64\wbemcomn.dll
+0xb78aa0178890	\Windows\System32\XamlTileRender.dll
+0xb78aa0178a20	\Windows\SysWOW64\Windows.Globalization.dll
+0xb78aa0178bb0	\Windows\System32\wscinterop.dll
+0xb78aa0178d40	\Windows\SysWOW64\AudioSes.dll
+0xb78aa0178ed0	\Windows\SysWOW64\WindowsCodecsExt.dll
+0xb78aa01791f0	\Windows\SysWOW64\actxprxy.dll
+0xb78aa0179380	\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ShellExperienceHost.exe
+0xb78aa0179510	\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApi.CppWinrt.dll
+0xb78aa01796a0	\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\Windows.UI.ActionCenter.dll
+0xb78aa0179830	\Windows\System32\en-GB\shell32.dll.mui
+0xb78aa01799c0	\Users\windows10_user\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\INetCache\JVL8WY5H\WI20_TempsaDropTomorrow_39[1].svg
+0xb78aa0179b50	\Windows\System32\WorkFoldersShell.dll
+0xb78aa0179ce0	\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApi.ProxyStub.dll
+0xb78aa0179e70	\Windows\SystemApps\Microsoft.LockApp_cw5n1h2txyewy\LockApp.exe
+0xb78aa017a190	\Windows\SysWOW64\mfmp4srcsnk.dll
+0xb78aa017a320	\Windows\SysWOW64\WindowsCodecs.dll
+0xb78aa017a4b0	\Windows\SysWOW64\Windows.UI.Xaml.dll
+0xb78aa017a640	\Windows\SysWOW64\Windows.Media.MediaControl.dll
+0xb78aa017a7d0	\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\ClockFlyoutExperience.dll
+0xb78aa017a960	\Windows\SystemApps\ShellExperienceHost_cw5n1h2txyewy\BatteryFlyoutExperience.dll
+0xb78aa017aaf0	\Windows\SysWOW64\winmmbase.dll
+0xb78aa017ac80	\Windows\SysWOW64\MFMediaEngine.dll
+0xb78aa017ae10	\Windows\SysWOW64\drvstore.dll
+0xb78aa017b130	\Windows\SysWOW64\BCP47Langs.dll
+0xb78aa017b2c0	\Windows\SysWOW64\webservices.dll
+0xb78aa017b450	\Windows\SysWOW64\FirewallAPI.dll
+0xb78aa017b5e0	\Windows\System32\taskschd.dll
+0xb78aa017b770	\Users\windows10_user\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\INetCache\JVL8WY5H\WI20_TempsaDropTomorrow_34[1].svg
+0xb78aa017b900	\ProgramData\Microsoft\Windows\DeviceMetadataCache\dmrc.idx.0
+0xb78aa017ba90	\Windows\System32\en-GB\windows.storage.dll.mui
+0xb78aa017bc20	\Windows\System32\ApplicationFrameHost.exe
+0xb78aa017bdb0	\Program Files\Common Files\microsoft shared\ink\tiptsf.dll
+0xb78aa017c0d0	\CMApi
+0xb78aa017c3f0	\Windows\System32\en-GB\explorerframe.dll.mui
+0xb78aa017c710	\Windows\System32\en-GB\user32.dll.mui
+0xb78aa017c8a0	\Program Files\WindowsApps\Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe\WinStore.App.exe
+0xb78aa017ca30	
+0xb78aa017cbc0	\Windows\System32\en-GB\propsys.dll.mui
+0xb78aa017d200	\Windows\System32
+0xb78aa017d390	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xb78aa017d520	\Sessions\1\AppContainerNamedObjects\S-1-15-2-1609473798-1231923017-684268153-4268514328-882773646-2760585773-1760938157
+0xb78aa017d6b0	\Windows\System32
+0xb78aa017d840	\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe\ActivationStore.dat
+0xb78aa017de80	\Windows\System32\en-GB\ApplicationFrame.dll.mui
+0xb78aa017e1a0	\Users\windows10_user\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\INetCache\JVL8WY5H\WI20_TempsaDropTomorrow_35[1].svg
+0xb78aa017e330	\Users\windows10_user\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\INetCache\JVL8WY5H\WI20_TempsaDropTomorrow_37[1].svg
+0xb78aa017e650	\Users\windows10_user\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\INetCache\JVL8WY5H\WI20_TempsaDropTomorrow_38[1].svg
+0xb78aa017e7e0	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+0xb78aa017eb00	\Windows\System32\dmprocessxmlfiltered.dll
+0xb78aa017ec90	\Windows\System32\mrt100.dll
+0xb78aa017ee20	\Program Files\WindowsApps\Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe\WinStore.App.dll
+0xb78aa017f140	\Users\Public\desktop.ini
+0xb78aa017f2d0	\Users\windows10_user\Desktop\Cleanmemdump.mem
+0xb78aa017f460	\$ConvertToNonresident
+0xb78aa017f910	\Windows\WinSxS\Manifests\amd64_microsoft.windows.c..-controls.resources_6595b64144ccf1df_6.0.19041.1_en-gb_c3d871e478025c14.manifest
+0xb78aa017faa0	\Windows\System32\Windows.UI.Xaml.Resources.rs5.dll
+0xb78aa017fdc0	\$Directory
+0xb78aa0180270	\Windows\System32\networkexplorer.dll
+0xb78aa0180400	\Windows\System32\en-GB\ApplicationFrame.dll.mui
+0xb78aa0180590	\Windows\Fonts\StaticCache.dat
+0xb78aa0180720	\Windows\System32\keepaliveprovider.dll
+0xb78aa01808b0	\Program Files\WindowsApps\Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe
+0xb78aa0180a40	\Program Files\WindowsApps\Microsoft.NET.Native.Runtime.2.2_2.2.27328.0_x64__8wekyb3d8bbwe\mrt100_app.dll
+0xb78aa0180bd0	\$Directory
+0xb78aa0180d60	\Program Files\WindowsApps\Microsoft.NET.Native.Framework.2.2_2.2.27405.0_x64__8wekyb3d8bbwe\SharedLibrary.dll
+0xb78aa0180ef0	\$Directory
+0xb78aa01813a0	\$Directory
+0xb78aa0181530	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+0xb78aa01816c0	\Program Files\WindowsApps\Microsoft.VCLibs.140.00_14.0.27323.0_x64__8wekyb3d8bbwe\vcruntime140_app.dll
+0xb78aa0181850	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_32.db
+0xb78aa01819e0	\Program Files\WindowsApps\Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe\WinStore.Preview.dll
+0xb78aa0181b70	\$Directory
+0xb78aa0181d00	\Users\windows10_user\AppData\Local\Packages\Microsoft.WindowsStore_8wekyb3d8bbwe\Settings\settings.dat.LOG1
+0xb78aa0181e90	\Windows\System32\WinMetadata\Windows.ApplicationModel.winmd
+0xb78aa01821b0	\Windows\System32\RuntimeBroker.exe
+0xb78aa01824d0	\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe\ActivationStore.dat
+0xb78aa0182660	\Windows\System32\WinMetadata\Windows.UI.Xaml.winmd
+0xb78aa01827f0	\Users\windows10_user\AppData\Local\Packages\Microsoft.WindowsStore_8wekyb3d8bbwe\Settings\settings.dat
+0xb78aa0182980	\Program Files\WindowsApps\Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe\microsoft.system.package.metadata\S-1-5-21-2404055049-1604330850-3828681742-1000-MergedResources-17.pri
+0xb78aa0182ca0	\Windows\Prefetch\RUNTIMEBROKER.EXE-339194DE.pf
+0xb78aa01832e0	\Users\windows10_user\AppData\Local\Packages\Microsoft.WindowsStore_8wekyb3d8bbwe\Settings\settings.dat.LOG2
+0xb78aa0183470	\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe\ActivationStore.dat.LOG1
+0xb78aa0183600	\Program Files\WindowsApps\Microsoft.VCLibs.140.00_14.0.27323.0_x64__8wekyb3d8bbwe\msvcp140_app.dll
+0xb78aa0183920	\Program Files\WindowsApps\Microsoft.VCLibs.140.00_14.0.27323.0_x64__8wekyb3d8bbwe\vccorlib140_app.dll
+0xb78aa0183ab0	\Windows\System32\en-US\Windows.Security.Authentication.Web.Core.dll.mui
+0xb78aa0183c40	\Windows\System32\en-US\KernelBase.dll.mui
+0xb78aa0183dd0	\Windows\System32
+0xb78aa01840f0	\Program Files\WindowsApps\Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe\Microsoft.UI.Xaml.dll
+0xb78aa0184280	\Windows\System32\Windows.ApplicationModel.Store.dll
+0xb78aa0184410	\$Directory
+0xb78aa01845a0	\Program Files\WindowsApps\Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe\resources.pri
+0xb78aa0184730	\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.WindowsStore_11910.1002.5.0_x64__8wekyb3d8bbwe\ActivationStore.dat.LOG2
+0xb78aa01848c0	\CMApi
+0xb78aa0184a50	\Windows\Fonts\segoeui.ttf
+0xb78aa0184be0	\$Directory
+0xb78aa0185090	\Windows\System32\pcadm.dll
+0xb78aa01853b0	\Windows\ImmersiveControlPanel\images\splashscreen.scale-100.png
+0xb78aa0185b80	\Program Files\WindowsApps\Microsoft.WindowsStore_11910.1002.5.0_neutral_split.scale-100_8wekyb3d8bbwe\Assets\AppTiles\SplashScreen.scale-100.png
+0xb78aa0185d10	\Windows\Temp\UDD8661.tmp
+0xb78aa0185ea0	\ProgramData\Microsoft\Windows\AppRepository\Packages\windows.immersivecontrolpanel_10.0.2.1000_neutral_neutral_cw5n1h2txyewy\S-1-5-21-2404055049-1604330850-3828681742-1000.pckgdep
+0xb78aa01861c0	\Windows\System32\sspicli.dll
+0xb78aa0186350	\srvsvc
+0xb78aa01864e0	\Users\windows10_user\AppData\Local\Temp\ad_driver.10.sys
+0xb78aa0186670	\$Directory
+0xb78aa0186800	\$Directory
+0xb78aa0186cb0	\Windows\System32\en-GB\sppc.dll.mui
+0xb78aa0187160	\$Directory
+0xb78aa0187930	\Windows\System32\Tasks\Microsoft\Windows\SoftwareProtectionPlatform\SvcRestartTask
+0xb78aa0187ac0	\VBoxTrayIPC-windows10_user
+0xb78aa0187c50	\Windows\ImmersiveControlPanel\images\splashscreen.scale-100.png
+0xb78aa0447a20	\Windows\System32\coml2.dll
+0xb78aa04486a0	\Windows
+0xb78aa04bc0a0	\Windows\System32\drivers\dumpfve.sys
+0xb78aa04bc380	\Windows\System32\drivers\storahci.sys
+0xb78aa04bc4f0	\Windows\SysWOW64\ntdll.dll
+0xb78aa04bc660	\$Directory
+0xb78aa04bcc20	\Windows\System32\drivers\cdrom.sys
+0xb78aa04bd4c0	\Windows\System32\drivers\Diskdump.sys
+0xb78aa04bd7a0	\Windows\System32\vertdll.dll
+0xb78aa04bdbf0	\Windows\System32\ntdll.dll
+0xb78aa04bdd60	\$Directory
+0xb78aa05d70b0	\Windows\System32\drivers\battc.sys
+0xb78aa05d7500	\Windows\System32\drivers\rdpbus.sys
+0xb78aa05d7ac0	\$Directory
+0xb78aa05d84d0	\Windows\System32\drivers\CmBatt.sys
+0xb78aa05d87b0	\Windows\System32\drivers\en-US\USBXHCI.SYS.mui
+0xb78aa05d8c00	\Windows\System32\drivers\intelppm.sys
+0xb78aa05d9330	\Windows\System32\drivers\NdisVirtualBus.sys
+0xb78aa05d94a0	\Windows\System32\DriverStore\FileRepository\swenum.inf_amd64_16a14542b63c02af\swenum.sys
+0xb78aa05d9d40	\Windows\System32\drivers\flpydisk.sys
+0xb78aa05d9eb0	\Windows\System32\drivers\usbd.sys
+0xb78aa05da470	\$Directory
+0xb78aa05da750	\Windows\System32\drivers\HdAudio.sys
+0xb78aa05da8c0	\Windows\System32\drivers\USBHUB3.SYS
+0xb78aa05e40b0	\Windows\System32\drivers\VBoxMouse.sys
+0xb78aa05e4500	\$Directory
+0xb78aa05e4670	\Windows\System32\drivers\kbdclass.sys
+0xb78aa05e47e0	\$Directory
+0xb78aa05e4950	\Windows\System32\drivers\E1G6032E.sys
+0xb78aa05e51f0	\Windows\System32\drivers\CAD.sys
+0xb78aa05e5360	\Windows\System32\drivers\fdc.sys
+0xb78aa05e5920	\Windows\System32\drivers\hdaudbus.sys
+0xb78aa05e64a0	\Windows\System32\drivers\mouclass.sys
+0xb78aa05e6780	\Windows\System32\drivers\VBoxWddm.sys
+0xb78aa05e6a60	\$Directory
+0xb78aa05e6d40	\Windows\System32\drivers\i8042prt.sys
+0xb78aa05e7190	\Windows\System32\drivers\USBXHCI.SYS
+0xb78aa05e7470	\Windows\System32\drivers\Ucx01000.sys
+0xb78aa05e7ba0	\Windows\System32\drivers\ks.sys
+0xb78aa05e7d10	\Windows\System32\drivers\drmk.sys
+0xb78aa05e7e80	\Windows\System32\drivers\portcls.sys
+0xb78aa06250d0	\Windows\System32\msprivs.dll
+0xb78aa0625260	\Windows\System32\netprovfw.dll
+0xb78aa06253f0	\Windows\System32\joinutil.dll
+0xb78aa06258a0	\Windows\System32\lsasrv.dll
+0xb78aa0625a30	\Windows\System32\en-GB\lsasrv.dll.mui
+0xb78aa0625bc0	\Windows\Globalization\Sorting\SortDefault.nls
+0xb78aa0625d50	\Windows\System32\dpapi.dll
+0xb78aa0625ee0	\Windows\System32\winsta.dll
+0xb78aa0626200	\Windows\SysWOW64\dui70.dll
+0xb78aa0626390	\Windows\System32\EventAggregation.dll
+0xb78aa0626520	\Windows\System32
+0xb78aa06266b0	\Windows\System32\msasn1.dll
+0xb78aa0626840	\Windows\System32\samsrv.dll
+0xb78aa06269d0	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xb78aa0626b60	\CMApi
+0xb78aa0626cf0	\$Directory
+0xb78aa0626e80	\Windows\System32\ncrypt.dll
+0xb78aa06274c0	\Windows\System32\ntasn1.dll
+0xb78aa0627650	\Windows\System32\wldp.dll
+0xb78aa06277e0	\Windows\System32
+0xb78aa0627970	\Windows\System32\config\SECURITY.LOG1
+0xb78aa0627b00	\Windows\System32\config\SECURITY.LOG2
+0xb78aa0627e20	\Windows\System32\devobj.dll
+0xb78aa0628140	\Windows\System32\config\SECURITY
+0xb78aa06282d0	\Windows\System32\cryptsp.dll
+0xb78aa06285f0	\Windows\System32\kerberos.dll
+0xb78aa0628780	\Windows\System32\KerbClientShared.dll
+0xb78aa0628910	\Windows\System32\cryptdll.dll
+0xb78aa0628aa0	\$Directory
+0xb78aa0628c30	\Windows\System32\negoexts.dll
+0xb78aa0628dc0	\Windows\System32\cryptbase.dll
+0xb78aa063b0a0	\Windows\System32\drivers\watchdog.sys
+0xb78aa063b380	\$Directory
+0xb78aa063b940	\Windows\System32\drivers\tbs.sys
+0xb78aa063c070	\Windows\System32\drivers\beep.sys
+0xb78aa063c4c0	\Windows\System32\drivers\null.sys
+0xb78aa063cbf0	\Windows\System32\drivers\dxgkrnl.sys
+0xb78aa063ced0	\Windows\System32\drivers\filecrypt.sys
+0xb78aa0695210	\:$I30:$INDEX_ALLOCATION
+0xb78aa0695380	\$Extend\$RmMetadata\$Repair:$Verify:$DATA
+0xb78aa06954f0	\$Directory
+0xb78aa06957d0	\$Secure:$SII:$INDEX_ALLOCATION
+0xb78aa0695940	\$Extend:$I30:$INDEX_ALLOCATION
+0xb78aa0695ab0	\$Extend\$UsnJrnl:$J:$DATA
+0xb78aa0695c20	\$Extend\$RmMetadata\$Repair
+0xb78aa0695d90	\$Extend\$RmMetadata\$Repair:$Corrupt:$DATA
+0xb78aa0696070	\Device\HarddiskVolume1\$Extend\$RmMetadata\$TxfLog\$TxfLog
+0xb78aa0696350	\$Secure:$SDS:$DATA
+0xb78aa06967a0	\Windows\System32\drivers\crashdmp.sys
+0xb78aa0696910	\$Extend\$Deleted:$I30:$INDEX_ALLOCATION
+0xb78aa0696ed0	\$Extend\$RmMetadata\$TxfLog\$TxfLog.blf
+0xb78aa06990a0	\Device\HarddiskVolume1\$Extend\$RmMetadata\$TxfLog\$TxfLog
+0xb78aa06994f0	\$Directory
+0xb78aa0699660	KtmLog
+0xb78aa0699940	\$Extend\$RmMetadata\$TxfLog\$Tops:$T:$DATA
+0xb78aa0699ab0	\$Extend\$RmMetadata\$TxfLog\$TxfLogContainer00000000000000000002
+0xb78aa0699c20	\$Directory
+0xb78aa069a070	\Device\HarddiskVolume1\$Extend\$RmMetadata\$TxfLog\$TxfLog
+0xb78aa069a1e0	TxfLog
+0xb78aa069a4c0	\$Extend\$RmMetadata\$TxfLog\$Tops
+0xb78aa069a7a0	\:$I30:$INDEX_ALLOCATION
+0xb78aa069aa80	\$Extend\$Reparse:$R:$INDEX_ALLOCATION
+0xb78aa069abf0	\$Extend\$RmMetadata\$Txf:$I30:$INDEX_ALLOCATION
+0xb78aa069ad60	\$Directory
+0xb78aa075b380	\Windows\System32\drivers\vwififlt.sys
+0xb78aa075b4f0	\Windows\System32\drivers\afd.sys
+0xb78aa075b940	\Windows\System32\drivers\netbios.sys
+0xb78aa075c350	\Windows\System32\drivers\afunix.sys
+0xb78aa075c4c0	\Windows\System32\drivers\ndiscap.sys
+0xb78aa075c910	\Windows\System32\drivers\VBoxSF.sys
+0xb78aa075cbf0	\Windows\System32\drivers\pacer.sys
+0xb78aa079d0a0	\Windows\System32\DriverStore\FileRepository\basicdisplay.inf_amd64_19e58b6267591a82\BasicDisplay.sys
+0xb78aa079d4f0	\Windows\System32\drivers\npfs.sys
+0xb78aa079d7d0	\Windows\System32\drivers\cimfs.sys
+0xb78aa079e070	\Windows\System32\drivers\msfs.sys
+0xb78aa079e350	\Windows\System32\DriverStore\FileRepository\basicrender.inf_amd64_d3f5994a67770b50\BasicRender.sys
+0xb78aa079e4c0	\$Directory
+0xb78aa079ea80	\Windows\System32\drivers\tdi.sys
+0xb78aa079ebf0	\Windows\System32\drivers\tdx.sys
+0xb78aa079eed0	\Windows\System32\drivers\netbt.sys
+0xb78aa0b55dd0	\Users\WINDOW~1\AppData\Local\Temp\ad_driver.10.sys
+0xb78aa0cf60a0	\Windows\apppatch\sysmain.sdb
+0xb78aa0cf6660	\Windows\bootstat.dat
+0xb78aa0cf67d0	\Windows\System32\DriverStore\FileRepository\umbus.inf_amd64_b78a9c5b6fd62c27\umbus.sys
+0xb78aa0cf6940	\Windows\System32\drivers\bam.sys
+0xb78aa0cf6ab0	\Windows\System32\drivers\kdnic.sys
+0xb78aa0cf71e0	\Windows\System32\drivers\ahcache.sys
+0xb78aa0cf7910	\Windows\System32\DriverStore\FileRepository\compositebus.inf_amd64_7500cffa210c6946\CompositeBus.sys
+0xb78aa0cf7a80	\$Directory
+0xb78aa0cf7d60	\Windows\System32\smss.exe
+0xb78aa0eaf390	\$Directory
+0xb78aa0eafac0	\$Directory
+0xb78aa0eb0920	\Windows\System32\drivers\ksthunk.sys
+0xb78aa0eb0c00	\Windows\System32\drivers\hidusb.sys
+0xb78aa0eb0ee0	\Windows\System32\drivers\hidparse.sys
+0xb78aa0eb14a0	\Windows\System32\drivers\hidclass.sys
+0xb78aa0eb18f0	\Windows\System32\drivers\mouhid.sys
+0xb78aa0eb1a60	\$Directory
+0xb78aa30830c0	\ProtectedPrefix\LocalService
+0xb78aa3083250	\ProtectedPrefix\NetWorkService
+0xb78aa30833e0	\Windows\bootstat.dat
+0xb78aa3083570	\Boot\BCD.LOG
+0xb78aa3083700	\Windows\WinSxS\FileMaps\_0000000000000000.cdf-ms
+0xb78aa3083890	\Windows\System32\config\SOFTWARE
+0xb78aa3083a20	\ProtectedPrefix\NetWorkService
+0xb78aa3083bb0	\$Directory
+0xb78aa3083ed0	\$Directory
+0xb78aa30841f0	\Windows\System32\config\SOFTWARE.LOG1
+0xb78aa3084380	\Windows\bootstat.dat
+0xb78aa3084510	\Windows\System32\config\SYSTEM
+0xb78aa30846a0	\Windows\System32\config\SOFTWARE.LOG2
+0xb78aa3084830	\ProtectedPrefix\LocalService
+0xb78aa30849c0	\Sessions
+0xb78aa3084b50	\Windows\System32\config\SYSTEM.LOG1
+0xb78aa3084ce0	\ProtectedPrefix\Administrators
+0xb78aa3084e70	\Boot\BCD
+0xb78aa308b0c0	\$Directory
+0xb78aa308b250	\$Directory
+0xb78aa308b3e0	\Windows\System32\csrss.exe
+0xb78aa308b700	\Windows\System32
+0xb78aa308b890	$PATH_TABLE$
+0xb78aa308ba20	\
+0xb78aa308bd40	\DumpStack.log.tmp
+0xb78aa308bed0	\pagefile.sys
+0xb78aa308c1f0	\Windows\System32\config\SYSTEM.LOG2
+0xb78aa308c380	\swapfile.sys
+0xb78aa308c510	\Program Files\AccessData\FTK Imager\dongle.dll
+0xb78aa308c6a0	\Windows\System32\win32k.sys
+0xb78aa308c830	\Windows\System32\win32kfull.sys
+0xb78aa308c9c0	\Windows\System32\en-GB\win32kbase.sys.mui
+0xb78aa308cb50	\Windows\System32\win32kbase.sys
+0xb78aa30a30c0	\Windows\System32\shlwapi.dll
+0xb78aa30a3250	\Windows\System32\imagehlp.dll
+0xb78aa30a33e0	\Windows\System32\msctf.dll
+0xb78aa30a3570	\Windows\System32\user32.dll
+0xb78aa30a3700	\Windows\System32\bcrypt.dll
+0xb78aa30a3890	\Windows\System32\bcryptprimitives.dll
+0xb78aa30a3a20	\Windows\System32\msvcp_win.dll
+0xb78aa30a3bb0	\Windows\System32\comctl32.dll
+0xb78aa30a3d40	\Windows\SysWOW64\shlwapi.dll
+0xb78aa30a3ed0	\Windows\System32\ucrtbase.dll
+0xb78aa30a41f0	\Windows\System32\comdlg32.dll
+0xb78aa30a4380	\Windows\System32\win32u.dll
+0xb78aa30a4510	\Windows\System32\gdi32full.dll
+0xb78aa30a46a0	\Windows\System32\difxapi.dll
+0xb78aa30a4830	\Windows\System32\crypt32.dll
+0xb78aa30a49c0	\Windows\System32\KernelBase.dll
+0xb78aa30a4b50	\Windows\System32\wintrust.dll
+0xb78aa30a4ce0	\Windows\System32\ole32.dll
+0xb78aa30a4e70	\Windows\System32\cfgmgr32.dll
+0xb78aa30a50c0	\Windows\SysWOW64\gdi32full.dll
+0xb78aa30a5250	\Windows\SysWOW64\combase.dll
+0xb78aa30a53e0	\Windows\SysWOW64\msctf.dll
+0xb78aa30a5570	\Windows\SysWOW64\imagehlp.dll
+0xb78aa30a5700	\Windows\SysWOW64\msvcp_win.dll
+0xb78aa30a5890	\Windows\SysWOW64\kernel32.dll
+0xb78aa30a5a20	\Windows\SysWOW64\sechost.dll
+0xb78aa30a5bb0	\Windows\SysWOW64\imm32.dll
+0xb78aa30a5d40	\Windows\SysWOW64\shell32.dll
+0xb78aa30a5ed0	\Windows\SysWOW64\crypt32.dll
+0xb78aa30a61f0	\Windows\SysWOW64\setupapi.dll
+0xb78aa30a6380	\Windows\SysWOW64\coml2.dll
+0xb78aa30a6510	\Windows\SysWOW64\comdlg32.dll
+0xb78aa30a66a0	\Windows\SysWOW64\rpcrt4.dll
+0xb78aa30a6830	\Windows\SysWOW64\comctl32.dll
+0xb78aa30a69c0	\Windows\SysWOW64\KernelBase.dll
+0xb78aa30a6b50	\Windows\SysWOW64\ucrtbase.dll
+0xb78aa30a6ce0	\Windows\SysWOW64\Wldap32.dll
+0xb78aa30a6e70	\Windows\SysWOW64\oleaut32.dll
+0xb78aa30a90c0	\Windows\SysWOW64\bcrypt.dll
+0xb78aa30a9250	\Windows\SysWOW64\advapi32.dll
+0xb78aa30a93e0	\Windows\SysWOW64\gdi32.dll
+0xb78aa30a9570	\Windows\SysWOW64\ws2_32.dll
+0xb78aa30a9700	\Windows\SysWOW64\normaliz.dll
+0xb78aa30a9890	\Windows\SysWOW64\win32u.dll
+0xb78aa30a9a20	\Windows\SysWOW64\clbcatq.dll
+0xb78aa30a9bb0	\Windows\SysWOW64\msvcrt.dll
+0xb78aa30a9d40	\Windows\SysWOW64\ole32.dll
+0xb78aa30a9ed0	\Windows\SysWOW64\psapi.dll
+0xb78aa30aa1f0	\Windows\SysWOW64\nsi.dll
+0xb78aa30aa380	\Windows\SysWOW64\difxapi.dll
+0xb78aa30aa510	\Windows\SysWOW64\SHCore.dll
+0xb78aa30aa6a0	\ProtectedPrefix
+0xb78aa30aa830	\Windows\SysWOW64\GdiPlus.dll
+0xb78aa30aa9c0	\Windows\SysWOW64\bcryptprimitives.dll
+0xb78aa30aab50	\Windows\SysWOW64\wintrust.dll
+0xb78aa30aace0	\Windows\SysWOW64\cfgmgr32.dll
+0xb78aa30aae70	\Windows\SysWOW64\user32.dll
+0xb78aa30f27c0	\Windows\System32\LogFiles\WMI\RtBackup\EtwRTEventlog-Security.etl
+0xb78aa30f2aa0	\$Directory
+0xb78aa30f3060	\$Directory
+0xb78aa30f3340	\$Directory
+0xb78aa30f34b0	\$Secure:$SDH:$INDEX_ALLOCATION
+0xb78aa30f3620	\Windows\System32\LogFiles\WMI\RtBackup\EtwRTDefenderApiLogger.etl
+0xb78aa30f3790	\Windows\System32\LogFiles\WMI\RtBackup\EtwRTDefenderAuditLogger.etl
+0xb78aa30f3ec0	\Windows\System32\LogFiles\WMI\Microsoft-Windows-Rdp-Graphics-RdpIdd-Trace.etl
+0xb78aa30f4480	\Windows\System32\LogFiles\WMI\RadioMgr.etl
+0xb78aa30f4a40	\Windows\System32\LogFiles\WMI\NtfsLog.etl
+0xb78aa30f4e90	\Windows\System32\LogFiles\WMI\LwtNetLog.etl
+0xb78aa30f5450	\Windows\System32\LogFiles\WMI\NetCore.etl
+0xb78aa30f5730	\Windows\System32\LogFiles\WMI\RtBackup\EtwRTDiagLog.etl
+0xb78aa30f5b80	\Windows\System32\LogFiles\WMI\RtBackup\EtwRTUBPM.etl
+0xb78aa30f62b0	\Windows\System32\LogFiles\WMI\RtBackup\EtwRTEventLog-Application.etl
+0xb78aa30f6420	\$Directory
+0xb78aa30f6590	\Windows\System32\WDI\LogFiles\WdiContextLog.etl.002
+0xb78aa30f6700	\$Directory
+0xb78aa30f6870	\$Directory
+0xb78aa30f69e0	\Windows\System32\LogFiles\WMI\RtBackup\EtwRTEventLog-System.etl
+0xb78aa30f7560	\Windows\System32\config\TxR\{53b39e3e-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+0xb78aa30f76d0	\Windows\System32\config\TxR\{53b39e3e-18c4-11ea-a811-000d3aa4692b}.TM.blf
+0xb78aa30f7b20	\Windows\System32\WDI\LogFiles\BootPerfDiagLogger.etl
+0xb78aa30f7e00	\Windows\System32\LogFiles\WMI\Wifi.etl
+0xb78aa30f8250	\Windows\System32\config\TxR\{53b39e3e-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+0xb78aa30f86a0	\$Directory
+0xb78aa31470d0	\Windows\System32\config\DEFAULT.LOG2
+0xb78aa3147260	\$Directory
+0xb78aa31473f0	\Windows\System32\sxssrv.dll
+0xb78aa3147580	\Windows\System32\en-US\csrss.exe.mui
+0xb78aa3147710	\Windows\System32\winsrvext.dll
+0xb78aa31478a0	\Windows\System32\csrss.exe
+0xb78aa3147a30	\Windows\System32
+0xb78aa3147bc0	\$Directory
+0xb78aa3147d50	\Windows\System32\wininitext.dll
+0xb78aa3147ee0	\Windows\System32\sspicli.dll
+0xb78aa3148200	\Windows\System32\config\DEFAULT.LOG1
+0xb78aa3148390	\Windows\System32\profapi.dll
+0xb78aa3148520	\Windows\System32\userenv.dll
+0xb78aa31486b0	\Windows\System32\basesrv.dll
+0xb78aa3148840	\Windows\System32\csrsrv.dll
+0xb78aa31489d0	\Windows\System32\drivers\dxgmms2.sys
+0xb78aa31491a0	\Windows\System32\lsass.exe
+0xb78aa3149330	\Windows\System32
+0xb78aa3149650	\Sessions\0\AppContainerNamedObjects
+0xb78aa31497e0	\CMApi
+0xb78aa3149970	\Windows\System32\en-GB\winsrv.dll.mui
+0xb78aa3149b00	\Windows\System32\wininit.exe
+0xb78aa3149c90	\Windows\System32\winsrv.dll
+0xb78aa3149e20	\Windows\System32\locale.nls
+0xb78aa314a140	\Windows\System32\config\DEFAULT
+0xb78aa314a2d0	\Windows\System32\umpo.dll
+0xb78aa314a460	\Sessions\1\AppContainerNamedObjects
+0xb78aa314aaa0	\Windows\System32\cdd.dll
+0xb78aa314adc0	\CMApi
+0xb78aa46c8bb0	\ProtectedPrefix
+0xb78aa46c8d40	\ProtectedPrefix\Administrators
+0xb78aa46c9510	\Windows\System32\psapi.dll
+0xb78aa46c9830	\Windows\System32\sechost.dll
+0xb78aa46c9b50	\Windows\System32\kernel32.dll
+0xb78aa4738650	\$ConvertToNonresident
+0xb78aa4738aa0	\SystemRoot\System32\Config\TxR\{53b39e3e-18c4-11ea-a811-000d3aa4692b}.TM
+0xb78aa4738c10	\Windows\System32\drivers\monitor.sys
+0xb78aa4739060	\Windows\System32\drivers\cdfs.sys
+0xb78aa479a0c0	\Windows\System32\SHCore.dll
+0xb78aa479a250	\Windows\System32\gdi32.dll
+0xb78aa479a3e0	\Windows\System32\wow64win.dll
+0xb78aa479a570	\Windows\System32\clbcatq.dll
+0xb78aa479a700	\Windows\System32\nsi.dll
+0xb78aa479a890	\Windows\System32\shell32.dll
+0xb78aa479aa20	\Windows\System32\normaliz.dll
+0xb78aa479abb0	\Windows\System32\GdiPlus.dll
+0xb78aa479ad40	\Windows\System32\combase.dll
+0xb78aa479aed0	\Windows\System32\msvcrt.dll
+0xb78aa479b1f0	\Windows\System32\setupapi.dll
+0xb78aa479b380	\Windows\System32\imm32.dll
+0xb78aa479b510	\Windows\System32\wow64cpu.dll
+0xb78aa479b6a0	\Windows\System32\wow64.dll
+0xb78aa479b830	\Windows\System32\oleaut32.dll
+0xb78aa479b9c0	\Windows\System32\advapi32.dll
+0xb78aa479bb50	\Windows\System32\ws2_32.dll
+0xb78aa479bce0	\Windows\System32\rpcrt4.dll
+0xb78aa479be70	\Windows\System32\Wldap32.dll
+0xb78aa4eb30d0	\$Directory
+0xb78aa4eb3260	\$Directory
+0xb78aa4eb33f0	\$Directory
+0xb78aa4eb3580	\$Directory
+0xb78aa4eb3710	\InitShutdown
+0xb78aa4eb38a0	\InitShutdown
+0xb78aa4eb3a30	\$Directory
+0xb78aa4eb3bc0	\Windows\System32\msisip.dll
+0xb78aa4eb3d50	\Windows\System32\appinfo.dll
+0xb78aa4eb4390	\Windows\System32\KBDUS.DLL
+0xb78aa4eb4520	\$Directory
+0xb78aa4eb46b0	\Windows\System32\dot3mm.dll
+0xb78aa4eb4840	\$Directory
+0xb78aa4eb49d0	\$Directory
+0xb78aa4eb4cf0	\$Directory
+0xb78aa4eb51a0	\$Directory
+0xb78aa4eb5330	\Windows\System32\sxs.dll
+0xb78aa4eb54c0	\Windows\System32\services.exe
+0xb78aa4eb5650	\Windows\System32\en-GB\user32.dll.mui
+0xb78aa4eb57e0	\InitShutdown
+0xb78aa4eb5970	\Windows\System32\adsldp.dll
+0xb78aa4eb5b00	\$Directory
+0xb78aa4eb5c90	\Windows\System32\winlogon.exe
+0xb78aa4eb5e20	\Windows\System32\en-GB\user32.dll.mui
+0xb78aa4eb6140	\Windows\System32\dmcsps.dll
+0xb78aa4eb62d0	\Windows\System32\powrprof.dll
+0xb78aa4eb6460	\Windows\System32\umpdc.dll
+0xb78aa4eb65f0	\$Directory
+0xb78aa4eb6910	\$Directory
+0xb78aa4eb6aa0	\$Directory
+0xb78aa4eb6c30	\$Directory
+0xb78aa4eb6dc0	\Windows\System32
+0xb78aa4f270d0	\Windows\System32\schannel.dll
+0xb78aa4f27260	\lsass
+0xb78aa4f273f0	\Windows\debug\PASSWD.LOG
+0xb78aa4f27580	\Windows\System32\logoncli.dll
+0xb78aa4f27710	\Windows\System32\mswsock.dll
+0xb78aa4f278a0	\Windows\System32\IPHLPAPI.DLL
+0xb78aa4f27bc0	\$Directory
+0xb78aa4f27d50	\Windows\System32\TSpkg.dll
+0xb78aa4f28200	\Windows\System32\dnsapi.dll
+0xb78aa4f28390	\$Directory
+0xb78aa4f28520	\Windows\System32\pku2u.dll
+0xb78aa4f286b0	\Windows\System32\ntmarta.dll
+0xb78aa4f28840	\Windows\System32\cloudAP.dll
+0xb78aa4f28b60	\Windows\System32\NtlmShared.dll
+0xb78aa4f28cf0	\Windows\System32\netlogon.dll
+0xb78aa4f28e80	\Windows\System32\netutils.dll
+0xb78aa4f291a0	\Windows\System32\wkscli.dll
+0xb78aa4f294c0	\Windows\System32\msvcp110_win.dll
+0xb78aa4f29650	\Windows\System32\aadcloudap.dll
+0xb78aa4f297e0	\Windows\System32\MicrosoftAccountCloudAP.dll
+0xb78aa4f29970	\Windows\System32\gmsaclient.dll
+0xb78aa4f29b00	\Windows\System32\rsaenh.dll
+0xb78aa4f29c90	\Windows\System32\wdigest.dll
+0xb78aa4f29e20	\Windows\System32\C_28591.NLS
+0xb78aa4f2a140	\Windows\System32\msv1_0.dll
+0xb78aa4f2a2d0	\Windows\System32\dpapisrv.dll
+0xb78aa4f2a910	\$Directory
+0xb78aa4f2aaa0	\Windows\System32\efslsaext.dll
+0xb78aa4f2ac30	\Windows\System32\sspisrv.dll
+0xb78aa4f2adc0	\lsass
+0xb78aa4ff70e0	\$Directory
+0xb78aa4ff7270	\Windows\System32\profext.dll
+0xb78aa4ff7590	\Windows\System32\config\SAM.LOG2
+0xb78aa4ff7720	\scerpc
+0xb78aa4ff78b0	\Windows\System32\kdcpw.dll
+0xb78aa4ff7a40	\ntsvcs
+0xb78aa4ff7ef0	\Windows\System32\FirewallAPI.dll
+0xb78aa4ff8080	\$Directory
+0xb78aa4ff8210	\Windows\ServiceState
+0xb78aa4ff83a0	\Windows\System32\fwbase.dll
+0xb78aa4ff86c0	\Windows\System32\WUDFPlatform.dll
+0xb78aa4ff8850	\$Directory
+0xb78aa4ff8d00	\ntsvcs
+0xb78aa4ff8e90	\ntsvcs
+0xb78aa4ff91b0	\Program Files\AccessData\FTK Imager\adsharedfbfs.dll
+0xb78aa4ff9340	\scerpc
+0xb78aa4ff94d0	\scerpc
+0xb78aa4ff9660	\Windows\System32\authz.dll
+0xb78aa4ff97f0	\Windows\System32\scesrv.dll
+0xb78aa4ff9980	\Windows\System32\config\SAM
+0xb78aa4ff9ca0	\Windows\System32\scecli.dll
+0xb78aa4ff9e30	\Windows\System32\config\SAM.LOG1
+0xb78aa4ffa150	\Program Files\AccessData\FTK Imager\adsharedfs.dll
+0xb78aa4ffa2e0	\Windows\System32
+0xb78aa4ffa470	\Program Files\AccessData\FTK Imager\DongleInterfaceNative.dll
+0xb78aa4ffa600	\Windows\System32\fontdrvhost.exe
+0xb78aa4ffa790	\Program Files\AccessData\FTK Imager\mfc140u.dll
+0xb78aa4ffa920	\Sessions\1\AppContainerNamedObjects\S-1-15-2-95739096-486727260-2033287795-3853587803-1685597119-444378811-2746676523
+0xb78aa4ffaab0	\Windows\System32\fontdrvhost.exe
+0xb78aa4ffac40	\Program Files\AccessData\FTK Imager\adshattrdefs.dll
+0xb78aa4ffadd0	\Program Files\AccessData\FTK Imager\libcrypto-3-x64.dll
+0xb78aa4ffb280	\Program Files\AccessData\FTK Imager\ADIsoDLL.dll
+0xb78aa4ffb410	\Program Files\AccessData\FTK Imager\efsdecrypter.dll
+0xb78aa4ffb5a0	\$Directory
+0xb78aa4ffb730	\Program Files\AccessData\FTK Imager\ProfUISad64.dll
+0xb78aa4ffb8c0	\Program Files\AccessData\FTK Imager\ad_log.dll
+0xb78aa4ffba50	\Program Files\AccessData\FTK Imager\vcruntime140.dll
+0xb78aa4ffbbe0	\Program Files\AccessData\FTK Imager\WibuCm64.dll
+0xb78aa4ffc090	\Program Files\AccessData\FTK Imager\LMS-FS.dll
+0xb78aa4ffc220	\Windows\System32
+0xb78aa4ffc3b0	\Windows\System32\svchost.exe
+0xb78aa4ffc540	\Windows\System32\TileDataRepository.dll
+0xb78aa4ffc6d0	\Windows\System32
+0xb78aa4ffc860	\Program Files\AccessData\FTK Imager\adencrypt.dll
+0xb78aa4ffcb80	\Sessions\0\AppContainerNamedObjects\S-1-15-2-95739096-486727260-2033287795-3853587803-1685597119-444378811-2746676523
+0xb78aa4ffcd10	\Windows\Fonts\vgasys.fon
+0xb78aa4ffd4e0	\Program Files\AccessData\FTK Imager\libzstd.dll
+0xb78aa4ffd670	\Program Files\AccessData\FTK Imager\boost_filesystem-vc140-mt-x64-1_84.dll
+0xb78aa4ffd800	\Windows\System32\umpnpmgr.dll
+0xb78aa4ffd990	\Windows\Fonts\micross.ttf
+0xb78aa4ffdb20	\Windows\Fonts\marlett.ttf
+0xb78aa4ffdcb0	\Windows\System32\en-GB\services.exe.mui
+0xb78aa4ffde40	\Windows\System32\slc.dll
+0xb78aa4ffe160	\Windows\System32\sppc.dll
+0xb78aa4ffe2f0	\Program Files\AccessData\FTK Imager\boost_thread-vc140-mt-x64-1_84.dll
+0xb78aa4ffe480	\Program Files\AccessData\FTK Imager\libbfio.dll
+0xb78aa4ffe610	\Program Files\AccessData\FTK Imager\cbfsdisk22.dll
+0xb78aa4ffe7a0	\Windows\System32\umpoext.dll
+0xb78aa4ffe930	\Windows\System32\tdh.dll
+0xb78aa4ffeac0	\Windows\System32\dxgi.dll
+0xb78aa4ffec50	\Program Files\AccessData\FTK Imager\icuuc57.dll
+0xb78aa4ffede0	\Program Files\AccessData\FTK Imager\icuin57.dll
+0xb78aa563b0e0	\Windows\System32\umpo-overrides.dll
+0xb78aa563b270	\Windows\ServiceProfiles\NetworkService\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+0xb78aa563b400	\Windows\ServiceProfiles\NetworkService\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+0xb78aa563b720	\Device\HarddiskVolume1\Windows\ServiceProfiles\NetworkService\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM
+0xb78aa563b8b0	\Device\HarddiskVolume1\Windows\ServiceProfiles\NetworkService\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM
+0xb78aa563ba40	\Windows\System32\windows.storage.dll
+0xb78aa563bbd0	\Windows\System32\svchost.exe
+0xb78aa563bd60	\Windows\System32\RpcEpMap.dll
+0xb78aa563bef0	\Windows\System32\hid.dll
+0xb78aa563c3a0	\Windows\System32\RpcRtRemote.dll
+0xb78aa563c530	\Winsock2\CatalogChangeListener-244-0
+0xb78aa563c6c0	\Windows\System32\SleepStudy\UserNotPresentSession.etl
+0xb78aa563c850	\CMNotify
+0xb78aa563c9e0	\Windows\ServiceProfiles\NetworkService\NTUSER.DAT
+0xb78aa563cb70	\$Directory
+0xb78aa563cd00	\Windows\System32\en-GB\svchost.exe.mui
+0xb78aa563ce90	\CMNotify
+0xb78aa563d1b0	\CMApi
+0xb78aa563d340	\CMNotify
+0xb78aa563d4d0	\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG2
+0xb78aa563d660	\Windows\System32
+0xb78aa563d7f0	\CMNotify
+0xb78aa563d980	\Windows\ServiceProfiles\NetworkService\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+0xb78aa563db10	\Windows\System32\gpapi.dll
+0xb78aa563de30	\$Directory
+0xb78aa563e150	\Windows\ServiceProfiles\NetworkService\NTUSER.DAT.LOG1
+0xb78aa563e2e0	\Endpoint
+0xb78aa563e470	\Windows\System32\en-US\wshqos.dll.mui
+0xb78aa563e600	\Endpoint
+0xb78aa563e790	\Windows\System32\psmsrv.dll
+0xb78aa563e920	\Windows\System32\kernel.appcore.dll
+0xb78aa563eab0	\Windows\System32\rpcss.dll
+0xb78aa563edd0	\Endpoint
+0xb78aa563f0f0	\epmapper
+0xb78aa563f5a0	\Endpoint
+0xb78aa563f730	\epmapper
+0xb78aa563f8c0	\Windows\SysWOW64\ninput.dll
+0xb78aa563fa50	\Endpoint
+0xb78aa563fbe0	\Endpoint
+0xb78aa563fd70	\Endpoint
+0xb78aa5640090	\Winsock2\CatalogChangeListener-31c-0
+0xb78aa5640220	\Endpoint
+0xb78aa56403b0	\Endpoint
+0xb78aa5640540	\epmapper
+0xb78aa56406d0	\Endpoint
+0xb78aa5640860	\Windows\System32\en-US\mswsock.dll.mui
+0xb78aa56409f0	\Endpoint
+0xb78aa5640b80	\Endpoint
+0xb78aa5640d10	\Endpoint
+0xb78aa5640ea0	\Winsock2\CatalogChangeListener-1e0-0
+0xb78aa56411c0	\Endpoint
+0xb78aa5641350	\Endpoint
+0xb78aa56414e0	\LSM_API_service
+0xb78aa5641670	\Windows\System32\bisrv.dll
+0xb78aa5641800	\Winsock2\CatalogChangeListener-2cc-0
+0xb78aa5641990	\Windows\System32\ResourcePolicyClient.dll
+0xb78aa5641b20	\Windows\System32\lsm.dll
+0xb78aa5641cb0	\Windows\System32\PsmServiceExtHost.dll
+0xb78aa5641e40	\Windows\System32\wer.dll
+0xb78aa5642160	\Windows\System32\dwmapi.dll
+0xb78aa56422f0	\CMNotify
+0xb78aa5642480	\Endpoint
+0xb78aa5642610	\Windows\System32\wshhyperv.dll
+0xb78aa56427a0	\Windows\System32\sysntfy.dll
+0xb78aa5642930	\Windows\System32\rmclient.dll
+0xb78aa5642ac0	\LSM_API_service
+0xb78aa5642c50	\LSM_API_service
+0xb78aa5642de0	\Endpoint
+0xb78aa56bc0e0	\Windows\System32\WinTypes.dll
+0xb78aa56bc270	\Windows\System32\d2d1.dll
+0xb78aa56bc400	\Windows\System32\dwm.exe
+0xb78aa56bc590	\Windows\System32\CoreMessaging.dll
+0xb78aa56bc8b0	\Windows\System32\dwmredir.dll
+0xb78aa56bca40	\Windows\System32\d3d11.dll
+0xb78aa56bcbd0	\Windows\System32\D3DCompiler_47.dll
+0xb78aa56bcd60	\Windows\System32\en-GB\dwm.exe.mui
+0xb78aa56bcef0	\Program Files\AccessData\FTK Imager\FTK Imager.exe
+0xb78aa56bd080	\Windows\System32\en-US\d2d1.dll.mui
+0xb78aa56bd210	\Windows\System32\xmllite.dll
+0xb78aa56bd3a0	\Windows\Resources\Themes\aero\aero.msstyles
+0xb78aa56bd530	\Windows\System32\dwminit.dll
+0xb78aa56bd6c0	\Windows\System32\uDWM.dll
+0xb78aa56bd850	\Users\windows10_user\Desktop
+0xb78aa56bd9e0	\Windows\WinSxS\Manifests\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5.manifest
+0xb78aa56bdb70	\Windows\System32\CoreUIComponents.dll
+0xb78aa56bdd00	\Windows\System32\dwmcore.dll
+0xb78aa56bde90	\Windows\System32
+0xb78aa56be1b0	\Windows\System32\apphelp.dll
+0xb78aa56be340	\Windows\System32\ole32.dll
+0xb78aa56be4d0	\Windows\System32\embeddedmodesvcapi.dll
+0xb78aa56be660	\Windows\System32\uxtheme.dll
+0xb78aa56be7f0	\Windows\System32\UXInit.dll
+0xb78aa56beca0	\Windows\System32\en-US\kernel32.dll.mui
+0xb78aa56bee30	\Windows\System32\dcomp.dll
+0xb78aa56bf150	\REGISTRY\USER\S-1-5-21-2404055049-1604330850-3828681742-1000_Classes\CLSID\{F1C46D71-B791-4110-8D5C-7108F22C1010}\InprocServer32
+0xb78aa56bf2e0	\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG2
+0xb78aa56bf470	\$Directory
+0xb78aa56bf600	\Windows\ServiceProfiles\LocalService\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+0xb78aa56bf920	\Windows\SysWOW64\slc.dll
+0xb78aa56bfab0	\Windows\System32\BrokerLib.dll
+0xb78aa56bfc40	\Windows\ServiceProfiles\LocalService\NTUSER.DAT
+0xb78aa56bfdd0	\Windows\ServiceProfiles\LocalService\NTUSER.DAT.LOG1
+0xb78aa56c00f0	\Windows\System32\rdpcorets.dll
+0xb78aa56c0280	\Windows\System32\rpcss.dll
+0xb78aa56c0410	\Program Files\AccessData\FTK Imager\adlib.dll
+0xb78aa56c05a0	\Windows\System32\SystemEventsBrokerServer.dll
+0xb78aa56c0730	\CMApi
+0xb78aa56c08c0	\Windows\System32\dabapi.dll
+0xb78aa56c0a50	\Windows\System32
+0xb78aa56c0be0	\Windows\System32\config\BBI
+0xb78aa56c0d70	\Windows\System32\dab.dll
+0xb78aa56c1090	\Windows\System32\dsreg.dll
+0xb78aa56c1220	\Windows\System32\wtsapi32.dll
+0xb78aa56c13b0	\Windows\System32\dwmghost.dll
+0xb78aa56c1540	\Windows\System32\ResourcePolicyServer.dll
+0xb78aa56c1860	\Windows\System32\config\BBI.LOG1
+0xb78aa56c19f0	\Windows\System32\LogonController.dll
+0xb78aa56c1b80	\Windows\System32\samlib.dll
+0xb78aa56c1d10	\Windows\System32\propsys.dll
+0xb78aa56c21c0	\Windows\System32\config\BBI.LOG2
+0xb78aa56c2350	\$Directory
+0xb78aa56c2670	\Windows\System32\en-GB\svchost.exe.mui
+0xb78aa56c2800	\Windows\System32
+0xb78aa56c2b20	\Windows\ServiceProfiles\LocalService\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+0xb78aa56c2cb0	\Windows\System32\svchost.exe
+0xb78aa56c3160	\Device\HarddiskVolume1\Windows\ServiceProfiles\LocalService\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM
+0xb78aa56c32f0	\Windows\ServiceProfiles\LocalService\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+0xb78aa56c3480	\Windows\System32\svchost.exe
+0xb78aa56c3610	\Windows\System32\svchost.exe
+0xb78aa56c37a0	\Device\HarddiskVolume1\Windows\ServiceProfiles\LocalService\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM
+0xb78aa56c3ac0	\Windows\System32\en-GB\svchost.exe.mui
+0xb78aa56c3c50	\CMNotify
+0xb78aa56c3de0	\Windows\System32
+0xb78aa56f11c0	\$PrepareToShrinkFileSize
+0xb78aa56f7c20	\$PrepareToShrinkFileSize
+0xb78aa56fb9f0	\$PrepareToShrinkFileSize
+0xb78aa576c0e0	\CMApi
+0xb78aa576c270	\Windows\System32\WindowManagementAPI.dll
+0xb78aa576c590	\Windows\System32\ninput.dll
+0xb78aa576c720	\Windows\System32\netprofm.dll
+0xb78aa576c8b0	\Windows\System32\schedsvc.dll
+0xb78aa576ca40	\Windows\System32\lmhsvc.dll
+0xb78aa576cbd0	\Windows\System32\avrt.dll
+0xb78aa576cd60	\Windows\System32\gpsvc.dll
+0xb78aa576cef0	\Windows\System32\twinapi.appcore.dll
+0xb78aa576d080	\Windows\System32\ubpm.dll
+0xb78aa576d3a0	\Windows\System32\en-GB\svchost.exe.mui
+0xb78aa576d530	\Windows\System32\ISM.dll
+0xb78aa576d850	\Windows\System32\taskschd.dll
+0xb78aa576d9e0	\Windows\System32\dsrole.dll
+0xb78aa576db70	\Windows\System32\d3d10warp.dll
+0xb78aa576dd00	\Program Files\AccessData\FTK Imager\adshared.dll
+0xb78aa576e340	\Windows\System32\nlaapi.dll
+0xb78aa576e7f0	\Windows\System32\en-US\dnsapi.dll.mui
+0xb78aa576eb10	\CMNotify
+0xb78aa576eca0	\Windows\System32\pcacli.dll
+0xb78aa576f150	\CMNotify
+0xb78aa576f2e0	\ProgramData\Microsoft\Windows Defender\Definition Updates\Updates
+0xb78aa576f470	\$Directory
+0xb78aa576f600	\Windows\System32\en-GB\crypt32.dll.mui
+0xb78aa576f790	\Windows\System32\WindowsCodecs.dll
+0xb78aa576f920	\CMNotify
+0xb78aa576fc40	\$Directory
+0xb78aa57700f0	\Windows\System32\GameInput.dll
+0xb78aa5770410	\Windows\System32\wuaueng.dll
+0xb78aa57705a0	\Windows\System32\Windows.Gaming.Input.dll
+0xb78aa57708c0	\CMNotify
+0xb78aa5770a50	\Windows\System32\UIAnimation.dll
+0xb78aa5770be0	\Windows\System32\wmiclnt.dll
+0xb78aa57713b0	\Windows\System32\coloradapterclient.dll
+0xb78aa5771860	\CMNotify
+0xb78aa57719f0	\Windows\System32\DispBroker.Desktop.dll
+0xb78aa5771d10	\Windows\System32\taskcomp.dll
+0xb78aa57721c0	\atsvc
+0xb78aa5772350	\Windows\System32\mscms.dll
+0xb78aa57724e0	\Windows\Tasks
+0xb78aa5772670	\Windows\System32\svchost.exe
+0xb78aa5772800	\atsvc
+0xb78aa5772990	\Windows\System32\en-GB\svchost.exe.mui
+0xb78aa5772b20	\Windows\System32
+0xb78aa5772cb0	\Windows\System32\CSystemEventsBrokerClient.dll
+0xb78aa5772e40	\CMNotify
+0xb78aa5773160	\atsvc
+0xb78aa57732f0	\Windows\System32\usermgrcli.dll
+0xb78aa5773480	\Windows\System32\TimeBrokerServer.dll
+0xb78aa5773610	\Windows\System32\svchost.exe
+0xb78aa57737a0	\Windows\System32\wevtsvc.dll
+0xb78aa5773930	\Windows\System32
+0xb78aa5773ac0	\CMNotify
+0xb78aa5773de0	\Windows\System32\OneCoreUAPCommonProxyStub.dll
+0xb78aa57e20e0	\Windows\System32\tzres.dll
+0xb78aa57e2270	\Endpoint
+0xb78aa57e2400	\Endpoint
+0xb78aa57e2590	\Windows\System32\policymanager.dll
+0xb78aa57e2720	\Windows\System32\winevt\Logs\Security.evtx
+0xb78aa57e28b0	\Windows\System32\winevt\Logs\Key Management Service.evtx
+0xb78aa57e2a40	\eventlog
+0xb78aa57e2bd0	\Windows\System32
+0xb78aa57e2ef0	\$Directory
+0xb78aa57e3080	\Winsock2\CatalogChangeListener-3f4-0
+0xb78aa57e3210	\Windows\System32\en-GB\tzres.dll.mui
+0xb78aa57e33a0	\Endpoint
+0xb78aa57e3530	\Windows\System32\mstask.dll
+0xb78aa57e36c0	\Windows\System32\winevt\Logs\System.evtx
+0xb78aa57e3850	\Windows\System32\winevt\Logs\Application.evtx
+0xb78aa57e3b70	\Windows\System32\winevt\Logs\HardwareEvents.evtx
+0xb78aa57e3d00	\Windows\System32\winevt\Logs\Internet Explorer.evtx
+0xb78aa57e41b0	\Windows\System32\winevt\Logs\Windows PowerShell.evtx
+0xb78aa57e4340	\Windows\System32\httpprxc.dll
+0xb78aa57e4660	\eventlog
+0xb78aa57e47f0	\eventlog
+0xb78aa57e4980	\Windows\System32\SystemEventsBrokerClient.dll
+0xb78aa57e4b10	\Windows\System32\ncbservice.dll
+0xb78aa57e4ca0	\Windows\System32\wevtapi.dll
+0xb78aa57e4e30	\Endpoint
+0xb78aa57e5150	\Windows\System32\en-GB\svchost.exe.mui
+0xb78aa57e52e0	\Windows\System32\winevt\Logs\Microsoft-Windows-Kernel-Boot%4Operational.evtx
+0xb78aa57e5470	\Windows\System32\winevt\Logs\Microsoft-Windows-Partition%4Diagnostic.evtx
+0xb78aa57e5600	\Windows\System32\winevt\Logs\Microsoft-Windows-Kernel-WHEA%4Operational.evtx
+0xb78aa57e5790	\Windows\System32\drivers\spaceport.sys
+0xb78aa57e5920	\Windows\System32\winevt\Logs\Microsoft-Windows-Storage-Storport%4Operational.evtx
+0xb78aa57e5ab0	\Windows\System32\winevt\Logs\Microsoft-Windows-Kernel-WHEA%4Errors.evtx
+0xb78aa57e5c40	\Windows\System32\winevt\Logs\Microsoft-Windows-Ntfs%4Operational.evtx
+0xb78aa57e5dd0	\Windows\System32\drivers\partmgr.sys
+0xb78aa57e60f0	\Windows\System32\winevt\Logs\Microsoft-Windows-Kernel-Power%4Thermal-Operational.evtx
+0xb78aa57e6280	\Windows\System32\winevt\Logs\Microsoft-Windows-StorageSpaces-Driver%4Diagnostic.evtx
+0xb78aa57e6410	\Windows\SysWOW64\mfplat.dll
+0xb78aa57e65a0	\Windows\System32\winevt\Logs\Microsoft-Windows-CodeIntegrity%4Operational.evtx
+0xb78aa57e6730	\Windows\System32\wcmsvc.dll
+0xb78aa57e68c0	\Windows\System32\winevt\Logs\Microsoft-Windows-VolumeSnapshot-Driver%4Operational.evtx
+0xb78aa57e6a50	\Windows\System32\winevt\Logs\Microsoft-Windows-Ntfs%4WHC.evtx
+0xb78aa57e6be0	\Windows\System32\winevt\Logs\Microsoft-Windows-Wcmsvc%4Operational.evtx
+0xb78aa57e6d70	\Windows\System32\Windows.StateRepository.dll
+0xb78aa57e7090	\Windows\SysWOW64\nlaapi.dll
+0xb78aa57e73b0	\Endpoint
+0xb78aa57e7540	\Windows\System32\winevt\Logs\Microsoft-Windows-Kernel-ShimEngine%4Operational.evtx
+0xb78aa57e76d0	\Windows\System32\bi.dll
+0xb78aa57e7860	\Windows\SysWOW64\mfcore.dll
+0xb78aa57e7b80	\Windows\SysWOW64\mfc42u.dll
+0xb78aa57e7d10	\Windows\System32\winevt\Logs\Microsoft-Windows-Storage-Storport%4Health.evtx
+0xb78aa57e7ea0	\Windows\SysWOW64\tquery.dll
+0xb78aa57e81c0	\Windows\System32\drivers\ntfs.sys
+0xb78aa57e8350	\Windows\System32\winevt\Logs\Microsoft-Windows-StorageSpaces-Driver%4Operational.evtx
+0xb78aa57e84e0	\CMNotify
+0xb78aa57e8670	\Windows\System32\winevt\Logs\Microsoft-Windows-AppModel-Runtime%4Admin.evtx
+0xb78aa57e8800	\Windows\System32\profsvcext.dll
+0xb78aa57e8990	\Windows\System32\winevt\Logs\Microsoft-Windows-TerminalServices-LocalSessionManager%4Admin.evtx
+0xb78aa57e8b20	\Windows\System32\winevt\Logs\Microsoft-Windows-Winlogon%4Operational.evtx
+0xb78aa57e8cb0	\CMNotify
+0xb78aa57e8e40	\Windows\System32\microsoft-windows-kernel-processor-power-events.dll
+0xb78aa57e9160	\Windows\System32\winevt\Logs\Microsoft-Windows-WebAuthN%4Operational.evtx
+0xb78aa57e92f0	\Windows\System32\winevt\Logs\Microsoft-Windows-StateRepository%4Operational.evtx
+0xb78aa57e9480	\Windows\System32\winevt\Logs\Microsoft-Windows-TerminalServices-LocalSessionManager%4Operational.evtx
+0xb78aa57e97a0	\Windows\System32\profsvc.dll
+0xb78aa57e9930	\Windows\System32\webauthn.dll
+0xb78aa57e9ac0	\Windows\System32\winevt\Logs\Microsoft-Windows-StateRepository%4Restricted.evtx
+0xb78aa57e9de0	\CMApi
+0xb78aa582b100	\Windows\System32\winnsi.dll
+0xb78aa582b290	\CMNotify
+0xb78aa582b420	\CMNotify
+0xb78aa582b5b0	\Windows\System32\Windows.Graphics.dll
+0xb78aa582b740	\Windows\System32\dhcpcore.dll
+0xb78aa582b8d0	\Windows\System32\DXCore.dll
+0xb78aa582ba60	\CMNotify
+0xb78aa582bbf0	\Windows\System32\AppXDeploymentClient.dll
+0xb78aa582bd80	\CMNotify
+0xb78aa582c0a0	\Windows\System32\WPTaskScheduler.dll
+0xb78aa582c6e0	\Windows\System32\cabinet.dll
+0xb78aa582c870	\color
+0xb78aa582ca00	\CMNotify
+0xb78aa582cb90	\Windows\System32\DispBroker.dll
+0xb78aa582cd20	\CMNotify
+0xb78aa582ceb0	\CMNotify
+0xb78aa582d1d0	\Windows\System32\netjoin.dll
+0xb78aa582d360	\CMNotify
+0xb78aa582d4f0	\Endpoint
+0xb78aa582d680	\Windows\System32\usermgr.dll
+0xb78aa582d810	\Windows\System32\actxprxy.dll
+0xb78aa582d9a0	\Windows\System32\TimeBrokerClient.dll
+0xb78aa582db30	\Windows\System32\nsisvc.dll
+0xb78aa582dcc0	\Windows\System32\UserMgrProxy.dll
+0xb78aa582e170	\Windows\System32\dhcpcore6.dll
+0xb78aa582e490	\Endpoint
+0xb78aa582ead0	\Windows\System32\en-GB\svchost.exe.mui
+0xb78aa582edf0	\Endpoint
+0xb78aa582ee40	むꕳ랊￿➈卋ə
+0xb78aa582f110	\CMNotify
+0xb78aa582f2a0	\CMNotify
+0xb78aa582f430	\Endpoint
+0xb78aa582f5c0	\Windows\System32\dhcpcsvc.dll
+0xb78aa582f750	\CMNotify
+0xb78aa582f8e0	\CMNotify
+0xb78aa582fa70	\Windows\System32\nlasvc.dll
+0xb78aa582fc00	\Windows\System32\ssdpapi.dll
+0xb78aa582fd90	\CMNotify
+0xb78aa58300b0	\Windows\System32\dhcpcsvc6.dll
+0xb78aa5830240	\Endpoint
+0xb78aa58303d0	\Windows\System32\ncsi.dll
+0xb78aa58306f0	\Windows\System32
+0xb78aa5830880	\CMNotify
+0xb78aa5830a10	\CMNotify
+0xb78aa5830ba0	\Windows\System32\svchost.exe
+0xb78aa5830d30	\CMNotify
+0xb78aa5830ec0	\CMNotify
+0xb78aa58311e0	\Winsock2\CatalogChangeListener-3ec-0
+0xb78aa5831370	\CMNotify
+0xb78aa5831500	\Windows\System32\wlanapi.dll
+0xb78aa5831690	\CMApi
+0xb78aa5831820	\Windows\System32\AudioSes.dll
+0xb78aa58319b0	\CMNotify
+0xb78aa5831b40	\CMNotify
+0xb78aa5831cd0	\Windows\System32\MMDevAPI.dll
+0xb78aa5831e60	\CMNotify
+0xb78aa5832180	\CMNotify
+0xb78aa5832310	\CMNotify
+0xb78aa58324a0	\CMNotify
+0xb78aa5832630	\Windows\System32\svchost.exe
+0xb78aa58327c0	\CMNotify
+0xb78aa5832950	\CMNotify
+0xb78aa5832c70	\Windows\System32
+0xb78aa5833440	\CMNotify
+0xb78aa5833760	\CMNotify
+0xb78aa58338f0	\CMNotify
+0xb78aa5833a80	\Windows\System32\SEMgrSvc.dll
+0xb78aa5833c10	\CMNotify
+0xb78aa5833da0	\CMNotify
+0xb78aa58340c0	\CMNotify
+0xb78aa5834250	\Windows\System32\en-GB\svchost.exe.mui
+0xb78aa58343e0	\Windows\System32\cryptngc.dll
+0xb78aa5834700	\Windows\System32\VBoxService.exe
+0xb78aa5834890	\Windows\System32
+0xb78aa5834a20	\Windows\System32\version.dll
+0xb78aa5834bb0	\Windows\System32\taskhostw.exe
+0xb78aa5834d40	\Windows\System32\en-GB\netprofmsvc.dll.mui
+0xb78aa5835380	\Windows\System32\wpdbusenum.dll
+0xb78aa58356a0	\CMApi
+0xb78aa5835830	\Windows\System32\mpr.dll
+0xb78aa58359c0	\Windows\System32\svchost.exe
+0xb78aa5835b50	\Windows\Logs\StorGroupPolicy.log
+0xb78aa5835ce0	\Windows\System32\PortableDeviceApi.dll
+0xb78aa5836190	\Windows\System32\capauthz.dll
+0xb78aa58364b0	\Windows\System32\en-GB\svchost.exe.mui
+0xb78aa58367d0	\Windows\System32\winevt\Logs\Microsoft-Windows-User Device Registration%4Admin.evtx
+0xb78aa5836960	\$Directory
+0xb78aa5836af0	\Windows\System32\netprofmsvc.dll
+0xb78aa5836e10	\CMNotify
+0xb78aa5837130	\Windows\System32\PCPKsp.dll
+0xb78aa58372c0	\Windows\System32\winhttp.dll
+0xb78aa5837450	\Windows\System32\tbs.dll
+0xb78aa58375e0	\Windows\System32
+0xb78aa5837770	\Program Files\AccessData\FTK Imager\msvcp140.dll
+0xb78aa5837c20	\Windows\System32\themeservice.dll
+0xb78aa5837db0	\Windows\System32\AudioEndpointBuilder.dll
+0xb78aa58380d0	\CMNotify
+0xb78aa58383f0	\Windows\System32\sysmain.dll
+0xb78aa5838580	\Windows\System32\en-US\KernelBase.dll.mui
+0xb78aa5838710	\eheadphonetopo
+0xb78aa58388a0	\Windows\System32\FntCache.dll
+0xb78aa5838bc0	\$Directory
+0xb78aa5838d50	\Windows\System32\Sens.dll
+0xb78aa5838ee0	\CMApi
+0xb78aa5839200	\CMNotify
+0xb78aa5839390	\Windows\System32\es.dll
+0xb78aa5839520	\$Directory
+0xb78aa58396b0	\Windows\System32\secur32.dll
+0xb78aa5839840	\Windows\System32\FontProvider.dll
+0xb78aa58399d0	\CMNotify
+0xb78aa5839b60	\Windows\ServiceProfiles\LocalService\AppData\Local\FontCache\~FontCache-FontFace.dat
+0xb78aa5839cf0	\Windows\ServiceProfiles\LocalService\AppData\Local\FontCache\~FontCache-System.dat
+0xb78aa5839e80	\CMNotify
+0xb78aa583a4c0	\Windows\System32\PortableDeviceConnectApi.dll
+0xb78aa583a650	\Windows\System32\VBoxHook.dll
+0xb78aa583a7e0	\Windows\System32\VBoxTray.exe
+0xb78aa583ab00	\Windows\Fonts
+0xb78aa583ac90	\Windows\System32\winevt\Logs\Microsoft-Windows-GroupPolicy%4Operational.evtx
+0xb78aa583ae20	\Windows\System32\winevt\Logs\Microsoft-Windows-Dhcp-Client%4Admin.evtx
+0xb78aa5863ce0	\$Directory
+0xb78aa5864130	\Windows\System32\drivers\wcifs.sys
+0xb78aa58646f0	\Windows\System32\drivers\luafv.sys
+0xb78aa5867210	\Windows\System32\drivers\bindflt.sys
+0xb78aa58674f0	\Windows\System32\drivers\storqosflt.sys
+0xb78aa58681e0	\Windows\System32\drivers\cldflt.sys
+0xb78aa586cb30	\Windows\System32\drivers\lltdio.sys
+0xb78aa586db00	\Windows\System32\drivers\mslldp.sys
+0xb78aa586dc70	\Windows\System32\drivers\rspndr.sys
+0xb78aa5902100	\CMNotify
+0xb78aa5902290	\Windows\System32\winevt\Logs\Microsoft-Windows-Dhcpv6-Client%4Admin.evtx
+0xb78aa5902420	\Windows\System32\computenetwork.dll
+0xb78aa59025b0	\Windows\System32\winevt\Logs\Microsoft-Windows-Containers-Wcifs%4Operational.evtx
+0xb78aa5902740	\SwDevice
+0xb78aa59028d0	\Windows\System32\DevPropMgr.dll
+0xb78aa5902a60	\Windows\System32\npmproxy.dll
+0xb78aa5902bf0	\Windows\System32\DeviceDriverRetrievalClient.dll
+0xb78aa5902d80	\Windows\System32\wbem\repdrvfs.dll
+0xb78aa59030a0	\CMNotify
+0xb78aa5903230	\Windows\System32\winevt\Logs\Microsoft-Windows-NCSI%4Operational.evtx
+0xb78aa5903550	\Windows\System32\miutils.dll
+0xb78aa5903870	\Windows\System32\newdev.dll
+0xb78aa5903a00	\Windows\System32\en-GB\newdev.dll.mui
+0xb78aa5903d20	\espeakertopo
+0xb78aa59041d0	\Windows\System32\mi.dll
+0xb78aa5904360	\Windows\System32\devrtl.dll
+0xb78aa59044f0	\Windows\System32\winevt\Logs\Microsoft-Windows-HotspotAuth%4Operational.evtx
+0xb78aa5904680	\Windows\System32\winevt\Logs\Microsoft-Windows-Windows Firewall With Advanced Security%4Firewall.evtx
+0xb78aa5904810	\Windows\System32\winevt\Logs\Microsoft-Windows-WinINet-Config%4ProxyConfigChanged.evtx
+0xb78aa59049a0	\Windows\System32\winevt\Logs\Microsoft-Windows-Containers-BindFlt%4Operational.evtx
+0xb78aa5904b30	\Windows\System32\en-US\MMDevAPI.dll.mui
+0xb78aa5904cc0	\SwDevice
+0xb78aa5904e50	\emicintopo
+0xb78aa5905170	\CMApi
+0xb78aa5905300	\emicintopo
+0xb78aa5905490	\Windows\System32\winevt\Logs\Microsoft-Windows-Crypto-NCrypt%4Operational.evtx
+0xb78aa59057b0	\Windows\System32\wmidcom.dll
+0xb78aa5905940	\eheadphonetopo
+0xb78aa5905ad0	\Windows\System32\OnDemandConnRouteHelper.dll
+0xb78aa5905c60	\$Directory
+0xb78aa5905df0	\Windows\System32\ClipRenew.exe
+0xb78aa5906110	\Windows\System32\winevt\Logs\Microsoft-Windows-User Profile Service%4Operational.evtx
+0xb78aa59062a0	\Windows\System32\DeviceSoftwareInstallationClient.dll
+0xb78aa5906430	\Dev\Query
+0xb78aa5906750	\Windows\System32\drvstore.dll
+0xb78aa59068e0	\Windows\System32\winevt\Logs\Microsoft-Windows-NetworkProfile%4Operational.evtx
+0xb78aa5906a70	\espeakertopo
+0xb78aa5906d90	\Windows\System32\winevt\Logs\Microsoft-Windows-SMBServer%4Operational.evtx
+0xb78aa59070b0	\Windows\System32
+0xb78aa5907240	\ProgramData\Microsoft\Windows\DeviceMetadataCache\dmrc.idx
+0xb78aa59073d0	\$Directory
+0xb78aa59076f0	\Windows\System32\en-US\AudioEndpointBuilder.dll.mui
+0xb78aa5907880	\CMNotify
+0xb78aa5907a10	\SwDevice
+0xb78aa5907ba0	\CMNotify
+0xb78aa5907d30	\Dev\Query
+0xb78aa5907ec0	\Windows\System32\dxgiadaptercache.exe
+0xb78aa59081e0	\CMNotify
+0xb78aa5908370	\Windows\System32\DeviceMetadataRetrievalClient.dll
+0xb78aa5908500	\CMNotify
+0xb78aa5908820	\Windows\System32
+0xb78aa59089b0	\CMApi
+0xb78aa5908b40	\Windows\System32\svchost.exe
+0xb78aa5908cd0	\Windows\System32\FWPUCLNT.DLL
+0xb78aa5908e60	\Endpoint
+0xb78aa59094a0	\eheadphonetopo
+0xb78aa5909630	\Endpoint
+0xb78aa59097c0	\Windows\System32\nrpsrv.dll
+0xb78aa5909950	\Windows\System32\svchost.exe
+0xb78aa5909ae0	\Windows\System32\drivers\etc
+0xb78aa5909c70	\Windows\System32\AudioSrvPolicyManager.dll
+0xb78aa5909e00	\Endpoint
+0xb78aa590a2b0	\Windows\System32\audiosrv.dll
+0xb78aa590a5d0	\Windows\System32\en-GB\svchost.exe.mui
+0xb78aa590a760	\Windows\System32\dnsrslvr.dll
+0xb78aa590a8f0	\Endpoint
+0xb78aa590ac10	\Endpoint
+0xb78aa590ada0	\Endpoint
+0xb78aa590b250	\Windows\System32\drivers\etc\hosts
+0xb78aa590b3e0	\CMNotify
+0xb78aa590b700	\Windows\System32\wbem\WMIsvc.dll
+0xb78aa590b890	\Windows\System32\wbem\wbemprox.dll
+0xb78aa590ba20	\Windows\System32\en-US\vsstrace.dll.mui
+0xb78aa590bbb0	\Windows\System32\samcli.dll
+0xb78aa590bd40	\Windows\System32\en-US\AudioSrv.dll.mui
+0xb78aa590bed0	\Windows\System32\en-GB\svchost.exe.mui
+0xb78aa590c1f0	\emicintopo
+0xb78aa590c380	\Windows\System32\HrtfApo.dll
+0xb78aa590c510	\CMNotify
+0xb78aa590c6a0	\emicinwave
+0xb78aa590c830	\Windows\System32\wbem\MOF
+0xb78aa590c9c0	\CMNotify
+0xb78aa590cb50	\espeakertopo
+0xb78aa590cce0	\CMNotify
+0xb78aa590ce70	\CMNotify
+0xb78aa590d190	\Windows\System32
+0xb78aa590d320	�雪ꈊ￿�雪ꈊ￿Ā
+0xb78aa590d4b0	\Windows\System32\svchost.exe
+0xb78aa590d7d0	\espeakerwave
+0xb78aa590d960	\Windows\System32\vssapi.dll
+0xb78aa590daf0	\Windows\System32\en-GB\gpsvc.dll.mui
+0xb78aa590dc80	\Windows\System32\vsstrace.dll
+0xb78aa590e130	\$Directory
+0xb78aa590e2c0	\Windows\System32\rasadhlp.dll
+0xb78aa590e450	\Windows\System32\wbemcomn.dll
+0xb78aa590e5e0	\Windows\System32\en-GB\svchost.exe.mui
+0xb78aa590e770	\Windows\System32
+0xb78aa590e900	\Windows\System32\Windows.Devices.Radios.dll
+0xb78aa590ec20	\CMNotify
+0xb78aa590edb0	\CMNotify
+0xb78aa590f0d0	\Windows\System32\svchost.exe
+0xb78aa590f580	\Windows\System32\spoolsv.exe
+0xb78aa590f710	\Windows\System32
+0xb78aa590f8a0	\Windows\System32\CompPkgSup.dll
+0xb78aa590fa30	\Windows\System32\en-US\spoolsv.exe.mui
+0xb78aa590fd50	\Windows\System32\dusmsvc.dll
+0xb78aa590fee0	\Windows\System32
+0xb78aa5910390	\Windows\System32\en-US\KernelBase.dll.mui
+0xb78aa59106b0	\CMNotify
+0xb78aa5910840	\Windows\System32\mobilenetworking.dll
+0xb78aa5910b60	\Windows\System32\en-GB\svchost.exe.mui
+0xb78aa5910cf0	\Windows\System32\BthRadioMedia.dll
+0xb78aa5910e80	\Windows\System32\BluetoothApis.dll
+0xb78aa59111a0	\Windows\System32\Windows.Media.Devices.dll
+0xb78aa5911330	\Windows\System32\shsvcs.dll
+0xb78aa59114c0	\Windows\System32\svchost.exe
+0xb78aa5911970	\CMApi
+0xb78aa5911b00	\Windows\System32
+0xb78aa5966af0	\Windows\System32\drivers\mrxsmb.sys
+0xb78aa59670b0	\Windows\System32\drivers\http.sys
+0xb78aa5967da0	\Windows\System32\drivers\msquic.sys
+0xb78aa5968d70	\Windows\System32\drivers\bowser.sys
+0xb78aa596ae80	\Windows\System32\drivers\mrxsmb20.sys
+0xb78aa596b160	\Windows\System32\drivers\mpsdrv.sys
+0xb78aa596f660	\
+0xb78aa596f940	\$ConvertToNonresident
+0xb78aa596fc20	\Windows\System32\drivers\srv2.sys
+0xb78aa5971490	\Windows\System32\drivers\srvnet.sys
+0xb78aa59732c0	\Windows\System32\LogFiles\WMI\RtBackup\EtwRTWFP-IPsec Diagnostics.etl
+0xb78aa5974b30	\Windows\System32\drivers\mmcss.sys
+0xb78aa5a34420	\Windows\System32\en-GB\svchost.exe.mui
+0xb78aa5a345b0	\Dev\Query
+0xb78aa5a34740	\ProgramData\Microsoft\Windows\AppRepository\StateRepository-Machine.srd
+0xb78aa5a348d0	\$Directory
+0xb78aa5a34a60	\$Directory
+0xb78aa5a34bf0	\ProgramData\Microsoft\Windows\AppRepository\StateRepository-Deployment.srd
+0xb78aa5a350a0	\Windows\System32\fveapi.dll
+0xb78aa5a35230	\spoolss
+0xb78aa5a353c0	\Windows\System32\StateRepository.Core.dll
+0xb78aa5a35550	\spoolss
+0xb78aa5a356e0	\ProgramData\Microsoft\Windows\Caches\cversions.2.db
+0xb78aa5a35870	\Endpoint
+0xb78aa5a35a00	\Endpoint
+0xb78aa5a35b90	\Winsock2\CatalogChangeListener-6b4-0
+0xb78aa5a35eb0	\Endpoint
+0xb78aa5a361d0	\Endpoint
+0xb78aa5a36360	\$Directory
+0xb78aa5a364f0	\ProgramData\Microsoft\Windows\Caches\{DDF571F2-BE98-426D-8288-1A9A39C3FDA2}.2.ver0x0000000000000001.db
+0xb78aa5a36680	\Windows\System32\en-GB\propsys.dll.mui
+0xb78aa5a36810	\Windows\System32\wkssvc.dll
+0xb78aa5a369a0	\ProgramData\Microsoft\Windows\Caches\{6AF0698E-D558-4F6E-9B3C-3716689AF493}.2.ver0x0000000000000001.db
+0xb78aa5a36b30	\spoolss
+0xb78aa5a36cc0	\ProgramData\Microsoft\Windows\AppRepository\StateRepository-Deployment.srd
+0xb78aa5a36e50	\CMNotify
+0xb78aa5a37170	\Windows\System32\dsparse.dll
+0xb78aa5a37300	\Windows\System32\Windows.StateRepositoryCore.dll
+0xb78aa5a37490	\Windows\System32\wcmcsp.dll
+0xb78aa5a37620	\Windows\System32\ProximityCommon.dll
+0xb78aa5a377b0	\Dev\Query
+0xb78aa5a37940	\ProgramData\Microsoft\Windows\AppRepository\StateRepository-Deployment.srd-shm
+0xb78aa5a37ad0	\Windows\System32\winevt\Logs\Microsoft-Windows-DeviceSetupManager%4Operational.evtx
+0xb78aa5a37c60	\CMNotify
+0xb78aa5a37df0	\Windows\System32\es.dll
+0xb78aa5a38110	\Windows\System32\ProximityCommonPal.dll
+0xb78aa5a38430	\Windows\System32\ProximityService.dll
+0xb78aa5a385c0	\Windows\System32\cmintegrator.dll
+0xb78aa5a388e0	\CMNotify
+0xb78aa5a38a70	\CMApi
+0xb78aa5a38c00	\ProgramData\Microsoft\Windows\AppRepository\StateRepository-Deployment.srd-shm
+0xb78aa5a390b0	\Windows\System32\ProximityServicePal.dll
+0xb78aa5a39240	\Dev\Query
+0xb78aa5a393d0	\Dev\Query
+0xb78aa5a396f0	\Dev\Query
+0xb78aa5a39880	\Dev\Query
+0xb78aa5a39a10	\ProgramData\Microsoft\Windows\AppRepository\StateRepository-Deployment.srd-wal
+0xb78aa5a39ba0	\Dev\Query
+0xb78aa5a39d30	\Dev\Query
+0xb78aa5a3a1e0	\Dev\Query
+0xb78aa5a3a370	\Windows\System32\TaskFlowDataEngine.dll
+0xb78aa5a3a690	\Windows\System32\wbem\esscli.dll
+0xb78aa5a3a820	\Windows\System32\wbem\Repository\MAPPING2.MAP
+0xb78aa5a3a9b0	\Windows\System32\AppXDeploymentExtensions.desktop.dll
+0xb78aa5a3ab40	\Windows\System32\wbem\wmiutils.dll
+0xb78aa5a3acd0	\Windows\System32\wbem\Repository\MAPPING3.MAP
+0xb78aa5a3ae60	\Windows\System32\winevt\Logs\Microsoft-Windows-SmbClient%4Connectivity.evtx
+0xb78aa5a3b180	\Windows\System32\winevt\Logs\Microsoft-Windows-DeviceSetupManager%4Admin.evtx
+0xb78aa5a3b310	\Windows\System32\winevt\Logs\Microsoft-Windows-SmbClient%4Security.evtx
+0xb78aa5a3b4a0	\Windows\System32\winevt\Logs\Microsoft-Windows-SmbClient%4Audit.evtx
+0xb78aa5a3b630	\Windows\System32\winevt\Logs\Microsoft-Windows-SMBClient%4Operational.evtx
+0xb78aa5a3b950	\Windows\System32\wbem\Repository\MAPPING1.MAP
+0xb78aa5a3bae0	\Windows\System32\wbem\Repository\OBJECTS.DATA
+0xb78aa5a3be00	\Dev\Query
+0xb78aa5a3c120	\$Directory
+0xb78aa5a3c2b0	\Windows\System32\stdole2.tlb
+0xb78aa5a3c440	\Windows\System32\BFE.DLL
+0xb78aa5a3c5d0	\Windows\System32\wbem\fastprox.dll
+0xb78aa5a3c760	\Windows\System32\en-US\bfe.dll.mui
+0xb78aa5a3c8f0	\ProgramData\Microsoft\Windows\AppRepository\StateRepository-Machine.srd-shm
+0xb78aa5a3ca80	\CMNotify
+0xb78aa5a3cc10	\wkssvc
+0xb78aa5a3cda0	\Windows\System32\wbem\wbemsvc.dll
+0xb78aa5a3d250	\Windows\System32\wbem\Repository\INDEX.BTR
+0xb78aa5a3d3e0	\Windows\System32\wbem\wbemcore.dll
+0xb78aa5a3d700	\Windows\System32\ncobjapi.dll
+0xb78aa5a3d890	\$Directory
+0xb78aa5a3da20	\CMNotify
+0xb78aa5a3dbb0	\CMNotify
+0xb78aa5a3dd40	\Windows\System32\amsi.dll
+0xb78aa5a3e1f0	\Windows\System32\en-US\netmsg.dll.mui
+0xb78aa5a3e380	\Windows\System32\wbem\wbemess.dll
+0xb78aa5a3e510	\Windows\System32\sscore.dll
+0xb78aa5a3e6a0	\Windows\System32\sscoreext.dll
+0xb78aa5a3e830	\Windows\System32\resutils.dll
+0xb78aa5a3eb50	\Windows\System32\clusapi.dll
+0xb78aa5a3ee70	\Program Files\Windows Defender\MpOAV.dll
+0xb78aa5a3f320	\Windows\System32\wbem\WmiPrvSD.dll
+0xb78aa5a3f4b0	\Windows\System32\en-US\KernelBase.dll.mui
+0xb78aa5a3f7d0	\Windows\System32\netmsg.dll
+0xb78aa5a3fe10	\$Directory
+0xb78aa5a40450	\Windows\System32\srvsvc.dll
+0xb78aa5a405e0	\$Directory
+0xb78aa5a40900	\CMNotify
+0xb78aa5a40a90	\Windows\System32\winevt\Logs\Microsoft-Windows-SMBServer%4Audit.evtx
+0xb78aa5a40db0	\Endpoint
+0xb78aa5a410d0	\Windows\System32\IKEEXT.DLL
+0xb78aa5a41260	\Program Files\Bonjour\mdnsNSP.dll
+0xb78aa5a413f0	\Endpoint
+0xb78aa5a41710	\Windows\System32\mfcore.dll
+0xb78aa5a418a0	\srvsvc
+0xb78aa5a41a30	\CMNotify
+0xb78aa5a41bc0	\Windows\System32\CapabilityAccessManager.dll
+0xb78aa5a41d50	\CMNotify
+0xb78aa5a41ee0	\Endpoint
+0xb78aa5a42200	\Windows\System32\browser.dll
+0xb78aa5a42390	\Windows\System32\MPSSVC.dll
+0xb78aa5a426b0	\Windows\System32\FirewallAPI.dll
+0xb78aa5a42840	\Endpoint
+0xb78aa5a429d0	\Windows\System32\en-GB\FirewallAPI.dll.mui
+0xb78aa5a42b60	\CMNotify
+0xb78aa5a42e80	\Windows\System32\en-US\mswsock.dll.mui
+0xb78aa5a43330	\Windows\System32\winevt\Logs\Microsoft-Windows-SMBServer%4Connectivity.evtx
+0xb78aa5a434c0	\Windows\System32\svchost.exe
+0xb78aa5a43650	\Windows\System32\winevt\Logs\Microsoft-Windows-SMBServer%4Security.evtx
+0xb78aa5a437e0	\CMApi
+0xb78aa5a43970	\Windows\System32\cmdext.dll
+0xb78aa5a43c90	\$Directory
+0xb78aa5a43e20	\Windows\System32\fwpolicyiomgr.dll
+0xb78aa5a89100	\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService.exe
+0xb78aa5a89290	\$Directory
+0xb78aa5a895b0	\$Directory
+0xb78aa5a89740	\Program Files\Bonjour\mDNSResponder.exe
+0xb78aa5a89a60	\Windows\System32
+0xb78aa5a89bf0	\Windows\System32
+0xb78aa5a89d80	\Windows\System32\WibuCm64.dll
+0xb78aa5a8a0a0	\Windows\System32\srvcli.dll
+0xb78aa5a8a230	\Program Files\CodeMeter\Runtime\bin\CmWebAdmin.exe
+0xb78aa5a8a3c0	\Windows\System32\FwRemoteSvr.dll
+0xb78aa5a8a550	\Windows\System32\msvcp140.dll
+0xb78aa5a8a6e0	\Windows\System32\IPSECSVC.DLL
+0xb78aa5a8aa00	\Windows\System32
+0xb78aa5a8ab90	\Windows\System32\netapi32.dll
+0xb78aa5a8ad20	\Program Files\Common Files\Apple\Mobile Device Support\AppleVersions.dll
+0xb78aa5a8aeb0	\Program Files\Common Files\Apple\Mobile Device Support\YSCrashDump.dll
+0xb78aa5a8b1d0	\Windows\System32\winevt\Logs\Microsoft-Windows-Kernel-StoreMgr%4Operational.evtx
+0xb78aa5a8b360	\$Directory
+0xb78aa5a8b4f0	\ProgramData\Microsoft\Windows\wfp\wfpdiag.etl
+0xb78aa5a8b810	\Program Files\CodeMeter\Runtime\bin\CodeMeter.exe
+0xb78aa5a8bcc0	\Windows\System32\sensrsvc.dll
+0xb78aa5a8be50	\Endpoint
+0xb78aa5a8c170	\Windows\System32\vcruntime140.dll
+0xb78aa5a8c300	\Windows\System32\adsldpc.dll
+0xb78aa5a8c490	\Windows\System32
+0xb78aa5a8c620	\Program Files\Common Files\Apple\Mobile Device Support\ASL.dll
+0xb78aa5a8c940	\Program Files\Common Files\Apple\Mobile Device Support\CoreFoundation.dll
+0xb78aa5a8cad0	\Windows\System32\activeds.dll
+0xb78aa5a8cdf0	\Windows\System32\winmm.dll
+0xb78aa5a8d2a0	\CMApi
+0xb78aa5a8d430	\Windows\System32\en-GB\svchost.exe.mui
+0xb78aa5a8d5c0	\Windows\System32
+0xb78aa5a8d750	\Windows\System32\adhapi.dll
+0xb78aa5a8d8e0	\Windows\System32\CatRoot
+0xb78aa5a8dc00	\Program Files\Common Files\Apple\Mobile Device Support\libicuuc.dll
+0xb78aa5a8e240	\Windows\System32\cryptsvc.dll
+0xb78aa5a8e560	\Endpoint
+0xb78aa5a8e6f0	\Windows\System32\cryptcatsvc.dll
+0xb78aa5a8e880	\Program Files\Common Files\Apple\Mobile Device Support\objc.dll
+0xb78aa5a8ea10	\Windows\System32\crypttpmeksvc.dll
+0xb78aa5a8eba0	\Program Files\Common Files\Apple\Mobile Device Support\libicuin.dll
+0xb78aa5a8ed30	\Endpoint
+0xb78aa5a8eec0	\Program Files\Common Files\Apple\Mobile Device Support\libdispatch.dll
+0xb78aa5a8f1e0	\Windows\System32\svchost.exe
+0xb78aa5a8f370	\Program Files\Common Files\Apple\Mobile Device Support\icudt62.dll
+0xb78aa5a8f690	\$Extend\$ObjId
+0xb78aa5a8f820	\Windows\System32\adhsvc.dll
+0xb78aa5a8f9b0	\trkwks
+0xb78aa5a8fb40	\Windows\System32\trkwks.dll
+0xb78aa5a8fcd0	\Windows\System32\wpnservice.dll
+0xb78aa5a8fe60	\Windows\System32\en-US\vsstrace.dll.mui
+0xb78aa5a90180	\Windows\System32\dps.dll
+0xb78aa5a90310	\trkwks
+0xb78aa5a90630	\Windows\System32\en-US\iphlpsvc.dll.mui
+0xb78aa5a907c0	\Program Files\Windows Defender\MpClient.dll
+0xb78aa5a90950	\Program Files\Common Files\Apple\Mobile Device Support\CoreFoundation.resources\CFCharacterSetBitmaps.bitmap
+0xb78aa5a91120	\$Directory
+0xb78aa5a91440	\trkwks
+0xb78aa5a915d0	\Windows\System32\iphlpsvc.dll
+0xb78aa5a91760	\Windows\System32\NetSetupApi.dll
+0xb78aa5a918f0	\$Directory
+0xb78aa5a91a80	\Windows\System32\httpprxm.dll
+0xb78aa5a91c10	\Windows\System32\wdi.dll
+0xb78aa5a91da0	\Program Files\Windows Defender\MsMpEng.exe
+0xb78aa5a92250	\Program Files\Windows Defender\MpSvc.dll
+0xb78aa5a923e0	\Windows\System32
+0xb78aa5a92570	\Program Files\AccessData\FTK Imager\LMS.dll
+0xb78aa5a92700	\Windows\System32\diagperf.dll
+0xb78aa5a92890	\Endpoint
+0xb78aa5a92a20	\Windows\System32\dnssd.dll
+0xb78aa5a92bb0	\ProgramData\Microsoft\Windows Defender\Support\MPDetection-20251022-174143.log
+0xb78aa5a92d40	\Windows\System32\SystemSettings.DataModel.dll
+0xb78aa5a92ed0	\Program Files\Common Files\Apple\Mobile Device Support\pthreadVC2.dll
+0xb78aa5a93380	\Endpoint
+0xb78aa5a936a0	\Program Files\Common Files\Apple\Mobile Device Support\AppleMobileDeviceService_main.dll
+0xb78aa5a93830	\Windows\System32\diagtrack.dll
+0xb78aa5a93b50	\Windows\System32\wpncore.dll
+0xb78aa5a93e70	\$Directory
+0xb78aa5a94320	\$Directory
+0xb78aa5a944b0	\Windows\System32\en-GB\shell32.dll.mui
+0xb78aa5a94640	\Windows\System32\wsock32.dll
+0xb78aa5a947d0	\CMNotify
+0xb78aa5a94960	\ProgramData\Microsoft\Windows Defender\Support\MPLog-20251022-174143.log
+0xb78aa5a94af0	\Windows\System32\winsqlite3.dll
+0xb78aa5a94c80	\Windows\System32\urlmon.dll
+0xb78aa5a94e10	\$Extend\$ObjId:$O:$INDEX_ALLOCATION
+0xb78aa5a95130	\System Volume Information\tracking.log
+0xb78aa5a955e0	\Windows\System32\pnpts.dll
+0xb78aa5a95770	\CMApi
+0xb78aa5a95c20	\Endpoint
+0xb78aa5a95db0	\Program Files\Common Files\Apple\Mobile Device Support\libxml2.dll
+0xb78aa5a960d0	\CMNotify
+0xb78aa5a96260	\Windows\System32\iertutil.dll
+0xb78aa5a963f0	\Windows\System32\StructuredQuery.dll
+0xb78aa5a96710	\Program Files\Common Files\Apple\Mobile Device Support\CFNetwork.dll
+0xb78aa5a968a0	\Windows\System32\perftrack.dll
+0xb78aa5a96a30	\ProgramData\Microsoft\Windows Defender\Support\MpWppTracing-20251023-100500-00000003-ffffffff.bin
+0xb78aa5a96d50	\Windows\System32\cryptui.dll
+0xb78aa5a97390	\Windows\System32\en-US\wldap32.dll.mui
+0xb78aa5a976b0	\Endpoint
+0xb78aa5a97840	\Program Files\Common Files\Apple\Mobile Device Support\MobileDevice.dll
+0xb78aa5a97b60	\Windows\System32\wfapigp.dll
+0xb78aa5a981a0	\Endpoint
+0xb78aa5a98330	\CMApi
+0xb78aa5a984c0	\Endpoint
+0xb78aa5a98650	\Windows\System32\wininet.dll
+0xb78aa5a987e0	\Program Files\Common Files\Apple\Mobile Device Support\zlib1.dll
+0xb78aa5a98970	\Program Files\Common Files\Apple\Mobile Device Support\SQLite3.dll
+0xb78aa5a98b00	\CMNotify
+0xb78aa5b1f250	\Windows\System32\drivers\tcpipreg.sys
+0xb78aa5b200b0	\$PrepareToShrinkFileSize
+0xb78aa5b21080	\Windows\System32\drivers\PEAuth.sys
+0xb78aa5b211f0	\Windows\System32\drivers\Ndu.sys
+0xb78aa5b21c00	\Windows\System32\drivers\mrxsmb10.sys
+0xb78aa5bb73c0	\$ConvertToNonresident
+0xb78aa5c17100	\wkssvc
+0xb78aa5c17290	\Windows\System32\WindowsPowerShell\v1.0\powers
+0xb78aa5c17420	\ProgramData\Microsoft\Windows Defender\Scans\MpDiag.bin
+0xb78aa5c17740	\$Directory
+0xb78aa5c17a60	\$Directory
+0xb78aa5c180a0	\Windows\System32\pcasvc.dll
+0xb78aa5c18870	\Windows\System32\Windows.StateRepositoryPS.dll
+0xb78aa5c18a00	\Program Files\Windows Defender\MpCommu.dll
+0xb78aa5c18d20	\Endpoint
+0xb78aa5c18eb0	\Windows\System32\fltLib.dll
+0xb78aa5c191d0	\Windows\System32\Windows.Storage.Search.dll
+0xb78aa5c19360	\Endpoint
+0xb78aa5c19680	\Windows\System32\Windows.ApplicationModel.dll
+0xb78aa5c19810	\Endpoint
+0xb78aa5c19b30	\Program Files\Windows Defender\MpRtp.dll
+0xb78aa5c19cc0	\Windows\System32\dmcmnutils.dll
+0xb78aa5c19e50	\ProgramData\Microsoft\Windows Defender\Scans\History\CacheManager\50DC8842-0000-0000-0000-100000000000-0.bin
+0xb78aa5c1a300	\$Directory
+0xb78aa5c1a940	\Endpoint
+0xb78aa5c1ac60	\Endpoint
+0xb78aa5c1adf0	\Windows\System32\mshtml.dll
+0xb78aa5c1b110	\Endpoint
+0xb78aa5c1b430	\Windows\System32
+0xb78aa5c1b5c0	\$Directory
+0xb78aa5c1b750	\Windows\System32\en-GB\SearchIndexer.exe.mui
+0xb78aa5c1ba70	\Windows\System32\en-GB\mshtml.dll.mui
+0xb78aa5c1bc00	\Windows\System32\mssrch.dll
+0xb78aa5c1bd90	\Windows\System32\esent.dll
+0xb78aa5c1c240	\Windows\System32\svchost.exe
+0xb78aa5c1c3d0	\Windows\System32
+0xb78aa5c1c560	\Windows\System32\SearchIndexer.exe
+0xb78aa5c1c6f0	\Windows\System32\en-GB\svchost.exe.mui
+0xb78aa5c1c880	\Windows\System32\tquery.dll
+0xb78aa5c1cec0	\Windows\System32\MrmCoreR.dll
+0xb78aa5c1d1e0	\ProgramData\Microsoft\Windows Defender\Definition Updates\{E7C53FB4-0958-4CC7-830D-E52FE350C06B}\mpengine.dll
+0xb78aa5c1d500	\Windows\System32\sru\SRUDB.dat
+0xb78aa5c1d690	\ProgramData\Microsoft\Windows Defender\Definition Updates\{E7C53FB4-0958-4CC7-830D-E52FE350C06B}\mpavbase.vdm
+0xb78aa5c1d9b0	\Windows\System32\AppXDeploymentServer.dll
+0xb78aa5c1db40	\ProgramData\cm-lock
+0xb78aa5c1dcd0	\Windows\System32\en-US\ESENT.dll.mui
+0xb78aa5c1de60	\Endpoint
+0xb78aa5c1e180	\$Directory
+0xb78aa5c1e310	\ProgramData\Microsoft\Windows Defender\Scans\mpcache-15158C1C64A19FA6A47E43F5FDA546E51D07BA96.bin.7E
+0xb78aa5c1e630	\ProgramData\Microsoft\Windows Defender\Definition Updates\{E7C53FB4-0958-4CC7-830D-E52FE350C06B}\mpasbase.vdm
+0xb78aa5c1e7c0	\ProgramData\Microsoft\Windows Defender\Definition Updates\{E7C53FB4-0958-4CC7-830D-E52FE350C06B}\mpasdlta.vdm
+0xb78aa5c1e950	\Windows\System32\sru\SRU.log
+0xb78aa5c1eae0	\Windows\System32\sru\SRU.log
+0xb78aa5c1ec70	\Windows\System32\srumsvc.dll
+0xb78aa5c1ee00	\Windows\System32\winevt\Logs\Microsoft-Windows-Diagnosis-DPS%4Operational.evtx
+0xb78aa5c1f120	\Windows\System32\MrmDeploy.dll
+0xb78aa5c1f2b0	\Windows\System32\WofUtil.dll
+0xb78aa5c1f440	\ProgramData\Microsoft\Windows Defender\Scans\mpcache-15158C1C64A19FA6A47E43F5FDA546E51D07BA96.bin.E6
+0xb78aa5c1f5d0	\ProgramData\Microsoft\Windows Defender\Scans\mpcache-15158C1C64A19FA6A47E43F5FDA546E51D07BA96.bin.80
+0xb78aa5c1f760	\ProgramData\Microsoft\Windows Defender\Definition Updates\{E7C53FB4-0958-4CC7-830D-E52FE350C06B}\mpavdlta.vdm
+0xb78aa5c1f8f0	\Windows\System32\sru\SRUDB.dat
+0xb78aa5c1fa80	\ProgramData\Microsoft\Windows Defender\Scans\mpcache-15158C1C64A19FA6A47E43F5FDA546E51D07BA96.bin.DB
+0xb78aa5c1fc10	\Endpoint
+0xb78aa5c1fda0	\Windows\System32\sru\SRUDB.jfm
+0xb78aa5c203e0	\Endpoint
+0xb78aa5c20570	\ProgramData\Microsoft\Windows Defender\Scans\mpcache-15158C1C64A19FA6A47E43F5FDA546E51D07BA96.bin.87
+0xb78aa5c20700	\CMApi
+0xb78aa5c20890	\ProgramData\Microsoft\Windows Defender\Scans\mpcache-15158C1C64A19FA6A47E43F5FDA546E51D07BA96.bin.A0
+0xb78aa5c20a20	\$Directory
+0xb78aa5c211f0	\Windows\System32\catroot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb.jfm
+0xb78aa5c21380	\ProgramData\Microsoft\Windows Defender\Scans\mpcache-15158C1C64A19FA6A47E43F5FDA546E51D07BA96.bin.6C
+0xb78aa5c21510	\ProgramData\Microsoft\Windows Defender\Scans\mpcache-15158C1C64A19FA6A47E43F5FDA546E51D07BA96.bin.67
+0xb78aa5c216a0	\MsFteWds
+0xb78aa5c21830	\Windows\System32\en-US\ESENT.dll.mui
+0xb78aa5c219c0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Windows.edb
+0xb78aa5c21b50	\Windows\System32\eeprov.dll
+0xb78aa5c21ce0	\Windows\System32\vfuprov.dll
+0xb78aa5c21e70	\Windows\System32\nduprov.dll
+0xb78aa5c22190	\Windows\System32\wwapi.dll
+0xb78aa5c22320	\Windows\System32\catroot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+0xb78aa5c22960	\Windows\System32\catroot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+0xb78aa5c22e10	\Windows\System32\mssprxy.dll
+0xb78aa5c23450	\Windows\System32\catroot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+0xb78aa5c23770	\Windows\System32\provsvc.dll
+0xb78aa5c23900	\ProgramData\Microsoft\Search\Data\Applications\Windows\edb.jtx
+0xb78aa5c23a90	\ProgramData\Microsoft\Diagnosis\ScenariosSqlStore\EventStore.db
+0xb78aa5c23db0	\Windows\System32\appsruprov.dll
+0xb78aa5c24260	\ProgramData\Microsoft\Search\Data\Applications\Windows\edb.jtx
+0xb78aa5c243f0	\Windows\System32\en-US\dosvc.dll.mui
+0xb78aa5c24bc0	\Windows\System32\catroot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb.jfm
+0xb78aa5c24d50	\Windows\System32\catroot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+0xb78aa5c24ee0	\Windows\System32\FlightSettings.dll
+0xb78aa5c25200	\ProgramData\Microsoft\Search\Data\Applications\Windows\Windows.jfm
+0xb78aa5c25520	\Windows\System32\en-US\ESENT.dll.mui
+0xb78aa5c256b0	\Program Files\Common Files\microsoft shared\ink\IpsPlugin.dll
+0xb78aa5c25840	\$Directory
+0xb78aa5c259d0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Windows.edb
+0xb78aa5c25b60	\$Directory
+0xb78aa5c25cf0	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\PropMap\CiPT0000.000
+0xb78aa5c25e80	\$Directory
+0xb78aa5c261a0	\Windows\System32\wpnsruprov.dll
+0xb78aa5c26650	\Windows\System32\mfc42.dll
+0xb78aa5c267e0	\Windows\System32\dosvc.dll
+0xb78aa5c26b00	\Users\windows10_user\ntuser.dat.LOG1
+0xb78aa5c26c90	\$Directory
+0xb78aa5d682e0	\ProgramData\Microsoft\Windows Defender\Scans\mpcache-15158C1C64A19FA6A47E43F5FDA546E51D07BA96.bin.7C
+0xb78aa5d68470	\ProgramData\Microsoft\Diagnosis\TenantStorage\P-ARIA\EventStore.db
+0xb78aa5d68920	\ProgramData\Microsoft\Diagnosis\TenantStorage\P-ARIA\EventStore.db-shm
+0xb78aa5d68c40	\Windows\System32\cryptxml.dll
+0xb78aa5d68dd0	\ProgramData\Microsoft\Diagnosis\ScenariosSqlStore\EventStore.db-shm
+0xb78aa5d690f0	\$Directory
+0xb78aa5d69280	\ProgramData\Microsoft\Diagnosis\TenantStorage\P-ARIA\EventStore.db-wal
+0xb78aa5d695a0	\Windows\System32\WpnUserService.dll
+0xb78aa5d69730	\ProgramData\Microsoft\Diagnosis\ScenariosSqlStore\EventStore.db-wal
+0xb78aa5d69be0	\Windows\System32\winevt\Logs\Microsoft-Windows-UniversalTelemetryClient%4Operational.evtx
+0xb78aa5d6a6d0	\CMApi
+0xb78aa5d6a860	\Windows\System32\Faultrep.dll
+0xb78aa5d6ab80	\ProgramData\Microsoft\Windows Defender\Scans\mpcache-15158C1C64A19FA6A47E43F5FDA546E51D07BA96.bin.79
+0xb78aa5d6bb20	\Windows\System32\Clipc.dll
+0xb78aa5d6be40	\Windows\System32\en-GB\user32.dll.mui
+0xb78aa5d6c7a0	\Windows\System32\en-GB\winsrv.dll.mui
+0xb78aa5d6cac0	\Windows\System32\webservices.dll
+0xb78aa5d6d100	\ProgramData\Microsoft\Windows Defender\Scans\mpcache-15158C1C64A19FA6A47E43F5FDA546E51D07BA96.bin.83
+0xb78aa5d6da60	\$Directory
+0xb78aa5d6e230	\Windows\System32\en-US\lsm.dll.mui
+0xb78aa5d6e6e0	\Windows\System32\en-GB\svchost.exe.mui
+0xb78aa5d6e870	\Windows\System32\NotificationController.dll
+0xb78aa5d6eb90	\Windows\System32\Windows.Shell.ServiceHostBuilder.dll
+0xb78aa5d6eeb0	\Windows\System32\en-US\KernelBase.dll.mui
+0xb78aa5d6f360	\Windows\System32\sihost.exe
+0xb78aa5d6f4f0	\$ConvertToNonresident
+0xb78aa5d6f680	\ProgramData\Microsoft\Windows Defender\Scans\mpenginedb.db
+0xb78aa5d6f9a0	\Windows\System32
+0xb78aa5d6fb30	\Windows\System32\wscapi.dll
+0xb78aa5d6fe50	\ProgramData\Microsoft\Windows Defender\Scans\mpenginedb.db-wal
+0xb78aa5d70170	\Windows\System32\wscsvc.dll
+0xb78aa5d70490	\ProgramData\Microsoft\Windows Defender\Scans\mpenginedb.db-shm
+0xb78aa5d707b0	\ProgramData\Microsoft\Windows Defender\Scans\mpenginedb.db
+0xb78aa5d70ad0	\CMNotify
+0xb78aa5d70c60	\Windows\System32\svchost.exe
+0xb78aa5d71110	\ProgramData\Microsoft\Windows Defender\IMpService77BDAF73-B396-481F-9042-AD358843EC24.lock
+0xb78aa5d71430	\Windows\System32\DesktopShellExt.dll
+0xb78aa5d715c0	\Windows\System32
+0xb78aa5d718e0	\Windows\System32\normnfkc.nls
+0xb78aa5d71a70	\$Directory
+0xb78aa5d71d90	\CMApi
+0xb78aa5d720b0	\Windows\System32\WindowManagement.dll
+0xb78aa5d726f0	\Windows\System32\ActivationManager.dll
+0xb78aa5d72880	\Windows\System32\modernexecserver.dll
+0xb78aa5d72a10	\Windows\System32\ExecModelClient.dll
+0xb78aa5d72ba0	\Windows\System32\ClipboardServer.dll
+0xb78aa5d72d30	\Windows\System32\AppointmentActivation.dll
+0xb78aa5d72ec0	\Program Files\Windows Defender\NisSrv.exe
+0xb78aa5d731e0	\Windows\System32\cdp.dll
+0xb78aa5d73cd0	\Windows\System32
+0xb78aa5d74180	\Windows\System32\cdpusersvc.dll
+0xb78aa5d74310	\Windows\System32\gamestreamingext.dll
+0xb78aa5d744a0	\Windows\System32\TokenBroker.dll
+0xb78aa5d74630	\Windows\System32\tokenbinding.dll
+0xb78aa5d74950	\Windows\System32\container.dll
+0xb78aa5d74ae0	\Windows\System32\CoreShellExtFramework.dll
+0xb78aa5d74c70	\Windows
+0xb78aa5d74e00	\Program Files (x86)\Microsoft\EdgeUpdate\1.3.203.13\msedgeupdateres_en.dll
+0xb78aa5d75120	\Windows\System32\ShareHost.dll
+0xb78aa5d75440	\Windows\System32\AppContracts.dll
+0xb78aa5d755d0	\Windows\System32\Windows.System.Launcher.dll
+0xb78aa5d758f0	\Windows\System32\notificationplatformcomponent.dll
+0xb78aa5d75a80	\$Directory
+0xb78aa5d760c0	\Windows\System32\Windows.Security.Authentication.Web.Core.dll
+0xb78aa5d763e0	\Windows\System32\UiaManager.dll
+0xb78aa5d76570	\Windows\System32\daxexec.dll
+0xb78aa5d76700	\CMApi
+0xb78aa5d76890	\Windows\System32
+0xb78aa5d76bb0	\Windows\System32\taskhostw.exe
+0xb78aa5d76ed0	\Windows\System32\PackageStateChangeHandler.dll
+0xb78aa5d771f0	\Program Files (x86)\Microsoft\EdgeUpdate\MicrosoftEdgeUpdate.exe
+0xb78aa5d776a0	\Windows\System32\twinui.appcore.dll
+0xb78aa5d77b50	\Windows\System32\ACPBackgroundManagerPolicy.dll
+0xb78aa5d77ce0	\Windows\SysWOW64\en-US\jscript9.dll.mui
+0xb78aa5d77e70	\Windows\SysWOW64\wtsapi32.dll
+0xb78aa5d78190	\Windows\System32\MsCtfMonitor.dll
+0xb78aa5d78320	\wkssvc
+0xb78aa5d784b0	\Program Files (x86)\Microsoft\EdgeUpdate\1.3.203.13
+0xb78aa5d78640	\Windows\SysWOW64\kernel.appcore.dll
+0xb78aa5d787d0	\Windows\SysWOW64\msvcp110_win.dll
+0xb78aa5d78960	\Windows\SysWOW64\taskschd.dll
+0xb78aa5d78af0	\Windows\System32\RTMediaFrame.dll
+0xb78aa5d78c80	\Windows\SysWOW64\wkscli.dll
+0xb78aa5d78e10	\Windows\SysWOW64\netapi32.dll
+0xb78aa5d79130	\Windows\SysWOW64\sspicli.dll
+0xb78aa5d79450	\$Directory
+0xb78aa5d795e0	\Windows\SysWOW64\cryptsp.dll
+0xb78aa5d79770	\Users\windows10_user\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\TempState\TileCache_100_4_PNGEncoded_Data.bin
+0xb78aa5d79a90	\Windows\SysWOW64\windows.storage.dll
+0xb78aa5d79c20	\Program Files (x86)\Microsoft\EdgeUpdate\1.3.203.13\msedgeupdate.dll
+0xb78aa5d79db0	\Windows\SysWOW64\netutils.dll
+0xb78aa5d7a0d0	\Windows\SysWOW64\version.dll
+0xb78aa5d7a3f0	\Windows\SysWOW64\winsta.dll
+0xb78aa5d7a580	\Windows\SysWOW64\wldp.dll
+0xb78aa5d7a710	\Windows\SysWOW64\profapi.dll
+0xb78aa5d7a8a0	\Windows\SysWOW64\dsreg.dll
+0xb78aa5d7aa30	\Windows\System32\Windows.Networking.BackgroundTransfer.BackgroundManagerPolicy.dll
+0xb78aa5d7abc0	\ProgramData\Microsoft\EdgeUpdate\Log\MicrosoftEdgeUpdate.log
+0xb78aa5d7ad50	\Windows\appcompat\Programs\Amcache.hve
+0xb78aa5d7aee0	\Windows\System32\BackgroundMediaPolicy.dll
+0xb78aa5d7b200	\Windows\SysWOW64\cryptbase.dll
+0xb78aa5d7b9d0	\ProgramData\Microsoft\Diagnosis\Sideload
+0xb78aa5d7bb60	\Windows\appcompat\Programs\Amcache.hve.LOG1
+0xb78aa5d7bcf0	\Windows\appcompat\Programs\Amcache.hve.LOG2
+0xb78aa5d7c1a0	\Windows\SysWOW64\atlthunk.dll
+0xb78aa5d7c4c0	\Windows\System32\aepic.dll
+0xb78aa5d7c650	\Windows\System32\QuietHours.dll
+0xb78aa5d7c7e0	\Windows\System32\windowsperformancerecordercontrol.dll
+0xb78aa5d7cb00	\Windows\System32\wlidprov.dll
+0xb78aa5d7cc90	\Windows\System32\msutb.dll
+0xb78aa5d7d140	\Windows\System32\en-US\KernelBase.dll.mui
+0xb78aa5d7d2d0	\Windows\SysWOW64\apphelp.dll
+0xb78aa5d7d780	\Program Files
+0xb78aa5d7d910	\Windows\System32\SebBackgroundManagerPolicy.dll
+0xb78aa5d7dc30	\Windows\System32\execmodelproxy.dll
+0xb78aa5d7ddc0	\Windows\System32\SmartCardBackgroundPolicy.dll
+0xb78aa5d7e0e0	\Windows\System32\ncryptprov.dll
+0xb78aa5d7e400	\Windows\System32\keyiso.dll
+0xb78aa5d7e720	\Users\windows10_user\AppData\Local\Microsoft\Windows\Notifications\wpndatabase.db-wal
+0xb78aa5d7e8b0	\Windows\System32\Windows.Security.Authentication.OnlineId.dll
+0xb78aa5d7ea40	\Windows\System32\cdpsvc.dll
+0xb78aa5d7ebd0	\Windows\System32\en-US\KernelBase.dll.mui
+0xb78aa5d7f080	\Users\windows10_user\AppData\Local\Microsoft\Windows\Notifications\WPNPRMRY.tmp
+0xb78aa5d7f210	\$Directory
+0xb78aa5d7f3a0	\Users\windows10_user\AppData\Local\Microsoft\Windows\Notifications\wpndatabase.db-shm
+0xb78aa5d7f530	\Users\windows10_user\AppData\Local\Microsoft\Windows\Notifications\wpndatabase.db
+0xb78aa5d7f6c0	\Windows\System32\en-GB\crypt32.dll.mui
+0xb78aa5d7f850	\CMNotify
+0xb78aa5d7f9e0	\Windows\Globalization\ICU\zoneinfo64.res
+0xb78aa5d80660	\$Directory
+0xb78aa5d80980	\$ConvertToNonresident
+0xb78aa5d80b10	\Windows\System32\en-GB\twinui.pcshell.dll.mui
+0xb78aa5d81150	\Windows\System32\sbservicetrigger.dll
+0xb78aa5d812e0	\Windows\System32\en-US\ESENT.dll.mui
+0xb78aa5d81470	\Windows\System32\winevt\Logs\Microsoft-Windows-LiveId%4Operational.evtx
+0xb78aa5d81790	\Windows\System32\en-GB\crypt32.dll.mui
+0xb78aa5d81920	\Windows\explorer.exe
+0xb78aa5d81dd0	\Windows\System32\Windows.Networking.Connectivity.dll
+0xb78aa5d820f0	\Windows\System32\twinapi.dll
+0xb78aa5d82280	\Windows\System32\en-GB\winnlsres.dll.mui
+0xb78aa5d82410	\$Directory
+0xb78aa5d825a0	\Windows\System32\Windows.StateRepositoryBroker.dll
+0xb78aa5d82730	\Windows\System32\en-US\mswsock.dll.mui
+0xb78aa5d828c0	\Windows\System32\Windows.StateRepositoryClient.dll
+0xb78aa5d82be0	\$Directory
+0xb78aa5d82d70	\Windows\System32\vaultcli.dll
+0xb78aa5d83220	\Windows\System32\en-US\dnsapi.dll.mui
+0xb78aa5d83540	\Windows\System32\NPSM.dll
+0xb78aa5d836d0	\Endpoint
+0xb78aa5d83d10	\$Directory
+0xb78aa5d841c0	\Windows\System32
+0xb78aa5d844e0	\Users\windows10_user\AppData\Local\Microsoft\Windows\Caches\cversions.3.db
+0xb78aa5d84670	\Windows\System32\dusmapi.dll
+0xb78aa5d84800	\Windows\System32\wpnprv.dll
+0xb78aa5d84990	\Windows\System32\AppResolver.dll
+0xb78aa5d84b20	\Windows\System32\dssenh.dll
+0xb78aa5d84cb0	\Windows\System32\mskeyprotect.dll
+0xb78aa5d84e40	\Windows\System32\wpnapps.dll
+0xb78aa5d85160	\Windows\System32\Windows.CloudStore.Schema.Shell.dll
+0xb78aa5d852f0	\Windows\System32\ContentDeliveryManager.Utilities.dll
+0xb78aa5d85480	\Endpoint
+0xb78aa5d85610	\$Directory
+0xb78aa5d857a0	\$Directory
+0xb78aa5d85930	\$Directory
+0xb78aa5d85ac0	\Endpoint
+0xb78aa5d85c50	\Windows\System32\wpnclient.dll
+0xb78aa5d85de0	\Endpoint
+0xb78aa5d86420	\Windows\System32\ncryptsslp.dll
+0xb78aa5d865b0	\Endpoint
+0xb78aa5d868d0	\Endpoint
+0xb78aa5d86bf0	\Windows\System32\AppExtension.dll
+0xb78aa5d86d80	\CMNotify
+0xb78aa5d870a0	\$Directory
+0xb78aa5d87230	\$Directory
+0xb78aa5d873c0	\Endpoint
+0xb78aa5d87550	\Windows\System32\twinui.pcshell.dll
+0xb78aa5d876e0	\Windows\System32\winevt\Logs\Microsoft-Windows-PushNotification-Platform%4Operational.evtx
+0xb78aa5d87870	\Windows\System32\CapabilityAccessManagerClient.dll
+0xb78aa5d87a00	\CMNotify
+0xb78aa5d87b90	\ProgramData\CodeMeter\CmAct\Catalogue.WibuCmHt
+0xb78aa5d87d20	\ProgramData\CodeMeter\CmAct\Catalogue.WibuCmHt
+0xb78aa5d87eb0	\Windows\System32\NotificationControllerPS.dll
+0xb78aa5e02150	\Windows\System32\SleepStudy\ScreenOn\ScreenOnPowerStudyTraceSession-2025-10-23-10-05-02.etl
+0xb78aa5e022e0	\$Directory
+0xb78aa5e02470	\ProgramData\Microsoft\Search\Data\Applications\Windows\GatherLogs\SystemIndex\SystemIndex.1.Crwl
+0xb78aa5e02600	\Endpoint
+0xb78aa5e02790	\Endpoint
+0xb78aa5e02920	\$Directory
+0xb78aa5e02ab0	\Windows\System32\DDORes.dll
+0xb78aa5e02c40	\Winsock2\CatalogChangeListener-7c4-0
+0xb78aa5e030f0	\$Directory
+0xb78aa5e03280	\Windows\System32\spinf.dll
+0xb78aa5e03410	\$Directory
+0xb78aa5e035a0	\Windows\System32\ncuprov.dll
+0xb78aa5e03730	\Windows\System32\en-US\vsstrace.dll.mui
+0xb78aa5e03d70	\$Directory
+0xb78aa5e04090	\ProgramData\Microsoft\Search\Data\Applications\Windows\GatherLogs\SystemIndex\SystemIndex.1.gthr
+0xb78aa5e04220	\$Directory
+0xb78aa5e043b0	\Endpoint
+0xb78aa5e04540	\Endpoint
+0xb78aa5e046d0	\Windows\System32\energyprov.dll
+0xb78aa5e04860	\Windows\SystemResources\tquery.dll.mun
+0xb78aa5e04b80	\SearchTextHarvester
+0xb78aa5e04d10	\ProgramData\Microsoft\Search\Data\Applications\Windows\Projects\SystemIndex\SecStore\CiST0000.000
+0xb78aa5e05350	\Windows\System32\en-GB\winnlsres.dll.mui
+0xb78aa5e05800	\Windows\System32\TextInputFramework.dll
+0xb78aa5e05990	\Windows\System32\LanguageOverlayUtil.dll
+0xb78aa5e05b20	\Windows\System32\InputHost.dll
+0xb78aa5e06160	\Windows\System32\Windows.UI.Logon.dll
+0xb78aa5e062f0	\Windows\System32\wincorlib.dll
+0xb78aa5e06610	\Windows\System32\Windows.UI.Immersive.dll
+0xb78aa5e06930	\Windows\System32\winnlsres.dll
+0xb78aa5e06ac0	\Windows\System32\winevt\Logs\Microsoft-Windows-Windows Firewall With Advanced Security%4FirewallDiagnostics.evtx
+0xb78aa5e07290	\Windows\System32\webio.dll
+0xb78aa5e07420	\Program Files\AccessData\FTK Imager\adtz_globals.dll
+0xb78aa5e075b0	\Windows\System32\BCP47Langs.dll
+0xb78aa5e07740	\Windows\System32\Windows.UI.dll
+0xb78aa5e078d0	\Windows\System32\BCP47mrm.dll
+0xb78aa5e07a60	\Windows\System32\Windows.UI.Xaml.dll
+0xb78aa5e07bf0	\$Directory
+0xb78aa5e080a0	\Windows\System32\globinputhost.dll
+0xb78aa5e08230	\Windows\System32\srumapi.dll
+0xb78aa5e083c0	\Windows\System32\winevt\Logs\Microsoft-Windows-Windows Firewall With Advanced Security%4ConnectionSecurity.evtx
+0xb78aa5e086e0	\CMNotify
+0xb78aa5e08a00	\ProgramData\Microsoft\Windows Defender\Scans\mpcache-15158C1C64A19FA6A47E43F5FDA546E51D07BA96.bin.01
+0xb78aa5e08d20	\Windows\System32\Windows.UI.Xaml.Resources.19h1.dll
+0xb78aa5e091d0	\$Directory
+0xb78aa5e09360	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5\comctl32.dll
+0xb78aa5e094f0	\CMNotify
+0xb78aa5e09680	\Windows\System32\Windows.ApplicationModel.Background.SystemEventsBroker.dll
+0xb78aa5e09810	\CMNotify
+0xb78aa5e099a0	\Windows\System32\Windows.UI.Xaml.Maps.dll
+0xb78aa5e09b30	\Windows\System32\DWrite.dll
+0xb78aa5e09e50	\Windows\System32\Windows.Globalization.dll
+0xb78aa5e0a170	\CMApi
+0xb78aa5e0a300	\Windows\System32\Windows.UI.Xaml.InkControls.dll
+0xb78aa5e0a490	\Users\windows10_user\AppData\Local\Microsoft\Windows\Caches\{3DA71D5A-20CC-432F-A115-DFE92379E91F}.3.ver0x0000000000000018.db
+0xb78aa5e0a620	\Windows\System32\Windows.UI.Xaml.Phone.dll
+0xb78aa5e0a940	\Windows\System32\Windows.UI.Xaml.Controls.dll
+0xb78aa5e0aad0	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xb78aa5e0adf0	\Program Files\AccessData\FTK Imager\libvshadow.dll
+0xb78aa5e0b110	\Windows\System32\CBDHSvc.dll
+0xb78aa5e0b430	\Windows\System32\batmeter.dll
+0xb78aa5e0b5c0	\Windows\SystemResources\batmeter.dll.mun
+0xb78aa5e0b8e0	\Windows\System32\BioCredProv.dll
+0xb78aa5e0bc00	\Windows\System32\NetworkUXBroker.dll
+0xb78aa5e0c6f0	\Program Files\AccessData\FTK Imager\adefs.dll
+0xb78aa5e0cec0	\$Directory
+0xb78aa5e0d1e0	\Windows\System32\en-GB\batmeter.dll.mui
+0xb78aa5e0d370	\Windows\System32\en-GB\InputSwitch.dll.mui
+0xb78aa5e0d9b0	\Windows\System32\EthernetMediaManager.dll
+0xb78aa5e0dcd0	\Windows\System32\wlidcredprov.dll
+0xb78aa5e0de60	\Windows\System32\rasplap.dll
+0xb78aa5e0e180	\Windows\System32\InputSwitch.dll
+0xb78aa5e0e310	\Windows\System32\directmanipulation.dll
+0xb78aa5e0e630	\Windows\System32\CredProvDataModel.dll
+0xb78aa5e0ee30	ꗠ랊￿ꗠ랊￿
+0xb78aa5e0f120	\Windows\System32\Windows.Devices.Enumeration.dll
+0xb78aa5e0f5d0	\$Directory
+0xb78aa5e0f8f0	\Windows\System32\DevDispItemProvider.dll
+0xb78aa5e0fa80	\Windows\System32\rtutils.dll
+0xb78aa5e10250	\CMNotify
+0xb78aa5e103e0	\Windows\System32\prm0009.dll
+0xb78aa5e10570	\Windows\System32\MSWB7.dll
+0xb78aa5e10700	\$Directory
+0xb78aa5e10890	\Windows\System32\Windows.Media.dll
+0xb78aa5e10a20	\Windows\System32\winbio.dll
+0xb78aa5e10ed0	\$Directory
+0xb78aa5e11830	\$Directory
+0xb78aa5e119c0	\Windows\System32\IDStore.dll
+0xb78aa5e11b50	\Windows\System32\en-GB\windows.storage.dll.mui
+0xb78aa5e11ce0	\Windows\Fonts\segoeui.ttf
+0xb78aa5e11e70	\$Directory
+0xb78aa5e12320	\$Directory
+0xb78aa5e124b0	\Windows\System32\normidna.nls
+0xb78aa5e127d0	\Windows\System32\TextShaping.dll
+0xb78aa5e12c80	\Windows\System32
+0xb78aa5e13130	\Windows\System32\threadpoolwinrt.dll
+0xb78aa5e132c0	\$Directory
+0xb78aa5e13450	\$Directory
+0xb78aa5e135e0	\Windows\System32\PhotoMetadataHandler.dll
+0xb78aa5e13900	\$Directory
+0xb78aa5e13a90	\$Directory
+0xb78aa5e13c20	\Windows\System32\svchost.exe
+0xb78aa5e13db0	\Windows\System32\edputil.dll
+0xb78aa5e140d0	\CMNotify
+0xb78aa5e14260	\$Directory
+0xb78aa5e14580	\$Directory
+0xb78aa5e148a0	\$Directory
+0xb78aa5e14a30	\Windows\System32\en-GB\propsys.dll.mui
+0xb78aa5e14d50	\Dev\Query
+0xb78aa5e14ee0	\Windows\System32\RMapi.dll
+0xb78aa5e15200	\CMApi
+0xb78aa5e15520	\Windows\System32\XboxGipRadioManager.dll
+0xb78aa5e156b0	\Users\windows10_user\ntuser.dat.LOG2
+0xb78aa5e15840	\$Directory
+0xb78aa5e15b60	\Users\windows10_user\AppData\Local\Microsoft\Windows\UsrClass.dat
+0xb78aa5e15e80	\Windows\System32\winevt\Logs\Microsoft-Windows-HelloForBusiness%4Operational.evtx
+0xb78aa5e161a0	\Windows\System32\Windows.Web.dll
+0xb78aa5e16330	\Windows\System32\en-GB\svchost.exe.mui
+0xb78aa5e164c0	\$Directory
+0xb78aa5e167e0	\Windows\System32\OneCoreCommonProxyStub.dll
+0xb78aa5e172d0	\Users\windows10_user\NTUSER.DAT
+0xb78aa5e17780	\Windows\System32\WwanRadioManager.dll
+0xb78aa5e17910	\CMNotify
+0xb78aa5e17aa0	\Windows\System32\NfcRadioMedia.dll
+0xb78aa5e17c30	\Windows\System32\Windows.CloudStore.dll
+0xb78aa5e180e0	\Device\HarddiskVolume1\Users\windows10_user\AppData\Local\Microsoft\Windows\UsrClass.dat{7f167ff5-afa9-11f0-b118-0800277f6806}.TM
+0xb78aa5e18270	\Windows\System32\SettingSync.dll
+0xb78aa5e18400	\Windows\System32\winevt\Logs\Microsoft-Windows-Crypto-DPAPI%4BackUpKeySvc.evtx
+0xb78aa5e18590	\Users\windows10_user\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG1
+0xb78aa5e18720	\$Directory
+0xb78aa5e188b0	\$Directory
+0xb78aa5e18bd0	\Device\HarddiskVolume1\Users\windows10_user\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM
+0xb78aa5e18d60	\Users\windows10_user\AppData\Local\Microsoft\Windows\UsrClass.dat{7f167ff5-afa9-11f0-b118-0800277f6806}.TMContainer00000000000000000002.regtrans-ms
+0xb78aa5e18ef0	\Windows\System32\WlanRadioManager.dll
+0xb78aa5e19080	\Windows\System32\AppxAllUserStore.dll
+0xb78aa5e19210	\Windows\System32\coreaudiopolicymanagerext.dll
+0xb78aa5e193a0	\Users\windows10_user\AppData\Local\Microsoft\Windows\UsrClass.dat{7f167ff5-afa9-11f0-b118-0800277f6806}.TMContainer00000000000000000001.regtrans-ms
+0xb78aa5e196c0	\Users\windows10_user\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+0xb78aa5e19b70	\Users\windows10_user\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+0xb78aa5e19d00	\Users\windows10_user\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+0xb78aa5e19e90	\Device\HarddiskVolume1\Users\windows10_user\AppData\Local\Microsoft\Windows\UsrClass.dat{7f167ff5-afa9-11f0-b118-0800277f6806}.TM
+0xb78aa5e1a1b0	\Users\windows10_user\AppData\Local\Microsoft\Windows\UsrClass.dat.LOG2
+0xb78aa5e1a340	\$Directory
+0xb78aa5e1a4d0	\Device\HarddiskVolume1\Users\windows10_user\NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM
+0xb78aa5e1a660	\Users\windows10_user\AppData\Local\Microsoft\Windows\UsrClass.dat{7f167ff5-afa9-11f0-b118-0800277f6806}.TM.blf
+0xb78aa5e1a7f0	\Windows\System32\shacctprofile.dll
+0xb78aa5e1a980	\CMNotify
+0xb78aa5e1ab10	\wkssvc
+0xb78aa5e1ae30	\Windows\System32\winevt\Logs\Microsoft-Windows-Crypto-DPAPI%4Operational.evtx
+0xb78aa5e1b150	\$Directory
+0xb78aa5e1b2e0	\$Directory
+0xb78aa5e1bc40	\Windows\System32\winevt\Logs\Microsoft-Windows-CloudStore%4Operational.evtx
+0xb78aa5e1c5a0	\Windows\System32\winevt\Logs\Microsoft-Windows-CloudStore%4Initialization.evtx
+0xb78aa5e1c730	\Program Files\AccessData\FTK Imager\adese.dll
+0xb78aa5e1ca50	\Windows\System32\ReAgent.dll
+0xb78aa5e1cd70	\browser
+0xb78aa5e1d220	\browser
+0xb78aa5e1d540	\Windows\System32\dbgcore.dll
+0xb78aa5e1d6d0	\browser
+0xb78aa5e1d860	\Windows\System32\dbghelp.dll
+0xb78aa5e1db80	\Windows\System32
+0xb78aa5e1dd10	\ProgramData\Microsoft\Diagnosis\EventStore.db
+0xb78aa5e1e1c0	\Windows\System32\radardt.dll
+0xb78aa5e1e670	\Windows\System32\winevt\Logs\Microsoft-Windows-SettingSync%4Operational.evtx
+0xb78aa5e1e800	\Windows\System32\wbem\cimwin32.dll
+0xb78aa5e1e990	\Windows\System32\wbem\en-US\cimwin32.dll.mui
+0xb78aa5e1eb20	\CMNotify
+0xb78aa5e1ecb0	\Windows\System32\wbem\WmiPrvSE.exe
+0xb78aa5e1ee40	\Windows\System32\winevt\Logs\Microsoft-Windows-WMI-Activity%4Operational.evtx
+0xb78aa5e1f160	\Windows\System32\winevt\Logs\Microsoft-Windows-AppXDeployment%4Operational.evtx
+0xb78aa5e1f2f0	\Windows\System32\winevt\Logs\Microsoft-Windows-AppXDeploymentServer%4Restricted.evtx
+0xb78aa5e1f480	\Windows\System32\en-GB\user32.dll.mui
+0xb78aa5e1f610	\Windows\System32\wshbth.dll
+0xb78aa5e1f7a0	\Windows\System32\en-US\taskhostw.exe.mui
+0xb78aa5e1f930	\Windows\System32\usp10.dll
+0xb78aa5e1fac0	\Windows\System32\winevt\Logs\Microsoft-Windows-AppXDeploymentServer%4Operational.evtx
+0xb78aa5e1fde0	\Windows\Microsoft.NET\Framework64\v4.0.30319\clr.dll
+0xb78aa5e20100	\Windows\System32\pnrpnsp.dll
+0xb78aa5e20290	\Windows\System32\framedynos.dll
+0xb78aa5e20740	\$Directory
+0xb78aa5e208d0	\Windows\System32\en-US\KernelBase.dll.mui
+0xb78aa5e20a60	\CMNotify
+0xb78aa5e20bf0	\Windows\System32\wmi.dll
+0xb78aa5e20d80	\Windows\System32\winevt\Logs\Microsoft-Windows-Resource-Exhaustion-Detector%4Operational.evtx
+0xb78aa5e210a0	\Windows\System32\NapiNSP.dll
+0xb78aa5e21230	\Windows\System32\winrnr.dll
+0xb78aa5e213c0	\Windows\System32\winevt\Logs\Microsoft-Windows-SettingSync%4Debug.evtx
+0xb78aa5e216e0	\$Directory
+0xb78aa5e21b90	\ProgramData\Microsoft\Diagnosis\EventStore.db-wal
+0xb78aa5e21eb0	\ProgramData\Microsoft\Diagnosis\EventStore.db-shm
+0xb78aa5e91310	\Windows\System32\drivers\fastfat.sys
+0xb78aa5fd8b30	\Windows\System32\config\TxR\{53b39e3d-18c4-11ea-a811-000d3aa4692b}.TxR.blf
+0xb78aa5fd8ca0	\Windows\System32\config\TxR\{53b39e3d-18c4-11ea-a811-000d3aa4692b}.TxR.2.regtrans-ms
+0xb78aa5fd93d0	\Windows\System32\config\TxR\{53b39e3d-18c4-11ea-a811-000d3aa4692b}.TxR.1.regtrans-ms
+0xb78aa5fd96b0	\Windows\System32\config\TxR\{53b39e3d-18c4-11ea-a811-000d3aa4692b}.TxR.0.regtrans-ms
+0xb78aa5fda0c0	\SystemRoot\System32\Config\TxR\{53b39e3d-18c4-11ea-a811-000d3aa4692b}.TxR
+0xb78aa5fdbef0	\Windows\System32\LogFiles\WMI\RtBackup\EtwRTDiagtrack-Listener.etl
+0xb78aa5fdfe30	\Windows\System32\drivers\WdNisDrv.sys
+0xb78aa5fe9240	\$PrepareToShrinkFileSize
+0xb78aa61ad150	\AsyncSelectHlp
+0xb78aa61ad470	\AsyncConnectHlp
+0xb78aa61ad600	\Windows\System32\en-GB\crypt32.dll.mui
+0xb78aa61ad790	\Windows\System32\wifidatacapabilityhandler.dll
+0xb78aa61ad920	\$Directory
+0xb78aa61adab0	\Users\windows10_user\AppData\Local\ConnectedDevicesPlatform\L.windows10_user\ActivitiesCache.db
+0xb78aa61adc40	\Windows\System32\avifil32.dll
+0xb78aa61addd0	\Users\windows10_user\AppData\Local\ConnectedDevicesPlatform\L.windows10_user\ActivitiesCache.db-shm
+0xb78aa61ae280	\Windows\System32\SecureTimeAggregator.dll
+0xb78aa61ae410	\Windows\System32\winevt\Logs\Microsoft-Windows-Security-Mitigations%4KernelMode.evtx
+0xb78aa61ae5a0	\Windows\System32\Windows.Networking.Sockets.PushEnabledApplication.dll
+0xb78aa61ae730	\Windows\System32\msxml6.dll
+0xb78aa61ae8c0	\Users\windows10_user\AppData\Local\ConnectedDevicesPlatform\L.windows10_user\ActivitiesCache.db-wal
+0xb78aa61aea50	\Windows\System32\winevt\Logs\Microsoft-Windows-PushNotification-Platform%4Admin.evtx
+0xb78aa61aebe0	\Endpoint
+0xb78aa61aed70	\Windows\System32\msxml6r.dll
+0xb78aa61af090	\$Directory
+0xb78aa61af220	\Windows\System32\winevt\Logs\Microsoft-Windows-Security-Mitigations%4UserMode.evtx
+0xb78aa61af3b0	\Winsock2\CatalogChangeListener-23c-0
+0xb78aa61af540	\Endpoint
+0xb78aa61af6d0	\Endpoint
+0xb78aa61af860	\Program Files\AccessData\FTK Imager\adlotus.dll
+0xb78aa61af9f0	\Windows\System32\en-GB\crypt32.dll.mui
+0xb78aa61afb80	\Endpoint
+0xb78aa61afd10	\Endpoint
+0xb78aa61afea0	\Endpoint
+0xb78aa61b01c0	\Windows\System32\msvfw32.dll
+0xb78aa61b0350	\$Directory
+0xb78aa61b0670	\Windows\SysWOW64\userenv.dll
+0xb78aa61b0990	\Endpoint
+0xb78aa61b0b20	\$Directory
+0xb78aa61b0cb0	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xb78aa61b0e40	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xb78aa61b12f0	\Windows\System32\en-US\ntdll.dll.mui
+0xb78aa61b1480	\$Directory
+0xb78aa61b1930	\Windows\System32\en-US\taskhostw.exe.mui
+0xb78aa61b2100	\$Directory
+0xb78aa61b2290	\Program Files\AccessData\FTK Imager\vcruntime140_1.dll
+0xb78aa61b2420	\Windows\en-GB\explorer.exe.mui
+0xb78aa61b3230	\Windows\System32\cellulardatacapabilityhandler.dll
+0xb78aa61b33c0	\$Directory
+0xb78aa61b3550	\Windows\System32\StartTileData.dll
+0xb78aa61b3870	\Windows\System32\oleaccrc.dll
+0xb78aa61b3a00	\Windows\System32\PlaySndSrv.dll
+0xb78aa61b3d20	\Windows\System32\TabSvc.dll
+0xb78aa61b41d0	\Program Files\AccessData\FTK Imager\cbfsconnect22.dll
+0xb78aa61b44f0	\Windows\System32\en-US\MsCtfMonitor.dll.mui
+0xb78aa61b4680	\Windows\Fonts\StaticCache.dat
+0xb78aa61b4810	\$Directory
+0xb78aa61b4cc0	\Program Files\AccessData\FTK Imager\icudt57.dll
+0xb78aa61b4e50	\Windows\System32\en-US\KernelBase.dll.mui
+0xb78aa61b5170	\Windows\System32\SndVolSSO.dll
+0xb78aa61b5490	\CMApi
+0xb78aa61b5620	\Windows\System32\en-GB\windows.storage.dll.mui
+0xb78aa61b5940	\$Directory
+0xb78aa61b5ad0	\$Directory
+0xb78aa61b5c60	\Windows\System32\mscoree.dll
+0xb78aa61b5df0	\Windows\System32\oleacc.dll
+0xb78aa61b62a0	\Windows\System32\en-GB\oleaccrc.dll.mui
+0xb78aa61b6430	\Windows\Fonts\segmdl2.ttf
+0xb78aa61b6750	\Windows\System32\winevt\Logs\Microsoft-Windows-Shell-Core%4ActionCenter.evtx
+0xb78aa61b68e0	\Windows\System32\ExplorerFrame.dll
+0xb78aa61b6a70	\Windows\System32\RuntimeBroker.exe
+0xb78aa61b6c00	\Windows\System32\windows.immersiveshell.serviceprovider.dll
+0xb78aa61b6d90	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xb78aa61b70b0	\Windows\System32\msacm32.dll
+0xb78aa61b7240	\Windows\System32\en-GB\ctfmon.exe.mui
+0xb78aa61b73d0	\Windows\System32\DataExchange.dll
+0xb78aa61b7560	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xb78aa61b7880	\Windows\System32\en-GB\propsys.dll.mui
+0xb78aa61b7a10	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xb78aa61b7d30	\Windows\System32\en-GB\winnlsres.dll.mui
+0xb78aa61b81e0	\Windows\System32
+0xb78aa61b8370	\Windows\System32\winevt\Logs\Microsoft-Windows-TaskScheduler%4Maintenance.evtx
+0xb78aa61b8500	\Windows\System32\ctfmon.exe
+0xb78aa61b8690	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xb78aa61b8820	\Windows\System32\winevt\Logs\Microsoft-Windows-Shell-Core%4LogonTasksChannel.evtx
+0xb78aa61b8b40	\Windows\System32\cldapi.dll
+0xb78aa61b8cd0	\Windows\ServiceProfiles\LocalService\AppData\Local\FontCache\~FontCache-S-1-5-21-2404055049-1604330850-3828681742-1000.dat
+0xb78aa61b8e60	\Windows\ServiceProfiles\LocalService\AppData\Local\FontCache\~FontCache-FontSet-S-1-5-21-2404055049-1604330850-3828681742-1000.dat
+0xb78aa61b9310	\Windows\System32\winevt\Logs\Microsoft-Windows-Shell-Core%4Operational.evtx
+0xb78aa61b94a0	\Windows\System32\winevt\Logs\Microsoft-Windows-Shell-Core%4AppDefaults.evtx
+0xb78aa61b9630	\CMNotify
+0xb78aa61b9950	\Windows\System32\C_1251.NLS
+0xb78aa61b9c70	\Windows\System32
+0xb78aa61b9e00	\Windows\System32\thumbcache.dll
+0xb78aa61ba120	\$Directory
+0xb78aa61ba2b0	\Endpoint
+0xb78aa61ba440	\Windows\System32\InputLocaleManager.dll
+0xb78aa61ba5d0	\$Directory
+0xb78aa61ba760	\Windows\System32\C_1254.NLS
+0xb78aa61ba8f0	\Dev\Query
+0xb78aa61baa80	\Windows\System32\SecurityHealthProxyStub.dll
+0xb78aa61bac10	\Windows\System32\C_1250.NLS
+0xb78aa61bb0c0	\Windows\System32\C_1256.NLS
+0xb78aa61bb250	\Windows\System32\C_1253.NLS
+0xb78aa61bb3e0	\Windows\System32\TextInputMethodFormatter.dll
+0xb78aa61bb570	\Windows\System32\en-GB\svchost.exe.mui
+0xb78aa61bb890	\Windows\System32\SpeechPal.dll
+0xb78aa61bba20	\Windows\System32\InputService.dll
+0xb78aa61bc1f0	\Windows\System32\MTF.dll
+0xb78aa61bc6a0	\Windows\System32\MTFServer.dll
+0xb78aa61bc9c0	\Windows\System32\svchost.exe
+0xb78aa61bce70	\Windows\System32\twinui.dll
+0xb78aa61bd320	\$Directory
+0xb78aa61bd640	\Windows\System32\ntshrui.dll
+0xb78aa61bdaf0	\CMApi
+0xb78aa61bdc80	\Windows\System32\pdh.dll
+0xb78aa61bde10	\srvsvc
+0xb78aa61be130	\Endpoint
+0xb78aa61be2c0	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_48.db
+0xb78aa61be5e0	\$Directory
+0xb78aa61be770	\Windows\System32\ApplicationFrame.dll
+0xb78aa61bea90	\$Directory
+0xb78aa61bedb0	\Windows\System32\en-US\mswsock.dll.mui
+0xb78aa61bf3f0	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xb78aa61bf580	\Windows\System32\cscapi.dll
+0xb78aa61bf710	\Windows\System32\LogonUI.exe
+0xb78aa61bf8a0	\Windows\System32\en-US\msvfw32.dll.mui
+0xb78aa61bfa30	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+0xb78aa61bfbc0	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0xb78aa61bfee0	\$Directory
+0xb78aa61c0200	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0xb78aa61c0390	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+0xb78aa61c0520	\Windows\System32\riched20.dll
+0xb78aa61c06b0	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\thumbcache_48.db
+0xb78aa61c09d0	\$Directory
+0xb78aa61c0b60	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+0xb78aa61c0cf0	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\thumbcache_48.db
+0xb78aa61c11a0	\$Directory
+0xb78aa61c1330	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_32.db
+0xb78aa61c14c0	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+0xb78aa61c17e0	\Windows\System32\EhStorShell.dll
+0xb78aa61c1970	\Windows\System32\dllhost.exe
+0xb78aa61c1b00	\Windows\System32\linkinfo.dll
+0xb78aa61c1c90	\Windows\System32\winevt\Logs\Microsoft-Windows-Program-Compatibility-Assistant%4CompatAfterUpgrade.evtx
+0xb78aa61c1e20	\$Directory
+0xb78aa61c22d0	\Windows\Microsoft.NET\Framework64\v4.0.30319\mscoreei.dll
+0xb78aa61c2460	\$Directory
+0xb78aa61c25f0	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\amd64\FileSyncShell64.dll
+0xb78aa61c2780	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_32.db
+0xb78aa61c2910	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0xb78aa61c2aa0	\Program Files\AccessData\FTK Imager\FTK Imager.exe
+0xb78aa61c2dc0	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_48.db
+0xb78aa61c30e0	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_32.db
+0xb78aa61c3270	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0xb78aa61c3400	\Windows\System32\HolographicExtensions.dll
+0xb78aa61c3590	\wkssvc
+0xb78aa61c3720	\Windows\System32\en-US\datamap.0409.dat
+0xb78aa61c38b0	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0xb78aa61c3a40	\Windows\System32\Windows.Shell.BlueLightReduction.dll
+0xb78aa61c3bd0	\Windows\System32\VirtualMonitorManager.dll
+0xb78aa61c3d60	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0xb78aa61c3ef0	\Windows\System32\AboveLockAppHost.dll
+0xb78aa61c4210	\Windows\SystemResources\ShellComponents\ShellComponents.pri
+0xb78aa61c43a0	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\thumbcache_48.db
+0xb78aa61c4530	\$Directory
+0xb78aa61c46c0	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\thumbcache_48.db
+0xb78aa61c4850	\Windows\System32\ShellCommonCommonProxyStub.dll
+0xb78aa61c49e0	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0xb78aa61c4b70	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+0xb78aa61c4e90	\Windows\System32\IconCodecService.dll
+0xb78aa61c51b0	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_48.db
+0xb78aa61c5340	\Windows\rescache\_merged\485915750\1665002515.pri
+0xb78aa61c5660	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+0xb78aa61c57f0	\Windows\System32\Windows.Internal.Signals.dll
+0xb78aa61c5980	\Windows\System32\windows.applicationmodel.datatransfer.dll
+0xb78aa61c5b10	\$Directory
+0xb78aa61c5e30	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_48.db
+0xb78aa61c6150	\Windows\System32\Windows.Data.Activities.dll
+0xb78aa61c6470	\Dev\Query
+0xb78aa61c6600	\ProgramData\Microsoft\Windows\AppRepository\StateRepository-Deployment.srd-shm
+0xb78aa61c6790	\Windows\System32\msls31.dll
+0xb78aa61c6920	\Windows\System32\cryptnet.dll
+0xb78aa61c6ab0	\Dev\Query
+0xb78aa61c6c40	\$Directory
+0xb78aa61c7410	\ProgramData\Microsoft\Windows\AppRepository\StateRepository-Machine.srd-wal
+0xb78aa61c78c0	\Windows\System32\LocationFrameworkInternalPS.dll
+0xb78aa61c7be0	\ProgramData\Microsoft\Windows\AppRepository\StateRepository-Machine.srd
+0xb78aa61c7d70	\ProgramData\Microsoft\Windows\AppRepository\StateRepository-Deployment.srd-wal
+0xb78aa61c8090	\ProgramData\Microsoft\Windows\AppRepository\StateRepository-Machine.srd-shm
+0xb78aa61c8220	\ProgramData\Microsoft\Windows\AppRepository\StateRepository-Deployment.srd
+0xb78aa61c83b0	\Endpoint
+0xb78aa61c8540	\CMApi
+0xb78aa61c86d0	\Windows\System32\en-US\ntdll.dll.mui
+0xb78aa61c8860	\ProgramData\Microsoft\Windows\AppRepository\StateRepository-Deployment.srd
+0xb78aa61c89f0	\Dev\Query
+0xb78aa61c8d10	\$Directory
+0xb78aa61c8ea0	\ProgramData\Microsoft\Windows\AppRepository\StateRepository-Deployment.srd-wal
+0xb78aa61c9350	\Windows\System32\Windows.Internal.UI.Shell.WindowTabManager.dll
+0xb78aa61c94e0	\Endpoint
+0xb78aa61c9670	\Windows\System32\Windows.UI.Core.TextInput.dll
+0xb78aa61c9800	\Windows\System32\windowsudk.shellcommon.dll
+0xb78aa61ca610	\AsyncConnectHlp
+0xb78aa61cc550	\Users\windows10_user\AppData\Local\Microsoft\Windows\WebCacheLock.dat
+0xb78aa61cc6e0	\Endpoint
+0xb78aa61cc870	\Windows\System32\dllhost.exe
+0xb78aa61ccb90	\Windows\System32\en-US\winmm.dll.mui
+0xb78aa61ccd20	\Windows\System32\DictationManager.dll
+0xb78aa61cceb0	\Windows\System32
+0xb78aa639f150	\Users\windows10_user\AppData\Local\Microsoft\Windows\WebCache\WebCacheV01.dat
+0xb78aa639f2e0	\Users\windows10_user\AppData\Local\Microsoft\Windows\WebCache\WebCacheV01.jfm
+0xb78aa639f600	\$Directory
+0xb78aa639f790	\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.StartMenuExperienceHost_10.0.19041.3636_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat
+0xb78aa639f920	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\thumbcache_16.db
+0xb78aa639fab0	\Windows\System32\en-US\KernelBase.dll.mui
+0xb78aa639fdd0	\Users\windows10_user\AppData\Local\Microsoft\Windows\WebCache\WebCacheV01.jfm
+0xb78aa63a00f0	\Windows\System32\PCShellCommonProxyStub.dll
+0xb78aa63a0280	\Windows\System32\appinfoext.dll
+0xb78aa63a05a0	\Users\windows10_user\AppData\Local\Microsoft\Windows\WebCache\WebCacheV01.dat
+0xb78aa63a0730	\Windows\SysWOW64\mskeyprotect.dll
+0xb78aa63a08c0	\Windows\System32\LicenseManagerApi.dll
+0xb78aa63a0be0	\Windows\System32\Windows.Security.Integrity.dll
+0xb78aa63a0d70	\Users\windows10_user\AppData\Local\Microsoft\Windows\WebCache\V01.log
+0xb78aa63a1090	\$Directory
+0xb78aa63a1220	\Sessions\1\AppContainerNamedObjects\S-1-15-2-515815643-2845804217-1874292103-218650560-777617685-4287762684-137415000
+0xb78aa63a13b0	\$Directory
+0xb78aa63a1860	\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartMenuExperienceHost.exe
+0xb78aa63a19f0	\Users\windows10_user\AppData\Local\Microsoft\Windows\WebCache\V01.log
+0xb78aa63a1b80	\$Directory
+0xb78aa63a1d10	\Windows\System32\en-GB\dsreg.dll.mui
+0xb78aa63a1ea0	\Windows\System32\cflapi.dll
+0xb78aa63a2350	\$Directory
+0xb78aa63a24e0	\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.StartMenuExperienceHost_10.0.19041.3636_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat
+0xb78aa63a2670	\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.StartMenuExperienceHost_10.0.19041.3636_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat.LOG1
+0xb78aa63a2990	\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.StartMenuExperienceHost_10.0.19041.3636_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat.LOG2
+0xb78aa63a2cb0	\$Directory
+0xb78aa63a2e40	\Windows\System32\en-GB\crypt32.dll.mui
+0xb78aa63a2e70	⻈꘺랊￿⻈꘺랊￿
+0xb78aa63a3160	\Windows\System32\CloudExperienceHostRedirection.dll
+0xb78aa63a3480	\Endpoint
+0xb78aa63a37a0	\$Directory
+0xb78aa63a3ac0	\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\StartUI.dll
+0xb78aa63a3c50	\Windows\System32\ShellExperiences\Windows.UI.Shell.SharedUtilities.dll
+0xb78aa63a3de0	\Windows\rescache\_merged\24768367\3646101038.pri
+0xb78aa63a4100	\Windows\System32\en-US\mswsock.dll.mui
+0xb78aa63a4290	\CMApi
+0xb78aa63a45b0	\Windows\Fonts\segoeui.ttf
+0xb78aa63a4740	\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\resources.pri
+0xb78aa63a4bf0	\$Directory
+0xb78aa63a4d80	\$Directory
+0xb78aa63a53c0	\Windows\SystemApps\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy
+0xb78aa63a5870	\Users\windows10_user\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\Settings\settings.dat.LOG1
+0xb78aa63a5a00	\Windows\rescache\_merged\1207566316\3296336621.pri
+0xb78aa63a5b90	\$Directory
+0xb78aa63a61d0	\Windows\Fonts\segoeui.ttf
+0xb78aa63a6810	\Windows\System32\Windows.Storage.ApplicationData.dll
+0xb78aa63a69a0	\Windows\System32\winevt\Logs\Microsoft-Windows-Store%4Operational.evtx
+0xb78aa63a6cc0	\$Directory
+0xb78aa63a6e50	\Windows\System32\LicenseManager.dll
+0xb78aa63a7490	\Windows\System32\biwinrt.dll
+0xb78aa63a7620	\Windows\System32\en-US\KernelBase.dll.mui
+0xb78aa63a77b0	\Windows\System32\RuntimeBroker.exe
+0xb78aa63a7ad0	\Windows\System32\CapabilityAccessHandlers.dll
+0xb78aa63a7c60	\Users\windows10_user\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\Settings\settings.dat.LOG2
+0xb78aa63a8110	\Windows\SystemResources\Windows.UI.ShellCommon\Windows.UI.ShellCommon.pri
+0xb78aa63a82a0	\Users\windows10_user\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\Settings\settings.dat
+0xb78aa63a85c0	\Windows\System32
+0xb78aa63a8750	\ProgramData\Microsoft\Windows\AppRepository\Packages\MicrosoftWindows.Client.CBS_1000.19053.1000.0_x64__cw5n1h2txyewy\ActivationStore.dat
+0xb78aa63a88e0	\Windows\System32\Windows.Globalization.Fontgroups.dll
+0xb78aa63a8a70	\Windows\System32\Windows.Internal.Shell.Broker.dll
+0xb78aa63a8d90	\Windows\System32\en-GB\windows.ui.xaml.dll.mui
+0xb78aa63a90b0	\ProgramData\Microsoft\Windows\AppRepository\Packages\MicrosoftWindows.Client.CBS_1000.19053.1000.0_x64__cw5n1h2txyewy\ActivationStore.dat.LOG2
+0xb78aa63a9240	\ProgramData\Microsoft\Windows\AppRepository\StateRepository-Machine.srd
+0xb78aa63a93d0	\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\msvcp140_app.dll
+0xb78aa63a9560	\Windows\System32\en-GB\windows.storage.dll.mui
+0xb78aa63a96f0	\$Directory
+0xb78aa63a9880	\ProgramData\Microsoft\Windows\AppRepository\Packages\MicrosoftWindows.Client.CBS_1000.19053.1000.0_x64__cw5n1h2txyewy\ActivationStore.dat.LOG1
+0xb78aa63a9a10	\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\UserSetup.Eligibility.dll
+0xb78aa63a9ba0	\Windows\System32\fontgroupsoverride.dll
+0xb78aa63a9d30	\Windows\Fonts\segoeuib.ttf
+0xb78aa63a9ec0	\Windows\System32\en-GB\batmeter.dll.mui
+0xb78aa63a9ef0	齈꘺랊￿齈꘺랊￿
+0xb78aa63aa1e0	\ProgramData\Microsoft\Windows\AppRepository\StateRepository-Machine.srd-wal
+0xb78aa63aa370	\$Directory
+0xb78aa63aa500	\Windows\System32\Windows.UI.Xaml.Resources.Common.dll
+0xb78aa63aa690	\Users\windows10_user\AppData\Local\Packages\Microsoft.Windows.StartMenuExperienceHost_cw5n1h2txyewy\TempState\TileCache_100_4_PNGEncoded_Header.bin
+0xb78aa63aa820	\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\vcruntime140_1_app.dll
+0xb78aa63aa9b0	\Windows\SystemResources\Windows.UI.ShellCommon\pris\Windows.UI.ShellCommon.en-GB.pri
+0xb78aa63aab40	\Windows\SystemApps\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\vcruntime140_app.dll
+0xb78aa63aacd0	\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.Search_1.14.10.19041_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat
+0xb78aa63aae60	\Windows\System32\en-US\Windows.Globalization.dll.mui
+0xb78aa63ab180	\$Directory
+0xb78aa63ab310	\Sessions\1\AppContainerNamedObjects\S-1-15-2-536077884-713174666-1066051701-3219990555-339840825-1966734348-1611281757
+0xb78aa63ab4a0	\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApp.exe
+0xb78aa63ab7c0	\$Directory
+0xb78aa63ab950	\Windows\System32\rometadata.dll
+0xb78aa63abc70	\Windows\System32\edgehtml.dll
+0xb78aa63abe00	\$Directory
+0xb78aa63ac120	\Windows\System32\icuin.dll
+0xb78aa63ac2b0	\Windows\System32\icu.dll
+0xb78aa63ac440	\$Directory
+0xb78aa63aca80	\Windows\System32\srpapi.dll
+0xb78aa63acda0	\Windows\System32\Windows.Cortana.OneCore.dll
+0xb78aa63ad0c0	\Windows\System32\EdgeManager.dll
+0xb78aa63ad250	\Windows\System32\winevt\Logs\Microsoft-Windows-ShellCommon-StartLayoutPopulation%4Operational.evtx
+0xb78aa63ad700	\Windows\System32\Chakra.dll
+0xb78aa63add40	\ProgramData\Microsoft\Windows\AppRepository\StateRepository-Machine.srd-shm
+0xb78aa63ae1f0	\Windows\System32\en-GB\propsys.dll.mui
+0xb78aa63ae380	\$Directory
+0xb78aa63ae6a0	\$Directory
+0xb78aa63ae830	\Windows\System32\icuuc.dll
+0xb78aa63aeea0	꘺랊￿꘺랊￿
+0xb78aa63b0450	\Windows\Globalization\ICU\windowsZones.res
+0xb78aa63b0c20	\Windows\System32\ngcpopkeysrv.dll
+0xb78aa63b0db0	\Windows\ShellComponents\WindowsInternal.ComposableShell.Experiences.Switcher.dll
+0xb78aa63b1260	\Windows\System32\WindowsInternal.ComposableShell.DesktopHosting.dll
+0xb78aa63b13f0	\Windows\System32\en-GB\crypt32.dll.mui
+0xb78aa63b1580	\Windows\System32\en-US\dnsapi.dll.mui
+0xb78aa63b1bc0	\$Directory
+0xb78aa63b1ee0	\$Directory
+0xb78aa63b2200	\Windows\System32\certca.dll
+0xb78aa63b2520	\CMApi
+0xb78aa63b29d0	\Windows\System32\efswrt.dll
+0xb78aa63b2b60	\Windows\System32\LocationWinPalMisc.dll
+0xb78aa63b2cf0	\CMApi
+0xb78aa63b2e80	\Windows\ShellExperiences\TileControl.dll
+0xb78aa63b31a0	\Windows\ShellComponents\TaskFlowUI.dll
+0xb78aa63b3330	\Windows\System32\en-GB\shell32.dll.mui
+0xb78aa63b3650	\srvsvc
+0xb78aa63b3970	\$Directory
+0xb78aa63b3b00	\$Directory
+0xb78aa63b3c90	\CMNotify
+0xb78aa63b3e20	\$Directory
+0xb78aa63b4460	\$Directory
+0xb78aa63b45f0	\MsFteWds
+0xb78aa63b4910	\$Directory
+0xb78aa63b4aa0	\$Directory
+0xb78aa63b4dc0	\Windows\System32\CertEnroll.dll
+0xb78aa63b50e0	\ProgramData\Microsoft\Windows\LfSvc\Geofence\GeofenceApplicationID.dat
+0xb78aa63b5270	\Windows\System32\security.dll
+0xb78aa63b5400	\$Directory
+0xb78aa63b5720	\CMApi
+0xb78aa63b5a40	\Windows\System32\en-US\Windows.Web.Http.dll.mui
+0xb78aa63b5d60	\Windows\System32\en-US\KernelBase.dll.mui
+0xb78aa63b5ef0	\ProgramData\Microsoft\Windows\ClipSVC\tokens.dat
+0xb78aa63b6210	\CMNotify
+0xb78aa63b63a0	\Windows\System32\credui.dll
+0xb78aa63b66c0	\Windows\SoftwareDistribution\DataStore\Logs\edb.log
+0xb78aa63b6850	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0xb78aa63b6d00	\Windows\System32\SecurityHealthSystray.exe
+0xb78aa63b71b0	\Windows\SystemResources\shell32.dll.mun
+0xb78aa63b7340	\Windows\System32\hgcpl.dll
+0xb78aa63b7660	\$Directory
+0xb78aa63b7ca0	\Windows\System32
+0xb78aa63b7e30	\Windows\System32\en-US\ESENT.dll.mui
+0xb78aa63b8470	\Windows\System32\drprov.dll
+0xb78aa63b8790	\Windows\ServiceProfiles\NetworkService\AppData\Local\Microsoft\Windows\DeliveryOptimization\State\dosvcState.dat.LOG2
+0xb78aa63b8c40	\Windows\ServiceProfiles\NetworkService\AppData\Local\Microsoft\Windows\DeliveryOptimization\State\dosvcState.dat.LOG1
+0xb78aa63b98c0	\Windows\System32\en-US\audiodg.exe.mui
+0xb78aa63b9be0	\$Directory
+0xb78aa63b9d70	\Windows\System32\StorSvc.dll
+0xb78aa63ba090	\Windows\System32\SecurityHealthService.exe
+0xb78aa63ba220	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+0xb78aa63ba3b0	\$Directory
+0xb78aa63ba9f0	\Windows\System32\en-GB\crypt32.dll.mui
+0xb78aa63bab80	\Windows\System32\svchost.exe
+0xb78aa63bad10	\Windows\ServiceProfiles\NetworkService\AppData\Local\Microsoft\Windows\DeliveryOptimization\Logs\dosvc.20251022_230554_805.etl
+0xb78aa63baea0	\Windows\System32\StorageUsage.dll
+0xb78aa63bb1c0	\Windows\ServiceProfiles\NetworkService\AppData\Local\Microsoft\Windows\DeliveryOptimization\State\dosvcState.dat
+0xb78aa63bb670	\$Directory
+0xb78aa63bb990	\$Directory
+0xb78aa63bbb20	\$Directory
+0xb78aa63bbcb0	\Windows\System32\elslad.dll
+0xb78aa63bc480	\Windows\SysWOW64\winhttp.dll
+0xb78aa63bc930	\$Directory
+0xb78aa63bcc50	\Windows\System32\fdPnp.dll
+0xb78aa63bcde0	\$Directory
+0xb78aa63bd100	\Windows\System32\mssvp.dll
+0xb78aa63bd290	\Windows\System32\mssph.dll
+0xb78aa63bd420	\Windows\System32\mfc42u.dll
+0xb78aa63bd5b0	\$Directory
+0xb78aa63bda60	\Windows\SysWOW64\urlmon.dll
+0xb78aa63be550	\$Directory
+0xb78aa63be6e0	\$Directory
+0xb78aa63be870	\$Directory
+0xb78aa63bea00	\$Directory
+0xb78aa63beb90	\$Directory
+0xb78aa63bed20	\$Directory
+0xb78aa63beeb0	\$Directory
+0xb78aa65b11e0	\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.Search_1.14.10.19041_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat.LOG2
+0xb78aa65b1370	\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\SearchApi.dll
+0xb78aa65b1690	\Windows\System32\mfsvr.dll
+0xb78aa65b1820	\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\Search.Core.dll
+0xb78aa65b19b0	\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\BingConfigurationClient.dll
+0xb78aa65b1b40	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xb78aa65b1cd0	\$Directory
+0xb78aa65b1e60	\Windows\System32\vcruntime140_clr0400.dll
+0xb78aa65b2310	\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.Search_1.14.10.19041_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat
+0xb78aa65b24a0	\Windows\System32\Speech_OneCore\common\sapi_onecore.dll
+0xb78aa65b2630	\Users\windows10_user\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\Settings\settings.dat
+0xb78aa65b2e00	\ProgramData\Microsoft\Windows\AppRepository\Packages\Microsoft.Windows.Search_1.14.10.19041_neutral_neutral_cw5n1h2txyewy\ActivationStore.dat.LOG1
+0xb78aa65b3120	\Windows\System32\winevt\Logs\Microsoft-Windows-Privacy-Auditing%4Operational.evtx
+0xb78aa65b32b0	\Windows\System32\msidle.dll
+0xb78aa65b3440	\Windows\Fonts\StaticCache.dat
+0xb78aa65b35d0	\$Directory
+0xb78aa65b3760	\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy
+0xb78aa65b38f0	\Windows\System32\UIAutomationCore.dll
+0xb78aa65b3a80	\$Directory
+0xb78aa65b3c10	\Windows\System32\mf.dll
+0xb78aa65b3da0	\Windows\System32\ucrtbase_clr0400.dll
+0xb78aa65b4250	\Windows\System32\en-GB\propsys.dll.mui
+0xb78aa65b4700	\$Directory
+0xb78aa65b4890	\Windows\System32\en-GB\pnidui.dll.mui
+0xb78aa65b4a20	\Users\windows10_user\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\Settings\settings.dat.LOG1
+0xb78aa65b4bb0	\Windows\System32\Windows.Services.TargetedContent.dll
+0xb78aa65b4d40	\CMApi
+0xb78aa65b4ed0	\Windows\Fonts\segoeui.ttf
+0xb78aa65b51f0	\CMApi
+0xb78aa65b5380	\Windows\System32\ieframe.dll
+0xb78aa65b5510	\$Directory
+0xb78aa65b5830	\Windows\System32\winevt\Logs\Microsoft-Windows-Application-Experience%4Program-Compatibility-Assistant.evtx
+0xb78aa65b59c0	\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\resources.pri
+0xb78aa65b5ce0	\$Directory
+0xb78aa65b5e70	\Windows\System32\Windows.Web.Http.dll
+0xb78aa65b6190	\Windows\System32\webplatstorageserver.dll
+0xb78aa65b6320	\Users\windows10_user\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\Settings\settings.dat.LOG2
+0xb78aa65b64b0	\$Directory
+0xb78aa65b6640	\Windows\System32\winmmbase.dll
+0xb78aa65b6af0	\$Directory
+0xb78aa65b6c80	\Windows\System32\ConstraintIndex.Search.dll
+0xb78aa65b6e10	\Windows\rescache\_merged\1509090676\492554089.pri
+0xb78aa65b7770	\Windows\System32
+0xb78aa65b7c20	\Users\windows10_user\AppData\Local\Microsoft\GameDVR\KnownGameList.bin
+0xb78aa65b80d0	\$Directory
+0xb78aa65b83f0	\Windows\System32\RTWorkQ.dll
+0xb78aa65b8580	\Windows\SystemResources\stobject.dll.mun
+0xb78aa65b8710	\CMNotify
+0xb78aa65b88a0	\Windows\System32\en-GB\stobject.dll.mui
+0xb78aa65b8a30	\Dev\Query
+0xb78aa65b8bc0	\$Directory
+0xb78aa65b8ee0	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xb78aa65b9390	\Windows\System32\Windows.UI.Input.Inking.dll
+0xb78aa65b9520	\Program Files\WindowsApps\Microsoft.XboxGameOverlay_1.46.11001.0_x64__8wekyb3d8bbwe
+0xb78aa65b96b0	\Windows\System32\stobject.dll
+0xb78aa65b9840	\CMNotify
+0xb78aa65b99d0	\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\pris\resources.en-GB.pri
+0xb78aa65b9b60	\Windows\System32\msftedit.dll
+0xb78aa65b9e80	\Windows\System32\en-GB\windows.storage.dll.mui
+0xb78aa65ba330	\Windows\System32\mfplat.dll
+0xb78aa65ba4c0	\Windows\System32\RuntimeBroker.exe
+0xb78aa65ba650	\CMNotify
+0xb78aa65ba970	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xb78aa65bac90	\Windows\System32\edgeIso.dll
+0xb78aa65bae20	\Windows\System32\en-GB\winnlsres.dll.mui
+0xb78aa65bb2d0	\Windows\assembly\NativeImages_v4.0.30319_64\mscorlib\4bc5e5252873c08797895d5b6fe6ddfd\mscorlib.ni.dll
+0xb78aa65bb5f0	\Windows\System32\prnfldr.dll
+0xb78aa65bb780	\Program Files\WindowsApps\Microsoft.XboxGameOverlay_1.46.11001.0_x64__8wekyb3d8bbwe
+0xb78aa65bb910	\$Directory
+0xb78aa65bbc30	\Windows\SystemResources\batmeter.dll.mun
+0xb78aa65bbdc0	\Program Files\WindowsApps\Microsoft.XboxGameOverlay_1.46.11001.0_x64__8wekyb3d8bbwe
+0xb78aa65bc270	\CMNotify
+0xb78aa65bc400	\Windows\System32\msimtf.dll
+0xb78aa65bc590	\Windows\System32\ieframe.dll
+0xb78aa65bc720	\Windows\System32\en-GB\edgehtml.dll.mui
+0xb78aa65bc8b0	\$Directory
+0xb78aa65bcef0	\Windows\System32\en-US\KernelBase.dll.mui
+0xb78aa65bd080	\Windows\System32\Windows.UI.Shell.dll
+0xb78aa65bd210	\Windows\System32\Windows.Cortana.ProxyStub.dll
+0xb78aa65bd3a0	\$Directory
+0xb78aa65bd850	\Windows\System32\en-GB\InputSwitch.dll.mui
+0xb78aa65bd9e0	\$Directory
+0xb78aa65bdd00	\Dev\Query
+0xb78aa65bde90	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+0xb78aa65be7f0	\Windows\System32\backgroundTaskHost.exe
+0xb78aa65beb10	\Dev\Query
+0xb78aa65beca0	\Dev\Query
+0xb78aa65bee30	\Dev\Query
+0xb78aa65bf150	\Users\windows10_user\AppData\Local\Microsoft\GameDVR
+0xb78aa65bf2e0	\Windows\System32\DXP.dll
+0xb78aa65bf470	\Users\windows10_user\AppData\Local\Packages\Microsoft.XboxGamingOverlay_8wekyb3d8bbwe\LocalCache
+0xb78aa65bf600	\$Directory
+0xb78aa65bf790	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_32.db
+0xb78aa65bf920	\$Directory
+0xb78aa65c00f0	\Windows\System32\stdole2.tlb
+0xb78aa65c0280	\Windows\bcastdvr
+0xb78aa65c05a0	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db
+0xb78aa65c0730	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+0xb78aa65c0a50	\Windows\System32\en-GB\windows.storage.dll.mui
+0xb78aa65c0be0	\CMNotify
+0xb78aa65c0d70	\Dev\Query
+0xb78aa65c1090	\Windows\System32\msIso.dll
+0xb78aa65c13b0	\Windows\System32\WinMetadata\Windows.ApplicationModel.winmd
+0xb78aa65c1540	\CMNotify
+0xb78aa65c16d0	\Windows\System32\WinMetadata\Windows.Storage.winmd
+0xb78aa65c1860	\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\Cortana.Internal.Search.winmd
+0xb78aa65c19f0	\Windows\System32\WinMetadata\Windows.Foundation.winmd
+0xb78aa65c1b80	\CMNotify
+0xb78aa65c1d10	\Windows\System32\authui.dll
+0xb78aa65c1ea0	\Windows\System32\WinMetadata\Windows.Security.winmd
+0xb78aa65c21c0	\Windows\System32\ActionCenter.dll
+0xb78aa65c24e0	\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy\Cortana.Search.winmd
+0xb78aa65c2670	\Windows\System32\WinMetadata\Windows.System.winmd
+0xb78aa65c2800	\Windows\System32\shdocvw.dll
+0xb78aa65c2b20	\Windows\SystemResources\SndVolSSO.dll.mun
+0xb78aa65c2cb0	\CMNotify
+0xb78aa65c3160	\Windows\System32\en-GB\sndvolsso.dll.mui
+0xb78aa65c32f0	\Program Files\AccessData\FTK Imager\DongleInterfaceNative.dll
+0xb78aa65c3610	\Windows\System32\VBoxTray.exe
+0xb78aa65c3930	\Windows\System32\Windows.FileExplorer.Common.dll
+0xb78aa65c3ac0	\Windows\System32\Syncreg.dll
+0xb78aa65c3c50	\Windows\System32\atlthunk.dll
+0xb78aa65c3de0	\Windows\SysWOW64\OneCoreUAPCommonProxyStub.dll
+0xb78aa65c4100	\Windows\SystemResources\Chakra.dll.mun
+0xb78aa65c4420	\Windows\System32\pnidui.dll
+0xb78aa65c4740	\Windows\System32\WinMetadata\Windows.Web.winmd
+0xb78aa65c48d0	\Windows\System32\WPDShServiceObj.dll
+0xb78aa65c4bf0	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xb78aa65c5230	\Windows\assembly\pubpol62.dat
+0xb78aa65c56e0	\Users\windows10_user\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\Microsoft\Internet Explorer\DOMStore\I9JDMKPU
+0xb78aa65c6cc0	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xb78aa65c7170	\Windows\System32\imapi2.dll
+0xb78aa65c7620	\Windows\System32\srchadmin.dll
+0xb78aa65c77b0	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xb78aa65c7940	\Windows\System32\SyncCenter.dll
+0xb78aa65c7c60	\CMNotify
+0xb78aa65c7df0	\Windows\System32\en-GB\bthprops.cpl.mui
+0xb78aa65c90b0	\Windows\System32\bthprops.cpl
+0xb78aa65c9240	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xb78aa65c93d0	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xb78aa65c9560	\CMNotify
+0xb78aa65c96f0	\Windows\System32\PortableDeviceTypes.dll
+0xb78aa65c9880	\Windows\System32\WinMetadata\Windows.UI.winmd
+0xb78aa65c9ba0	\Windows\System32\en-US\imapi2.dll.mui
+0xb78aa65ca370	\Windows\SysWOW64\duser.dll
+0xb78aa65ca500	\Windows\System32\en-GB\urlmon.dll.mui
+0xb78aa65ca9b0	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+0xb78aa65cab40	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xb78aa65cacd0	\Windows\Microsoft.NET\Framework64\v4.0.30319\clrjit.dll
+0xb78aa65cb180	\Windows\System32\en-GB\ieframe.dll.mui
+0xb78aa65cb630	\$Directory
+0xb78aa65cb950	\CMApi
+0xb78aa65cbe00	\Windows\System32\werconcpl.dll
+0xb78aa65cc2b0	\Windows\System32\regapi.dll
+0xb78aa65cc5d0	\Windows\System32\feclient.dll
+0xb78aa65cc760	\Windows\System32\en-GB\shell32.dll.mui
+0xb78aa65cc8f0	\Dev\Query
+0xb78aa65ccc10	\Dev\Query
+0xb78aa65cd0c0	\Windows\System32\SettingsEnvironment.Desktop.dll
+0xb78aa65cd250	\Windows\System32\en-US\KernelBase.dll.mui
+0xb78aa65cd3e0	\Windows\System32\winevt\Logs\Microsoft-Client-Licensing-Platform%4Admin.evtx
+0xb78aa65cd570	\$Directory
+0xb78aa65cd700	\Windows\System32\en-US\KernelBase.dll.mui
+0xb78aa65cd890	\$Directory
+0xb78aa65cda20	\Windows\System32
+0xb78aa65cdbb0	\Windows\System32\Geolocation.dll
+0xb78aa65ce6a0	\Windows\System32\lfsvc.dll
+0xb78aa65cece0	\Windows\System32\LocationFramework.dll
+0xb78aa65cee70	\Windows\System32\ieframe.dll
+0xb78aa65ceea0	Ꙝ랊￿Ꙝ랊￿
+0xb78aa65cfe10	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xb78aa65d0450	\$Directory
+0xb78aa65d05e0	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xb78aa65d0c20	\Windows\System32\en-GB\shell32.dll.mui
+0xb78aa65d1bc0	\Windows\System32\en-GB\propsys.dll.mui
+0xb78aa65d1ee0	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db
+0xb78aa65d29d0	\Windows\System32\en-GB\windows.storage.dll.mui
+0xb78aa65d2e80	\Windows\System32\mlang.dll
+0xb78aa65d3650	\AsyncConnectHlp
+0xb78aa65d3e20	\Windows\System32\localspl.dll
+0xb78aa65d4140	\Windows\System32\wsnmp32.dll
+0xb78aa65d42d0	\CMApi
+0xb78aa65d4910	\Windows\System32\en-GB\localspl.dll.mui
+0xb78aa65d4c30	\Windows\System32\PrintIsolationProxy.dll
+0xb78aa65d5270	\CMNotify
+0xb78aa65d5400	\Windows\System32\AppMon.dll
+0xb78aa65d5590	\Endpoint
+0xb78aa65d5720	\$Directory
+0xb78aa65d5a40	\Windows\System32\winspool.drv
+0xb78aa65d5bd0	\Windows\System32\spoolss.dll
+0xb78aa65d5d60	\Windows\System32\FXSMON.dll
+0xb78aa65d5ef0	\Windows\System32\tcpmon.dll
+0xb78aa65d6080	\Windows\System32\snmpapi.dll
+0xb78aa65d6210	\Windows\System32\usbmon.dll
+0xb78aa65d63a0	\CMNotify
+0xb78aa65d66c0	\Windows\System32\sfc_os.dll
+0xb78aa65d69e0	\Windows\System32\en-GB\APMon.dll.mui
+0xb78aa65d6b70	\Windows\System32\AppXDeploymentExtensions.onecore.dll
+0xb78aa65d6d00	\Dev\Query
+0xb78aa65d6e90	\Dev\Query
+0xb78aa65d71b0	\CMApi
+0xb78aa65d7340	\Windows\System32\spool\prtprocs\x64\winprint.dll
+0xb78aa65d74d0	\CMNotify
+0xb78aa65d77f0	\Dev\Query
+0xb78aa65d7980	\Windows\System32\en-US\KernelBase.dll.mui
+0xb78aa65d7b10	\$Directory
+0xb78aa65d7ca0	\CMNotify
+0xb78aa65d7e30	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_32.db
+0xb78aa65d8150	\SwDevice
+0xb78aa65d82e0	\Windows\System32\inetpp.dll
+0xb78aa65d8600	\Windows\System32\APMon.dll
+0xb78aa65d8790	\Dev\Query
+0xb78aa65d8920	\CMNotify
+0xb78aa65d8ab0	\Windows\System32\win32spl.dll
+0xb78aa65d8c40	\Windows\System32\en-GB\win32spl.dll.mui
+0xb78aa65d90f0	\Windows\System32\en-US\inetpp.dll.mui
+0xb78aa65d9410	\SwDevice
+0xb78aa65d95a0	\lsass
+0xb78aa65d98c0	\Windows\System32\prntvpt.dll
+0xb78aa65d9be0	\SwDevice
+0xb78aa65da090	\Windows\Fonts\sserife.fon
+0xb78aa65da220	\Windows\System32\winbrand.dll
+0xb78aa65da3b0	\$Directory
+0xb78aa65da540	\SwDevice
+0xb78aa65da6d0	\$Directory
+0xb78aa65da860	\Windows\System32\winevt\Logs\Microsoft-Windows-Security-SPP-UX-Notifications%4ActionCenter.evtx
+0xb78aa65dab80	\Windows\System32\LocationFrameworkPS.dll
+0xb78aa65dad10	\Windows\System32\atl.dll
+0xb78aa65db1c0	\Windows\System32\LicenseManagerSvc.dll
+0xb78aa65db350	\SwDevice
+0xb78aa65db990	\Windows\SysWOW64\UIAutomationCore.dll
+0xb78aa65dbb20	\Windows\System32\ClipSVC.dll
+0xb78aa65dbcb0	\lsass
+0xb78aa65dc2f0	\Windows\System32\duser.dll
+0xb78aa65dd100	\Windows\System32\wuapi.dll
+0xb78aa65dd420	\Windows\System32\winevt\Logs\Microsoft-Windows-WindowsUpdateClient%4Operational.evtx
+0xb78aa65dd8d0	\Windows\SoftwareDistribution\DataStore\DataStore.edb
+0xb78aa65dda60	\$Directory
+0xb78aa65ddd80	\Windows\SoftwareDistribution\DataStore\DataStore.jfm
+0xb78aa65de0a0	\Windows\SoftwareDistribution\DataStore\DataStore.edb
+0xb78aa65de3c0	\Endpoint
+0xb78aa65de550	\$Directory
+0xb78aa65de6e0	\srvsvc
+0xb78aa65dea00	\$Directory
+0xb78aa65ded20	\Windows\Fonts\seguisym.ttf
+0xb78aa65deeb0	\Windows\System32\wups2.dll
+0xb78aa65df1d0	\Windows\SoftwareDistribution\DataStore\Logs\edb.log
+0xb78aa65df360	\Endpoint
+0xb78aa65df4f0	\srvsvc
+0xb78aa65df680	\Windows\System32\wbem\wmipcima.dll
+0xb78aa65df810	\Windows\SystemApps\Microsoft.Windows.Search_cw5n1h2txyewy
+0xb78aa65df9a0	\Windows\Logs\WindowsUpdate\WindowsUpdate.20251023.100551.218.1.etl
+0xb78aa65dfb30	\$Directory
+0xb78aa65e0170	\Windows\System32\wuuhext.dll
+0xb78aa65e0300	\Windows\System32\virtdisk.dll
+0xb78aa65e0620	\Windows\System32
+0xb78aa65e0940	\Windows\System32
+0xb78aa65e0ad0	\wkssvc
+0xb78aa65e0c60	\Windows\System32\wups.dll
+0xb78aa65e1110	\Windows\System32
+0xb78aa65e12a0	\Windows\System32\SecurityHealthSystray.exe
+0xb78aa65e15c0	\Windows\System32\WinMetadata\Windows.Foundation.winmd
+0xb78aa65e1750	\Users\windows10_user\AppData\Local\Microsoft\Windows\Safety\shell\remote\script_96032244749497702726114603847611723578.rel.v2
+0xb78aa65e18e0	\Windows\System32\wuuhosdeployment.dll
+0xb78aa65e2240	\Windows\SoftwareDistribution\ReportingEvents.log
+0xb78aa65e2560	\Windows\System32\smartscreenps.dll
+0xb78aa65e26f0	\Windows\System32\smartscreen.exe
+0xb78aa65e2ba0	\Windows\System32\en-GB\smartscreen.exe.mui
+0xb78aa65e2d30	\$Directory
+0xb78aa65e2ec0	\Windows\System32\WinRtTracing.dll
+0xb78aa65e3370	\Windows\System32\SecurityHealthSSO.dll
+0xb78aa65e3690	\$Directory
+0xb78aa65e3b40	\Windows\System32\en-GB\user32.dll.mui
+0xb78aa65e3e60	\Windows\System32\en-GB\svchost.exe.mui
+0xb78aa65e4310	\$Directory
+0xb78aa65e4ae0	\Windows\System32\en-GB\securityhealthsso.dll.mui
+0xb78aa65e4c70	\CMApi
+0xb78aa65e5120	\$Directory
+0xb78aa65e52b0	\ProgramData\Microsoft\Windows Security Health\Logs\SHS-10232025-100553-7-7f-19041.1.amd64fre.vb_release.191206-1406.etl
+0xb78aa65e58f0	\Windows\System32\en-US\mswsock.dll.mui
+0xb78aa65e5a80	\Windows\SysWOW64\xmllite.dll
+0xb78aa65e5c10	\Endpoint
+0xb78aa65e5da0	\Windows\System32
+0xb78aa65e60c0	\Windows\System32\en-GB\mshtml.dll.mui
+0xb78aa65e6250	\Windows\System32
+0xb78aa65e6bb0	\Windows\System32\BitsProxy.dll
+0xb78aa65e6d40	\$Directory
+0xb78aa65e6ed0	\Windows\System32\en-US\KernelBase.dll.mui
+0xb78aa65e6f00	潘Ꙟ랊￿潘Ꙟ랊￿
+0xb78aa65e71f0	\Windows\System32\en-US\dosvc.dll.mui
+0xb78aa65e7830	\$Directory
+0xb78aa65e8c80	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\OneDrive.exe
+0xb78aa65e9db0	\Windows\System32\bcd.dll
+0xb78aa66f5660	\Windows\System32\config\DRIVERS
+0xb78aa66f5940	\Windows\System32\config\DRIVERS{53b39e70-18c4-11ea-a811-000d3aa4692b}.TM.blf
+0xb78aa66f5c20	\Windows\System32\config\DRIVERS.LOG2
+0xb78aa66f6070	\Windows\System32\config\DRIVERS.LOG1
+0xb78aa66f6350	\Windows\System32\config\DRIVERS{53b39e70-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+0xb78aa66f6ed0	\Windows\System32\config\DRIVERS{53b39e70-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+0xb78aa66f7600	\Device\HarddiskVolume1\Windows\System32\config\DRIVERS{53b39e70-18c4-11ea-a811-000d3aa4692b}.TM
+0xb78aa66f78e0	\Device\HarddiskVolume1\Windows\System32\config\DRIVERS{53b39e70-18c4-11ea-a811-000d3aa4692b}.TM
+0xb78aa698d340	\$NonCachedIo
+0xb78aa698dec0	\$NonCachedIo
+0xb78aa6a4e370	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\logs\Personal\SyncEngine-2025-10-22.2305.4996.1.aodl
+0xb78aa6a4e500	\$CachedWriteThrough
+0xb78aa6a4e820	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\LoggingPlatform.dll
+0xb78aa6a4e9b0	\Windows\System32\comuid.dll
+0xb78aa6a4eb40	\wkssvc
+0xb78aa6a4ecd0	\Windows\System32\wlidsvc.dll
+0xb78aa6a4ee60	\Windows\Fonts\msjh.ttc
+0xb78aa6a4f180	\Windows\SysWOW64\wininet.dll
+0xb78aa6a4f310	\CMNotify
+0xb78aa6a4f4a0	\Windows
+0xb78aa6a4f630	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\ucrtbase.dll
+0xb78aa6a4f7c0	\Windows\System32\en-GB\windows.storage.dll.mui
+0xb78aa6a4fae0	\CMNotify
+0xb78aa6a4fc70	\Windows\SysWOW64\uxtheme.dll
+0xb78aa6a4fe00	\Windows\SysWOW64\secur32.dll
+0xb78aa6a50120	\wkssvc
+0xb78aa6a502b0	\Windows\SysWOW64
+0xb78aa6a50440	\CMNotify
+0xb78aa6a505d0	\Windows\System32\en-GB\winnlsres.dll.mui
+0xb78aa6a50a80	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\msvcp140.dll
+0xb78aa6a50c10	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\vcruntime140.dll
+0xb78aa6a510c0	\Windows\System32\en-GB\AppXDeploymentServer.dll.mui
+0xb78aa6a51250	\Windows\SysWOW64\rsaenh.dll
+0xb78aa6a513e0	\Windows\SysWOW64\Windows.Networking.Connectivity.dll
+0xb78aa6a51700	\$Directory
+0xb78aa6a51d40	\Windows\SysWOW64\netprofm.dll
+0xb78aa6a51ed0	\Windows\SysWOW64\npmproxy.dll
+0xb78aa6a521f0	\Windows\SysWOW64\diagnosticdataquery.dll
+0xb78aa6a52380	\Windows\SysWOW64\Windows.System.Diagnostics.Telemetry.PlatformTelemetryClient.dll
+0xb78aa6a52510	\Windows\System32\davclnt.dll
+0xb78aa6a52830	\Windows\SysWOW64\IPHLPAPI.DLL
+0xb78aa6a52b50	\Windows\System32\msauserext.dll
+0xb78aa6a52e70	\Windows\SysWOW64\dhcpcsvc.dll
+0xb78aa6a53190	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\OneDriveTelemetryStable.dll
+0xb78aa6a53320	\Windows\System32\en-US\mswsock.dll.mui
+0xb78aa6a534b0	\Windows\SysWOW64\MicrosoftAccountTokenProvider.dll
+0xb78aa6a53960	\Windows\SysWOW64\Windows.UI.dll
+0xb78aa6a53c80	\Windows\SysWOW64\msasn1.dll
+0xb78aa6a545e0	\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_a863d714867441db\comctl32.dll
+0xb78aa6a54770	\Windows\SysWOW64\dwmapi.dll
+0xb78aa6a54900	\Windows\SysWOW64\wer.dll
+0xb78aa6a54a90	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\Qt5Quick.dll
+0xb78aa6a54c20	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\LogUploader.dll
+0xb78aa6a54db0	\Windows\SysWOW64\iertutil.dll
+0xb78aa6a550d0	\Windows\System32\en-US\KernelBase.dll.mui
+0xb78aa6a55260	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\WebView2Loader.dll
+0xb78aa6a55580	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\FileSyncClient.dll
+0xb78aa6a55710	\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.3636_none_d94ec9f9e106bba9
+0xb78aa6a558a0	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\SyncEngine.dll
+0xb78aa6a55a30	\CMNotify
+0xb78aa6a55bc0	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\en-GB\FileSync.LocalizedResources.dll.mui
+0xb78aa6a55d50	\Windows\System32\SettingSyncCore.dll
+0xb78aa6a56390	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\FileSyncSessions.dll
+0xb78aa6a569d0	\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_a863d714867441db
+0xb78aa6a56b60	\Windows\System32\Windows.Cortana.Desktop.dll
+0xb78aa6a56cf0	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\Telemetry.dll
+0xb78aa6a56e80	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\UpdateRingSettings.dll
+0xb78aa6a571a0	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\FileSyncViews.dll
+0xb78aa6a57330	\Windows\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.3636_none_d94ec9f9e106bba9\GdiPlus.dll
+0xb78aa6a57650	\Windows\System32\d3d9.dll
+0xb78aa6a577e0	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\Qt5Network.dll
+0xb78aa6a57970	\Windows\SysWOW64\d3d11.dll
+0xb78aa6a57b00	\Windows\SysWOW64\dxgi.dll
+0xb78aa6a57c90	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\WnsClientApi.dll
+0xb78aa6a57e20	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\libssl-1_1.dll
+0xb78aa6a58140	\Windows\SysWOW64\propsys.dll
+0xb78aa6a582d0	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\Qt5Widgets.dll
+0xb78aa6a58460	\Windows\System32\winevt\Logs\Microsoft-Windows-Storsvc%4Diagnostic.evtx
+0xb78aa6a585f0	\Program Files\CodeMeter\Runtime\bin\CodeMeterCC.exe
+0xb78aa6a58780	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\Qt5QmlModels.dll
+0xb78aa6a58910	\Windows\SysWOW64\ntasn1.dll
+0xb78aa6a58aa0	\Windows\SysWOW64\cldapi.dll
+0xb78aa6a58c30	\Windows\System32\en-GB\crypt32.dll.mui
+0xb78aa6a590e0	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\Qt5Core.dll
+0xb78aa6a59270	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\adal.dll
+0xb78aa6a59400	\Windows\SysWOW64\fltLib.dll
+0xb78aa6a59720	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\FileSyncFALWB.dll
+0xb78aa6a598b0	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\Qt5Gui.dll
+0xb78aa6a59a40	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\libcrypto-1_1.dll
+0xb78aa6a59bd0	\Windows\SysWOW64\mpr.dll
+0xb78aa6a59d60	\Windows\SysWOW64\srvcli.dll
+0xb78aa6a59ef0	\Windows\SysWOW64\winmm.dll
+0xb78aa6a5a080	\Windows\SysWOW64\wscapi.dll
+0xb78aa6a5a210	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\Qt5WinExtras.dll
+0xb78aa6a5a3a0	\Windows\SysWOW64\dnsapi.dll
+0xb78aa6a5a530	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\Qt5Qml.dll
+0xb78aa6a5a6c0	\Windows\SysWOW64\credui.dll
+0xb78aa6a5a850	\Windows\SysWOW64\ncrypt.dll
+0xb78aa6a5a9e0	\Windows\Fonts\YuGothM.ttc
+0xb78aa6a5ab70	\Windows\SysWOW64\CoreMessaging.dll
+0xb78aa6a5ad00	\Windows\SysWOW64\WinTypes.dll
+0xb78aa6a5ae90	\Windows\SysWOW64\ntmarta.dll
+0xb78aa6a5b340	\Windows\Fonts\msgothic.ttc
+0xb78aa6a5b660	\Windows\SysWOW64\mlang.dll
+0xb78aa6a5b7f0	\Windows\Fonts\simsun.ttc
+0xb78aa6a5b980	\Program Files\CodeMeter\Runtime\bin
+0xb78aa6a5bb10	\Windows\SysWOW64\WindowManagementAPI.dll
+0xb78aa6a5bca0	\Windows\SysWOW64\twinapi.appcore.dll
+0xb78aa6a5be30	\Endpoint
+0xb78aa6a5c2e0	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\FileSync.Resources.dll
+0xb78aa6a5c600	\Windows\Fonts\msyh.ttc
+0xb78aa6a5c790	\CMNotify
+0xb78aa6a5c920	\Windows\System32\en-US\KernelBase.dll.mui
+0xb78aa6a5cab0	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\en-GB\FileSync.LocalizedResources.dll.mui
+0xb78aa6a5cdd0	\Windows\Fonts\malgun.ttf
+0xb78aa6a5d0f0	\Windows\Fonts\tahoma.ttf
+0xb78aa6a5d280	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\FileSync.LocalizedResources.dll
+0xb78aa6a5d410	\Windows\Fonts\tahomabd.ttf
+0xb78aa6a5d5a0	\Windows\SysWOW64\TextInputFramework.dll
+0xb78aa6a5d730	\Windows\SysWOW64\InputHost.dll
+0xb78aa6a5da50	\Windows\SysWOW64\CoreUIComponents.dll
+0xb78aa6a5dbe0	\Windows\System32\en-GB\user32.dll.mui
+0xb78aa6a5e090	\Windows\Fonts\segoeuiz.ttf
+0xb78aa6a5e3b0	\Windows\Fonts\ariali.ttf
+0xb78aa6a5e540	\Windows\Fonts\arialbd.ttf
+0xb78aa6a5e860	\Windows\Fonts\courbi.ttf
+0xb78aa6a5e9f0	\Windows\SysWOW64\powrprof.dll
+0xb78aa6a5eb80	\$Directory
+0xb78aa6a5ed10	\Users\windows10_user\AppData\Local\Microsoft\Credentials
+0xb78aa6a5eea0	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\21.220.1024.0005\platforms\qwindows.dll
+0xb78aa6a5f1c0	\Windows\System32\AuthBroker.dll
+0xb78aa6a5f350	\Windows\Fonts\courbd.ttf
+0xb78aa6a5f4e0	\Windows\SysWOW64\msxml6.dll
+0xb78aa6a5f670	\Windows\Prefetch\PfPre_f231e4d5.mkd
+0xb78aa6a5f800	\Windows\SysWOW64\msxml6r.dll
+0xb78aa6a5f990	\Windows\Fonts\couri.ttf
+0xb78aa6a5fb20	\Windows\Fonts\segoeuii.ttf
+0xb78aa6a5fcb0	\Windows\Fonts\cour.ttf
+0xb78aa6a5fe40	\Windows\Fonts\arialbi.ttf
+0xb78aa6a60160	\Windows\Fonts\arial.ttf
+0xb78aa6a60480	\Windows\SysWOW64\umpdc.dll
+0xb78aa6a60610	\Windows\SysWOW64\mshtml.dll
+0xb78aa6a607a0	\Windows\System32\en-US\ntdll.dll.mui
+0xb78aa6a60930	\Users\windows10_user\AppData\Local\Microsoft\OneDrive\setup\logs\Update_2025-10-22_230600_4996-5000.log
+0xb78aa6a60ac0	\$CachedWriteThrough
+0xb78aa6a60de0	\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.3636_none_91a19322cc8a92a3
+0xb78aa6a61420	\Windows\SysWOW64\ieframe.dll
+0xb78aa6a615b0	\Windows\SysWOW64\DataExchange.dll
+0xb78aa6a61740	\Program Files (x86)\Bonjour\mdnsNSP.dll
+0xb78aa6a61a60	\Windows\SysWOW64\Wpc.dll
+0xb78aa6a61d80	\Windows\SysWOW64\dcomp.dll
+0xb78aa6a620a0	\Users\windows10_user\AppData\Roaming\Microsoft\Credentials
+0xb78aa6a62230	\Windows\WinSxS\amd64_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.3636_none_91a19322cc8a92a3\GdiPlus.dll
+0xb78aa6a623c0	\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_a863d714867441db
+0xb78aa6a62550	\Windows\System32\en-GB\sysmain.dll.mui
+0xb78aa6a626e0	\Windows\SysWOW64\FamilySafetyExt.dll
+0xb78aa6a62870	\Windows\Fonts\StaticCache.dat
+0xb78aa6a62a00	\Windows\SysWOW64\Windows.Services.TargetedContent.dll
+0xb78aa6a62b90	\CMNotify
+0xb78aa6a62d20	\$Directory
+0xb78aa6a62eb0	\Windows\SysWOW64\wlidprov.dll
+0xb78aa6a631d0	\Windows\SysWOW64\dpapi.dll
+0xb78aa6a634f0	\Windows\System32\chartv.dll
+0xb78aa6a639a0	\Windows\System32\MP3DMOD.DLL
+0xb78aa6a63cc0	\Windows\SysWOW64\samcli.dll
+0xb78aa6a64170	\Windows\SysWOW64\OnDemandConnRouteHelper.dll
+0xb78aa6a64300	\Windows\SysWOW64\ieframe.dll
+0xb78aa6a64490	\Windows\SysWOW64\winnsi.dll
+0xb78aa6a64940	\Windows\System32\en-GB\winnlsres.dll.mui
+0xb78aa6a64ad0	\Windows\System32\en-GB\user32.dll.mui
+0xb78aa6a64c60	\Windows\System32\en-GB\ieframe.dll.mui
+0xb78aa6a64df0	\Endpoint
+0xb78aa6a65110	\Windows\System32\dui70.dll
+0xb78aa6a652a0	\Windows\SysWOW64\Windows.Security.Authentication.Web.Core.dll
+0xb78aa6a655c0	\Windows\System32\en-US\mswsock.dll.mui
+0xb78aa6a65a70	\Windows\SysWOW64\rasadhlp.dll
+0xb78aa6a65c00	\Windows\SysWOW64\sxs.dll
+0xb78aa6a65d90	\Windows\System32\en-US\mswsock.dll.mui
+0xb78aa6a660b0	\Windows\System32\httpapi.dll
+0xb78aa6a66240	\Windows\SysWOW64\msIso.dll
+0xb78aa6a66560	\$Directory
+0xb78aa6a666f0	\Endpoint
+0xb78aa6a66d30	\Windows\SysWOW64\mswsock.dll
+0xb78aa6a671e0	\Windows\System32\en-US\netmsg.dll.mui
+0xb78aa6a67820	\Windows\System32\msoert2.dll
+0xb78aa6a679b0	\$Directory
+0xb78aa6a67b40	\Windows\SysWOW64\ncryptsslp.dll
+0xb78aa6a67cd0	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db
+0xb78aa6a68310	\CMApi
+0xb78aa6a684a0	\Windows\System32\en-GB\crypt32.dll.mui
+0xb78aa6a68950	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0xb78aa6a68c70	\Endpoint
+0xb78aa6a69120	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_256.db
+0xb78aa6a692b0	\$Directory
+0xb78aa6a69440	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+0xb78aa6a695d0	\Windows\SysWOW64\cryptnet.dll
+0xb78aa6a69760	\Windows\SysWOW64\FWPUCLNT.DLL
+0xb78aa6a698f0	\Windows\SysWOW64\schannel.dll
+0xb78aa6a69c10	\Windows\System32\winevt\Logs\Microsoft-Windows-ReadyBoost%4Operational.evtx
+0xb78aa6a6a250	\Users\windows10_user\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData
+0xb78aa6a6a3e0	\CMApi
+0xb78aa6a6a570	\Windows\System32\comsvcs.dll
+0xb78aa6a6a700	\Windows\SysWOW64\d2d1.dll
+0xb78aa6a6aa20	\Windows\SysWOW64\DWrite.dll
+0xb78aa6a6abb0	\Windows\SysWOW64\OneCoreCommonProxyStub.dll
+0xb78aa6a6aed0	\Windows\SysWOW64\jscript9.dll
+0xb78aa6a6b380	\Windows\SysWOW64\msimtf.dll
+0xb78aa6a6b6a0	\Windows\SysWOW64\sppc.dll
+0xb78aa6a6b830	\Windows\SysWOW64\DXCore.dll
+0xb78aa6a6bb50	\Windows\System32\en-GB\ieframe.dll.mui
+0xb78aa6a6bce0	\Windows\SysWOW64\srpapi.dll
+0xb78aa6a6c190	\Windows\SysWOW64\slc.dll
+0xb78aa6a6c320	\Windows\SysWOW64\d3d10warp.dll
+0xb78aa6a6c4b0	\Windows\SysWOW64\dhcpcsvc6.dll
+0xb78aa6a6c7d0	\Windows\System32\en-GB\mshtml.dll.mui
+0xb78aa6a6cc80	\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_a863d714867441db
+0xb78aa6a6d130	\Windows\SysWOW64\en-GB\urlmon.dll.mui
+0xb78aa6a6d2c0	\$Directory
+0xb78aa6a6d450	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xb78aa6a6d5e0	\Users\windows10_user\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned
+0xb78aa6a6d770	\Windows\SysWOW64\UIAnimation.dll
+0xb78aa6a6d900	\Windows\SysWOW64\Windows.Web.dll
+0xb78aa6a6da90	\ProgramData\Microsoft\Windows\Start Menu\Programs
+0xb78aa6a6dc20	\ProgramData\Microsoft\Windows\Start Menu\Programs
+0xb78aa6a6ddb0	\$Directory
+0xb78aa6a6e0d0	\Windows\System32\AppxSip.dll
+0xb78aa6a6e260	\Windows\System32\en-US\dnsapi.dll.mui
+0xb78aa6a6e3f0	\Users\windows10_user\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned
+0xb78aa6a6e710	\ProgramData\Microsoft\Windows\Start Menu
+0xb78aa6a6eee0	\Windows\System32\netcfgx.dll
+0xb78aa6a6f200	\$Directory
+0xb78aa6a6f390	\Windows\System32\en-US\Windows.Security.Authentication.Web.Core.dll.mui
+0xb78aa6a6f520	\Users\windows10_user\AppData\Local\Microsoft\Internet Explorer\MSIMGSIZ.DAT
+0xb78aa6a6f6b0	\$Directory
+0xb78aa6a6f840	\Windows\SysWOW64\vaultcli.dll
+0xb78aa6a6fb60	\Windows\System32\ifsutil.dll
+0xb78aa6a6fcf0	\Windows\System32\hnetcfg.dll
+0xb78aa6a6fe80	\Windows\System32\imgutil.dll
+0xb78aa6a70650	\Windows\System32\cdprt.dll
+0xb78aa6a707e0	\Users\windows10_user\Desktop
+0xb78aa6a70b00	\Users\windows10_user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+0xb78aa6a70e20	\Users\windows10_user\Desktop
+0xb78aa6a71140	\Users\windows10_user\AppData\Local\Microsoft\Windows\Burn
+0xb78aa6a712d0	\Users\windows10_user\AppData\Local\Packages\Microsoft.Windows.Search_cw5n1h2txyewy\AC\Microsoft\CryptnetUrlCache\MetaData
+0xb78aa6a71460	\$Directory
+0xb78aa6a720e0	\Users\windows10_user\AppData\Roaming\Microsoft\Windows\Start Menu
+0xb78aa6a72270	\Users\windows10_user\AppData\Roaming\Microsoft\Windows\Start Menu
+0xb78aa6a72400	\Users\windows10_user\AppData\Local\Microsoft\Windows\Burn
+0xb78aa6a72590	\Users\windows10_user\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+0xb78aa6a72720	\Users\Public\Desktop
+0xb78aa6a728b0	\Users\windows10_user\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+0xb78aa6a72a40	\Users\windows10_user\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+0xb78aa6a72bd0	\Users\windows10_user\AppData\Roaming\Microsoft\Windows\Printer Shortcuts
+0xb78aa6a72d60	\Windows\System32\en-GB\crypt32.dll.mui
+0xb78aa6a73080	\Users\windows10_user\AppData\Roaming\Microsoft\Windows\Network Shortcuts
+0xb78aa6a733a0	\Windows\System32\msvproc.dll
+0xb78aa6a736c0	\ProgramData\Microsoft\Windows\Start Menu
+0xb78aa6a73850	\Users\Public\Desktop
+0xb78aa6a74340	\Windows\System32\msfeeds.dll
+0xb78aa6a74980	\Windows\System32\DismApi.dll
+0xb78aa6a74ca0	\Windows\System32\msimg32.dll
+0xb78aa6a75470	\Windows\System32\ELSCore.dll
+0xb78aa6a75600	\Windows\System32\jscript.dll
+0xb78aa6a75dd0	\$Directory
+0xb78aa6a76410	\$Directory
+0xb78aa6a765a0	\Windows\System32\wmsgapi.dll
+0xb78aa6a768c0	\$Directory
+0xb78aa6a76d70	\Windows\System32\WMALFXGFXDSP.dll
+0xb78aa6a773b0	\Windows\System32\browcli.dll
+0xb78aa6a77540	\Windows\System32\licmgr10.dll
+0xb78aa6a77860	\Windows\System32\Windows.Perception.Stub.dll
+0xb78aa6a779f0	\Windows\System32\ieproxy.dll
+0xb78aa6a77d10	\Windows\System32\bitsigd.dll
+0xb78aa6a77ea0	\Windows\System32\dmdskmgr.dll
+0xb78aa6a78350	\Windows\System32\certprop.dll
+0xb78aa6a78670	\Windows\System32\audiodg.exe
+0xb78aa6a78800	\CMNotify
+0xb78aa6a78990	\Windows\System32\amsiproxy.dll
+0xb78aa6a78e40	\$Directory
+0xb78aa6a79480	\Windows\System32\bitsperf.dll
+0xb78aa6a797a0	\Windows\System32\loadperf.dll
+0xb78aa6a79ac0	\Windows\System32\jscript9.dll
+0xb78aa6a79de0	\$Directory
+0xb78aa6a7a100	\$Directory
+0xb78aa6a7a290	\Windows\System32\inetcomm.dll
+0xb78aa6a7a8d0	\Windows\System32\elsTrans.dll
+0xb78aa6a7aa60	\$Directory
+0xb78aa6a7abf0	\$Directory
+0xb78aa6a7ad80	\$Directory
+0xb78aa6a7b230	\Windows\System32\AudioEng.dll
+0xb78aa6a7b3c0	\Windows\System32\en-GB\windows.storage.dll.mui
+0xb78aa6a7b550	\$Directory
+0xb78aa6a7b6e0	\$Directory
+0xb78aa6a7b870	\$Directory
+0xb78aa6a7ba00	\$Directory
+0xb78aa6a7bb90	\$Directory
+0xb78aa6a7bd20	\$Directory
+0xb78aa6a7beb0	\$Directory
+0xb78aa6a7c1d0	\$Directory
+0xb78aa6a7c360	\$Directory
+0xb78aa6a7c4f0	\$Directory
+0xb78aa6a7c680	\Windows\System32\AUDIOKSE.dll
+0xb78aa6a7c810	\$Directory
+0xb78aa6a7c9a0	\$Directory
+0xb78aa6a7cb30	\$Directory
+0xb78aa6a7ce50	\$Directory
+0xb78aa6a7d170	\$Directory
+0xb78aa6a7d300	\Windows\System32\lsmproxy.dll
+0xb78aa6a7d490	\$Directory
+0xb78aa6a7d620	\$Directory
+0xb78aa6a7d7b0	\$Directory
+0xb78aa6a7d940	\$Directory
+0xb78aa6a7dad0	\$Directory
+0xb78aa6a7dc60	\$Directory
+0xb78aa6a7ddf0	\Windows\System32\imapi2fs.dll
+0xb78aa6a7e110	\$Directory
+0xb78aa6a7e2a0	\$Directory
+0xb78aa6a7e430	\$Directory
+0xb78aa6a7e5c0	\$Directory
+0xb78aa6a7e750	\Windows\System32\COLORCNV.DLL
+0xb78aa6a7e8e0	\$Directory
+0xb78aa6a7ea70	\$Directory
+0xb78aa6a7ec00	\Windows\System32\filemgmt.dll
+0xb78aa6a7ed90	\$Directory
+0xb78aa6a7f0b0	\$Directory
+0xb78aa6a7f240	\$Directory
+0xb78aa6a7f3d0	\$Directory
+0xb78aa6a7f560	\Windows\System32\MP4SDECD.DLL
+0xb78aa6a7f6f0	\$Directory
+0xb78aa6a7f880	\$Directory
+0xb78aa6a7fa10	\$Directory
+0xb78aa6a7fba0	\$Directory
+0xb78aa6a7fd30	\$Directory
+0xb78aa6a7fec0	\$Directory
+0xb78aa6a801e0	\$Directory
+0xb78aa6a80370	\$Directory
+0xb78aa6a80500	\$Directory
+0xb78aa6a80690	\$Directory
+0xb78aa6a80820	\$Directory
+0xb78aa6a809b0	\Windows\System32\CryptoWinRT.dll
+0xb78aa6a80b40	\$Directory
+0xb78aa6a80cd0	\$Directory
+0xb78aa6a80e60	\$Directory
+0xb78aa6a81180	\Windows\System32\defragsvc.dll
+0xb78aa6a81310	\$Directory
+0xb78aa6a814a0	\$Directory
+0xb78aa6a81630	\$Directory
+0xb78aa6a817c0	\$Directory
+0xb78aa6a81950	\Windows\System32\mfmp4srcsnk.dll
+0xb78aa6a81ae0	\$Directory
+0xb78aa6a81c70	\$Directory
+0xb78aa6a81e00	\$Directory
+0xb78aa6a82120	\Windows\System32\ConhostV1.dll
+0xb78aa6a822b0	\Windows\System32\CertPolEng.dll
+0xb78aa6a82440	\$Directory
+0xb78aa6a825d0	\Windows\System32\mfh264enc.dll
+0xb78aa6a82760	\Windows\System32\LocationApi.dll
+0xb78aa6a828f0	\Windows\System32\EdgeContent.dll
+0xb78aa6a82a80	\$Directory
+0xb78aa6a82c10	\Windows\System32\MSAudDecMFT.dll
+0xb78aa6a82da0	\$Directory
+0xb78aa6a830c0	\$Directory
+0xb78aa6a83250	\Windows\System32\mycomput.dll
+0xb78aa6a833e0	\Windows\System32\ContactApis.dll
+0xb78aa6a83570	\Windows\System32\deviceaccess.dll
+0xb78aa6a83700	\Windows\System32\dmenrollengine.dll
+0xb78aa6a83a20	\Windows\System32\LockController.dll
+0xb78aa6a83bb0	\Windows\System32\AppxPackaging.dll
+0xb78aa6a83d40	\Windows\System32\MFMediaEngine.dll
+0xb78aa6a83ed0	\Windows\ShellExperiences\NetworkUX.dll
+0xb78aa6a841f0	\Windows\System32\mfreadwrite.dll
+0xb78aa6a84380	\Windows\System32\AdaptiveCards.dll
+0xb78aa6a84510	\Windows\System32\NetSetupShim.dll
+0xb78aa6a846a0	\Program Files\Common Files\microsoft shared\ink\TabTip.exe
+0xb78aa6a84830	\Windows\System32\MFCaptureEngine.dll
+0xb78aa6a849c0	\Windows\System32\dmwappushsvc.dll
+0xb78aa6a84b50	\$Directory
+0xb78aa6a84ce0	\Windows\System32\browser_broker.exe
+0xb78aa6a84e70	\Windows\System32\ContactActivation.dll
+0xb78aa6a85190	\Windows\System32\mfasfsrcsnk.dll
+0xb78aa6a85320	\Windows\System32\LockAppBroker.dll
+0xb78aa6a85640	\Windows\System32\configmanager2.dll
+0xb78aa6a857d0	\Windows\System32\certCredProvider.dll
+0xb78aa6a85960	\Windows\ShellExperiences\JumpViewUI.dll
+0xb78aa6a85af0	\Windows\ShellExperiences\QuickActions.dll
+0xb78aa6a85c80	\Windows\System32\en-US\winmm.dll.mui
+0xb78aa6a85e10	\Windows\System32\hcproviders.dll
+0xb78aa6a862c0	\Windows\System32\NetworkStatus.dll
+0xb78aa6a86450	\Windows\System32\MbaeApiPublic.dll
+0xb78aa6a865e0	\Windows\System32\spfileq.dll
+0xb78aa6a86770	\Windows\System32\SessEnv.dll
+0xb78aa6a86900	\Windows\System32\upnp.dll
+0xb78aa6a86a90	\Windows\System32\seclogon.dll
+0xb78aa6a86c20	\Windows\System32\sxshared.dll
+0xb78aa6a86db0	\Windows\System32\UIRibbon.dll
+0xb78aa6a870d0	\Windows\System32\qmgr.dll
+0xb78aa6a87260	\Windows\System32\vaultsvc.dll
+0xb78aa6a873f0	\Windows\System32\wiatrace.dll
+0xb78aa6a87580	\Windows\System32\ulib.dll
+0xb78aa6a87710	\Windows\System32\ntlanman.dll
+0xb78aa6a878a0	\Windows\System32\SensorsApi.dll
+0xb78aa6a87a30	\Windows\System32\termsrv.dll
+0xb78aa6a87bc0	\Windows\System32\NgcCtnrSvc.dll
+0xb78aa6a87d50	\Windows\System32\wcmapi.dll
+0xb78aa6a88200	\Program Files\Common Files\microsoft shared\ink\tabskb.dll
+0xb78aa6a88390	\Program Files\Common Files\microsoft shared\ink\tipskins.dll
+0xb78aa6a88520	\Windows\System32\scrrun.dll
+0xb78aa6a886b0	\Program Files\Common Files\microsoft shared\ink\InkObj.dll
+0xb78aa6a88840	\Windows\System32\shacct.dll
+0xb78aa6a88cf0	\Windows\System32\scrobj.dll
+0xb78aa6a88e80	\Windows\System32\ngcsvc.dll
+0xb78aa6a89330	\Windows\System32\VAN.dll
+0xb78aa6a89650	\Windows\System32\umrdp.dll
+0xb78aa6a89970	\Windows\System32\Windows.Graphics.Printing.dll
+0xb78aa6a89b00	\Windows\System32\SearchFolder.dll
+0xb78aa6a89c90	\Windows\System32\RoamingSecurity.dll
+0xb78aa6a89e20	\Windows\System32\PortableDeviceClassExtension.dll
+0xb78aa6a89e50	麨ꚨ랊￿麨ꚨ랊￿
+0xb78aa6a8a140	\Windows\System32\VaultRoaming.dll
+0xb78aa6a8a2d0	\Windows\System32\Windows.Internal.ShellCommon.Broker.dll
+0xb78aa6a8a460	\Windows\System32\wercplsupport.dll
+0xb78aa6a8a5f0	\Windows\System32\SettingsHandlers_nt.dll
+0xb78aa6a8a780	\Windows\System32\Windows.Media.MediaControl.dll
+0xb78aa6a8a910	\Windows\System32\Windows.ApplicationModel.LockScreen.dll
+0xb78aa6a8aaa0	\Windows\System32\unenrollhook.dll
+0xb78aa6a8ac30	\Windows\System32\wbem\wmiprov.dll
+0xb78aa6a8adc0	\Windows\System32\SystemSettingsBroker.exe
+0xb78aa6a8b0e0	\Windows\System32\Windows.UI.Search.dll
+0xb78aa6a8b270	\Windows\SysWOW64\mf.dll
+0xb78aa6a8b400	\Windows\SysWOW64\atl.dll
+0xb78aa6a8b590	\Windows\System32\wbem\wbemdisp.dll
+0xb78aa6a8b720	\Windows\System32\Windows.Media.Audio.dll
+0xb78aa6a8b8b0	\Windows\System32\wbem\NCProv.dll
+0xb78aa6a8ba40	\Windows\System32\WindowsCodecsExt.dll
+0xb78aa6a8bbd0	\Windows\System32\SensorsClassExtension.dll
+0xb78aa6a8bd60	\Windows\System32\QuickActionsDataModel.dll
+0xb78aa6a8bef0	\Windows\System32\Windows.Networking.HostName.dll
+0xb78aa6a8c080	\Windows\System32\Wpc.dll
+0xb78aa6a8c210	\Windows\System32\OpcServices.dll
+0xb78aa6a8c3a0	\Windows\System32\PlayToManager.dll
+0xb78aa6a8c530	\Windows\System32\storewuauth.dll
+0xb78aa6a8c6c0	\Windows\System32\WebRuntimeManager.dll
+0xb78aa6a8c850	\Windows\System32\SettingMonitor.dll
+0xb78aa6a8c9e0	\Windows\System32\WUDFx.dll
+0xb78aa6a8cb70	\Windows\System32\WSDApi.dll
+0xb78aa6a8cd00	\Windows\SysWOW64\mscms.dll
+0xb78aa6a8ce90	\Windows\System32\wshom.ocx
+0xb78aa6a8d1b0	\Windows\SysWOW64\mfsvr.dll
+0xb78aa6a8d340	\Windows\System32\wscui.cpl
+0xb78aa6a8d4d0	\Windows\SysWOW64\msv1_0.dll
+0xb78aa6a8d660	\Windows\SysWOW64\avrt.dll
+0xb78aa6a8d7f0	\Windows\SysWOW64\gpapi.dll
+0xb78aa6a8d980	\Windows\SysWOW64\d3d9.dll
+0xb78aa6a8db10	\Windows\SysWOW64\mfc42.dll
+0xb78aa6a8dca0	\Windows\System32\WwaApi.dll
+0xb78aa6a8de30	\Windows\SysWOW64\esent.dll
+0xda889a9af3f0	\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.3636_none_60b6a03d71f818d5
+0xda889a9af580	\Windows\System32\cscapi.dll
+0xda889a9af710	\Windows\System32\LogonUI.exe
+0xda889a9af8a0	\Windows\System32\en-US\msvfw32.dll.mui
+0xda889a9afa30	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db
+0xda889a9afbc0	\Users\windows10_user\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db
+0xda889a9afee0	\$Directory

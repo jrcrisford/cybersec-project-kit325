@@ -1,0 +1,1004 @@
+Progress:    0.00		Scanning FileLayer using PageMapScannerProgress:   23.33		Scanning FileLayer using PageMapScannerProgress:  100.00		Stacking attempts finished             Progress:    0.00		Scanning memory_layer using BytesScannerProgress:    0.78		Scanning memory_layer using BytesScannerProgress:    1.56		Scanning memory_layer using BytesScannerProgress:    2.34		Scanning memory_layer using BytesScannerProgress:    3.13		Scanning memory_layer using BytesScannerProgress:    3.91		Scanning memory_layer using BytesScannerProgress:    4.69		Scanning memory_layer using BytesScannerProgress:    5.47		Scanning memory_layer using BytesScannerProgress:    6.25		Scanning memory_layer using BytesScannerProgress:    7.03		Scanning memory_layer using BytesScannerProgress:    7.81		Scanning memory_layer using BytesScannerProgress:    8.59		Scanning memory_layer using BytesScannerProgress:    9.38		Scanning memory_layer using BytesScannerProgress:   10.16		Scanning memory_layer using BytesScannerProgress:   10.94		Scanning memory_layer using BytesScannerProgress:   11.72		Scanning memory_layer using BytesScannerProgress:   12.50		Scanning memory_layer using BytesScannerProgress:   13.28		Scanning memory_layer using BytesScannerProgress:   14.06		Scanning memory_layer using BytesScannerProgress:   14.84		Scanning memory_layer using BytesScannerProgress:   15.63		Scanning memory_layer using BytesScannerProgress:   16.41		Scanning memory_layer using BytesScannerProgress:   17.19		Scanning memory_layer using BytesScannerProgress:   17.97		Scanning memory_layer using BytesScannerProgress:   18.75		Scanning memory_layer using BytesScannerProgress:   19.53		Scanning memory_layer using BytesScannerProgress:   20.31		Scanning memory_layer using BytesScannerProgress:   21.09		Scanning memory_layer using BytesScannerProgress:   21.88		Scanning memory_layer using BytesScannerProgress:   22.66		Scanning memory_layer using BytesScannerProgress:   23.44		Scanning memory_layer using BytesScannerProgress:   24.22		Scanning memory_layer using BytesScannerProgress:   25.00		Scanning memory_layer using BytesScannerProgress:   25.78		Scanning memory_layer using BytesScannerProgress:   26.56		Scanning memory_layer using BytesScannerProgress:   27.34		Scanning memory_layer using BytesScannerProgress:   28.13		Scanning memory_layer using BytesScannerProgress:   28.91		Scanning memory_layer using BytesScannerProgress:   29.69		Scanning memory_layer using BytesScannerProgress:   30.47		Scanning memory_layer using BytesScannerProgress:   31.25		Scanning memory_layer using BytesScannerProgress:   32.03		Scanning memory_layer using BytesScannerProgress:   32.81		Scanning memory_layer using BytesScannerProgress:   33.59		Scanning memory_layer using BytesScannerProgress:   34.38		Scanning memory_layer using BytesScannerProgress:   35.16		Scanning memory_layer using BytesScannerProgress:   35.94		Scanning memory_layer using BytesScannerProgress:   36.72		Scanning memory_layer using BytesScannerProgress:   37.50		Scanning memory_layer using BytesScannerProgress:   38.28		Scanning memory_layer using BytesScannerProgress:   39.06		Scanning memory_layer using BytesScannerProgress:   39.85		Scanning memory_layer using BytesScannerProgress:   40.63		Scanning memory_layer using BytesScannerProgress:   41.41		Scanning memory_layer using BytesScannerProgress:   42.19		Scanning memory_layer using BytesScannerProgress:   42.97		Scanning memory_layer using BytesScannerProgress:   43.75		Scanning memory_layer using BytesScannerProgress:   44.53		Scanning memory_layer using BytesScannerProgress:   45.31		Scanning memory_layer using BytesScannerProgress:   46.10		Scanning memory_layer using BytesScannerProgress:   46.88		Scanning memory_layer using BytesScannerProgress:   47.66		Scanning memory_layer using BytesScannerProgress:   48.44		Scanning memory_layer using BytesScannerProgress:   49.22		Scanning memory_layer using BytesScannerProgress:   50.00		Scanning memory_layer using BytesScannerProgress:   50.78		Scanning memory_layer using BytesScannerProgress:   51.56		Scanning memory_layer using BytesScannerProgress:   52.35		Scanning memory_layer using BytesScannerProgress:   53.13		Scanning memory_layer using BytesScannerProgress:   53.91		Scanning memory_layer using BytesScannerProgress:   54.69		Scanning memory_layer using BytesScannerProgress:   55.47		Scanning memory_layer using BytesScannerProgress:   56.25		Scanning memory_layer using BytesScannerProgress:   57.03		Scanning memory_layer using BytesScannerProgress:   57.81		Scanning memory_layer using BytesScannerProgress:   58.60		Scanning memory_layer using BytesScannerProgress:   59.38		Scanning memory_layer using BytesScannerProgress:   60.16		Scanning memory_layer using BytesScannerProgress:   60.94		Scanning memory_layer using BytesScannerProgress:   61.72		Scanning memory_layer using BytesScannerProgress:   62.50		Scanning memory_layer using BytesScannerProgress:   63.28		Scanning memory_layer using BytesScannerProgress:   64.06		Scanning memory_layer using BytesScannerProgress:   64.85		Scanning memory_layer using BytesScannerProgress:   65.63		Scanning memory_layer using BytesScannerProgress:   66.41		Scanning memory_layer using BytesScannerProgress:   67.19		Scanning memory_layer using BytesScannerProgress:   67.97		Scanning memory_layer using BytesScannerProgress:   68.75		Scanning memory_layer using BytesScannerProgress:   69.53		Scanning memory_layer using BytesScannerProgress:   70.31		Scanning memory_layer using BytesScannerProgress:   71.10		Scanning memory_layer using BytesScannerProgress:   71.88		Scanning memory_layer using BytesScannerProgress:   72.66		Scanning memory_layer using BytesScannerProgress:   73.44		Scanning memory_layer using BytesScannerProgress:   74.22		Scanning memory_layer using BytesScannerProgress:   75.00		Scanning memory_layer using BytesScannerProgress:   75.78		Scanning memory_layer using BytesScannerProgress:   76.57		Scanning memory_layer using BytesScannerProgress:   77.35		Scanning memory_layer using BytesScannerProgress:   78.13		Scanning memory_layer using BytesScannerProgress:   78.91		Scanning memory_layer using BytesScannerProgress:   79.69		Scanning memory_layer using BytesScannerProgress:   80.47		Scanning memory_layer using BytesScannerProgress:   81.25		Scanning memory_layer using BytesScannerProgress:   82.03		Scanning memory_layer using BytesScannerProgress:   82.82		Scanning memory_layer using BytesScannerProgress:   83.60		Scanning memory_layer using BytesScannerProgress:   84.38		Scanning memory_layer using BytesScannerProgress:   85.16		Scanning memory_layer using BytesScannerProgress:   85.94		Scanning memory_layer using BytesScannerProgress:   86.72		Scanning memory_layer using BytesScannerProgress:   87.50		Scanning memory_layer using BytesScannerProgress:   88.28		Scanning memory_layer using BytesScannerProgress:   89.07		Scanning memory_layer using BytesScannerProgress:   89.85		Scanning memory_layer using BytesScannerProgress:   90.63		Scanning memory_layer using BytesScannerProgress:   91.41		Scanning memory_layer using BytesScannerProgress:   92.19		Scanning memory_layer using BytesScannerProgress:   92.97		Scanning memory_layer using BytesScannerProgress:   93.75		Scanning memory_layer using BytesScannerProgress:   94.53		Scanning memory_layer using BytesScannerProgress:   95.32		Scanning memory_layer using BytesScannerProgress:   96.10		Scanning memory_layer using BytesScannerProgress:   96.88		Scanning memory_layer using BytesScannerProgress:   97.66		Scanning memory_layer using BytesScannerProgress:   98.44		Scanning memory_layer using BytesScannerProgress:   99.22		Scanning memory_layer using BytesScannerProgress:    0.00		Scanning memory_layer using BytesScannerProgress:    0.78		Scanning memory_layer using BytesScannerProgress:    1.56		Scanning memory_layer using BytesScannerProgress:    2.34		Scanning memory_layer using BytesScannerProgress:    3.13		Scanning memory_layer using BytesScannerProgress:    3.91		Scanning memory_layer using BytesScannerProgress:    4.69		Scanning memory_layer using BytesScannerProgress:    5.47		Scanning memory_layer using BytesScannerProgress:    6.25		Scanning memory_layer using BytesScannerProgress:    7.03		Scanning memory_layer using BytesScannerProgress:    7.81		Scanning memory_layer using BytesScannerProgress:    8.59		Scanning memory_layer using BytesScannerProgress:    9.38		Scanning memory_layer using BytesScannerProgress:   10.16		Scanning memory_layer using BytesScannerProgress:   10.94		Scanning memory_layer using BytesScannerProgress:   11.72		Scanning memory_layer using BytesScannerProgress:   12.50		Scanning memory_layer using BytesScannerProgress:   13.28		Scanning memory_layer using BytesScannerProgress:   14.06		Scanning memory_layer using BytesScannerProgress:   14.84		Scanning memory_layer using BytesScannerProgress:   15.63		Scanning memory_layer using BytesScannerProgress:   16.41		Scanning memory_layer using BytesScannerProgress:   17.19		Scanning memory_layer using BytesScannerProgress:   17.97		Scanning memory_layer using BytesScannerProgress:   18.75		Scanning memory_layer using BytesScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:   32.62		Scanning layer_name using PdbSignatureScannerProgress:  100.00		PDB scanning finished                        Volatility 3 Framework 2.27.0
+
+PID	Process	SID	Name
+
+4	System	S-1-5-18	Local System
+4	System	S-1-5-32-544	Administrators
+4	System	S-1-1-0	Everyone
+4	System	S-1-5-11	Authenticated Users
+4	System	S-1-16-16384	System Mandatory Level
+72	Registry	S-1-5-18	Local System
+72	Registry	S-1-5-32-544	Administrators
+72	Registry	S-1-1-0	Everyone
+72	Registry	S-1-5-11	Authenticated Users
+72	Registry	S-1-16-16384	System Mandatory Level
+324	smss.exe	S-1-5-18	Local System
+324	smss.exe	S-1-5-32-544	Administrators
+324	smss.exe	S-1-1-0	Everyone
+324	smss.exe	S-1-5-11	Authenticated Users
+324	smss.exe	S-1-16-16384	System Mandatory Level
+412	csrss.exe	S-1-5-18	Local System
+412	csrss.exe	S-1-5-32-544	Administrators
+412	csrss.exe	S-1-1-0	Everyone
+412	csrss.exe	S-1-5-11	Authenticated Users
+412	csrss.exe	S-1-16-16384	System Mandatory Level
+480	wininit.exe	S-1-5-18	Local System
+480	wininit.exe	S-1-5-32-544	Administrators
+480	wininit.exe	S-1-1-0	Everyone
+480	wininit.exe	S-1-5-11	Authenticated Users
+480	wininit.exe	S-1-16-16384	System Mandatory Level
+488	csrss.exe	S-1-5-18	Local System
+488	csrss.exe	S-1-5-32-544	Administrators
+488	csrss.exe	S-1-1-0	Everyone
+488	csrss.exe	S-1-5-11	Authenticated Users
+488	csrss.exe	S-1-16-16384	System Mandatory Level
+548	winlogon.exe	S-1-5-18	Local System
+548	winlogon.exe	S-1-5-32-544	Administrators
+548	winlogon.exe	S-1-1-0	Everyone
+548	winlogon.exe	S-1-5-11	Authenticated Users
+548	winlogon.exe	S-1-16-16384	System Mandatory Level
+572	services.exe	S-1-5-18	Local System
+572	services.exe	S-1-5-32-544	Administrators
+572	services.exe	S-1-1-0	Everyone
+572	services.exe	S-1-5-11	Authenticated Users
+572	services.exe	S-1-16-16384	System Mandatory Level
+580	lsass.exe	S-1-5-18	Local System
+580	lsass.exe	S-1-5-32-544	Administrators
+580	lsass.exe	S-1-1-0	Everyone
+580	lsass.exe	S-1-5-11	Authenticated Users
+580	lsass.exe	S-1-16-16384	System Mandatory Level
+700	fontdrvhost.ex	S-1-5-96-0-1	-
+700	fontdrvhost.ex	S-1-16-4096	Low Mandatory Level
+700	fontdrvhost.ex	S-1-1-0	Everyone
+700	fontdrvhost.ex	S-1-5-32-545	Users
+700	fontdrvhost.ex	S-1-5-4	Interactive
+700	fontdrvhost.ex	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+700	fontdrvhost.ex	S-1-5-11	Authenticated Users
+700	fontdrvhost.ex	S-1-5-15	This Organization
+700	fontdrvhost.ex	S-1-5-5-0-30657	Logon Session
+700	fontdrvhost.ex	S-1-5-96-0	-
+708	fontdrvhost.ex	S-1-5-96-0-0	-
+708	fontdrvhost.ex	S-1-16-4096	Low Mandatory Level
+708	fontdrvhost.ex	S-1-1-0	Everyone
+708	fontdrvhost.ex	S-1-5-32-545	Users
+708	fontdrvhost.ex	S-1-5-4	Interactive
+708	fontdrvhost.ex	S-1-5-11	Authenticated Users
+708	fontdrvhost.ex	S-1-5-15	This Organization
+708	fontdrvhost.ex	S-1-5-5-0-30691	Logon Session
+708	fontdrvhost.ex	S-1-5-96-0	-
+716	svchost.exe	S-1-5-18	Local System
+716	svchost.exe	S-1-16-16384	System Mandatory Level
+716	svchost.exe	S-1-1-0	Everyone
+716	svchost.exe	S-1-5-32-545	Users
+716	svchost.exe	S-1-5-6	Service
+716	svchost.exe	S-1-5-11	Authenticated Users
+716	svchost.exe	S-1-5-15	This Organization
+716	svchost.exe	S-1-5-80-1988685059-1921232356-378231328-2704142597-890457928	-
+716	svchost.exe	S-1-5-80-1601830629-990752416-3372939810-977361409-3075122917	DcomLaunch
+716	svchost.exe	S-1-5-80-2659457741-469498900-3203170401-3149177360-3048467625	-
+716	svchost.exe	S-1-5-80-1230977110-1477712667-2747199032-477530733-939374687	-
+716	svchost.exe	S-1-5-80-1981970923-922788642-3535304421-2999920573-318732269	PlugPlay
+716	svchost.exe	S-1-5-80-2343416411-2961288913-598565901-392633850-2111459193	Power
+716	svchost.exe	S-1-5-80-1662832393-3268938575-4001313665-1200257238-783911988	-
+716	svchost.exe	S-1-5-5-0-30324	Logon Session
+716	svchost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+716	svchost.exe	S-1-5-32-544	Administrators
+796	svchost.exe	S-1-5-20	NT Authority
+796	svchost.exe	S-1-16-16384	System Mandatory Level
+796	svchost.exe	S-1-1-0	Everyone
+796	svchost.exe	S-1-5-32-545	Users
+796	svchost.exe	S-1-5-6	Service
+796	svchost.exe	S-1-5-11	Authenticated Users
+796	svchost.exe	S-1-5-15	This Organization
+796	svchost.exe	S-1-5-80-521322694-906040134-3864710659-1525148216-3451224162	RpcEptMapper
+796	svchost.exe	S-1-5-80-979556362-403687129-3954533659-2335141334-1547273080	RpcSs
+796	svchost.exe	S-1-5-5-0-45173	Logon Session
+796	svchost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+884	dwm.exe	S-1-5-90-0-1	-
+884	dwm.exe	S-1-16-16384	System Mandatory Level
+884	dwm.exe	S-1-1-0	Everyone
+884	dwm.exe	S-1-5-32-545	Users
+884	dwm.exe	S-1-5-4	Interactive
+884	dwm.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+884	dwm.exe	S-1-5-11	Authenticated Users
+884	dwm.exe	S-1-5-15	This Organization
+884	dwm.exe	S-1-5-19	NT Authority
+884	dwm.exe	S-1-2-0	Local (Users with the ability to log in locally)
+884	dwm.exe	S-1-5-90-0	-
+980	svchost.exe	S-1-5-19	NT Authority
+980	svchost.exe	S-1-16-16384	System Mandatory Level
+980	svchost.exe	S-1-1-0	Everyone
+980	svchost.exe	S-1-5-32-545	Users
+980	svchost.exe	S-1-5-6	Service
+980	svchost.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+980	svchost.exe	S-1-5-11	Authenticated Users
+980	svchost.exe	S-1-5-15	This Organization
+980	svchost.exe	S-1-5-80-1021139062-1866602279-1255292388-1008060685-2498416891	-
+980	svchost.exe	S-1-5-80-2970612574-78537857-698502321-558674196-1451644582	DPS
+980	svchost.exe	S-1-5-80-639065985-1709096039-2702309040-2770678766-2981280942	-
+980	svchost.exe	S-1-5-80-2661322625-712705077-2999183737-3043590567-590698655	pla
+980	svchost.exe	S-1-5-5-0-54772	Logon Session
+980	svchost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+980	svchost.exe	S-1-5-33	Write Restricted
+980	svchost.exe	S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674	-
+980	svchost.exe	S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331	-
+980	svchost.exe	S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067	-
+980	svchost.exe	S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263	-
+980	svchost.exe	S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053	-
+980	svchost.exe	S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462	-
+1004	svchost.exe	S-1-5-18	Local System
+1004	svchost.exe	S-1-16-16384	System Mandatory Level
+1004	svchost.exe	S-1-1-0	Everyone
+1004	svchost.exe	S-1-5-32-545	Users
+1004	svchost.exe	S-1-5-6	Service
+1004	svchost.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+1004	svchost.exe	S-1-5-11	Authenticated Users
+1004	svchost.exe	S-1-5-15	This Organization
+1004	svchost.exe	S-1-5-80-2962817144-200689703-2266453665-3849882635-1986547430	BDESVC
+1004	svchost.exe	S-1-5-80-864916184-135290571-3087830041-1716922880-4237303741	BITS
+1004	svchost.exe	S-1-5-80-3841379657-834162867-3056945855-2577476187-70241904	-
+1004	svchost.exe	S-1-5-80-286057374-2594772386-1471686342-3682429118-820474675	-
+1004	svchost.exe	S-1-5-80-3578261754-285310837-913589462-2834155770-667502746	EapHost
+1004	svchost.exe	S-1-5-80-698886940-375981264-2691324669-2937073286-3841916615	IKEEXT
+1004	svchost.exe	S-1-5-80-62724632-2456781206-3863850748-1496050881-1042387526	iphlpsvc
+1004	svchost.exe	S-1-5-80-879696042-2351668846-370232824-2524288904-4023536711	LanmanServer
+1004	svchost.exe	S-1-5-80-3704025948-1094794811-1175534343-2088422159-783153058	-
+1004	svchost.exe	S-1-5-80-917953661-2020045820-2727011118-2260243830-4032185929	MSiSCSI
+1004	svchost.exe	S-1-5-80-154974075-1852685594-3179713959-2755908004-3936262621	-
+1004	svchost.exe	S-1-5-80-3290392786-819420393-1694314755-3737624005-3552167228	-
+1004	svchost.exe	S-1-5-80-2949785411-1458004381-4011503523-1439849274-3428788682	-
+1004	svchost.exe	S-1-5-80-1802467488-1541022566-2033325545-854566965-652742428	RasAuto
+1004	svchost.exe	S-1-5-80-4125092361-1567024937-842823819-2091237918-836075745	Schedule
+1004	svchost.exe	S-1-5-80-4259241309-1822918763-1176128033-1339750638-3428293995	SENS
+1004	svchost.exe	S-1-5-80-4022436659-1090538466-1613889075-870485073-3428993833	SessionEnv
+1004	svchost.exe	S-1-5-80-2009329905-444645132-2728249442-922493431-93864177	SharedAccess
+1004	svchost.exe	S-1-5-80-1690854464-3758363787-3981977099-3843555589-1401248062	ShellHWDetection
+1004	svchost.exe	S-1-5-80-1139522462-2689595747-457373284-4037083511-4201549542	-
+1004	svchost.exe	S-1-5-80-223807737-1693445485-119162242-1977420160-1403034029	-
+1004	svchost.exe	S-1-5-80-3594706986-2537596223-181334840-1741483385-1351671666	wercplsupport
+1004	svchost.exe	S-1-5-80-3750560858-172214265-3889451188-1914796615-4100997547	Winmgmt
+1004	svchost.exe	S-1-5-80-2429767553-128593128-2427591838-1778256749-2155598187	-
+1004	svchost.exe	S-1-5-80-2952724807-2252311773-3412998076-2712868122-780978283	-
+1004	svchost.exe	S-1-5-80-3577588319-513283748-931039988-2701962192-2148388740	-
+1004	svchost.exe	S-1-5-80-1938892561-4120931771-3580170924-3403102300-2651602529	-
+1004	svchost.exe	S-1-5-80-1014140700-3308905587-3330345912-272242898-93311788	wuauserv
+1004	svchost.exe	S-1-5-80-1352715831-1104254428-97934242-2131353953-1898040052	-
+1004	svchost.exe	S-1-5-5-0-54780	Logon Session
+1004	svchost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+1004	svchost.exe	S-1-5-32-544	Administrators
+1012	svchost.exe	S-1-5-19	NT Authority
+1012	svchost.exe	S-1-16-16384	System Mandatory Level
+1012	svchost.exe	S-1-1-0	Everyone
+1012	svchost.exe	S-1-5-32-545	Users
+1012	svchost.exe	S-1-5-6	Service
+1012	svchost.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+1012	svchost.exe	S-1-5-11	Authenticated Users
+1012	svchost.exe	S-1-5-15	This Organization
+1012	svchost.exe	S-1-5-80-3532809085-2652327567-2620918877-1058261733-582902671	-
+1012	svchost.exe	S-1-5-80-2078495744-2416903469-4072184685-3943858305-976987417	AppIDSvc
+1012	svchost.exe	S-1-5-80-2940520708-3855866260-481812779-327648279-1710889582	Dhcp
+1012	svchost.exe	S-1-5-80-880578595-1860270145-482643319-2788375705-1540778122	eventlog
+1012	svchost.exe	S-1-5-80-3935728946-315639613-922904133-3250794525-491832002	-
+1012	svchost.exe	S-1-5-80-172094073-716411664-54255058-185476446-2329512179	lmhosts
+1012	svchost.exe	S-1-5-80-2381253463-2694003897-3435975801-3559003598-683041300	-
+1012	svchost.exe	S-1-5-80-2950457502-2299174248-3328245479-1326271200-3113355612	-
+1012	svchost.exe	S-1-5-80-410965207-2550896871-1717734767-2321332215-3755966139	-
+1012	svchost.exe	S-1-5-80-3557709225-3446934100-2592608561-3401846376-4273827271	-
+1012	svchost.exe	S-1-5-80-3098585136-2538892366-1097114017-2832417424-2016953023	-
+1012	svchost.exe	S-1-5-80-1495648203-2503502111-1597754693-3445174711-1316708627	-
+1012	svchost.exe	S-1-5-80-2455429942-3131183193-3617688776-595395669-3772047725	WinHttpAutoProxySvc
+1012	svchost.exe	S-1-5-80-3916113136-2435487254-2535488001-4050622930-2364918814	-
+1012	svchost.exe	S-1-5-80-3232712927-1625117661-2590453128-1738570065-3637376297	wscsvc
+1012	svchost.exe	S-1-5-5-0-55608	Logon Session
+1012	svchost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+1012	svchost.exe	S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674	-
+1012	svchost.exe	S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331	-
+1012	svchost.exe	S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067	-
+1012	svchost.exe	S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263	-
+1012	svchost.exe	S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053	-
+1012	svchost.exe	S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462	-
+692	svchost.exe	S-1-5-18	Local System
+692	svchost.exe	S-1-16-16384	System Mandatory Level
+692	svchost.exe	S-1-1-0	Everyone
+692	svchost.exe	S-1-5-32-545	Users
+692	svchost.exe	S-1-5-6	Service
+692	svchost.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+692	svchost.exe	S-1-5-11	Authenticated Users
+692	svchost.exe	S-1-5-15	This Organization
+692	svchost.exe	S-1-5-80-1580948945-3239616721-2529237571-3761093093-1214243633	AudioEndpointBuilder
+692	svchost.exe	S-1-5-80-2536636004-4072673470-1048721469-2703517266-1433793019	-
+692	svchost.exe	S-1-5-80-1646229720-1474186231-1049421145-3719583575-3014288788	-
+692	svchost.exe	S-1-5-80-3914275374-678031271-1603343729-3906112567-2888048264	-
+692	svchost.exe	S-1-5-80-3787436395-2174616005-3003730137-1094982900-1570567328	dot3svc
+692	svchost.exe	S-1-5-80-1551822644-3134808374-1042292604-2865742758-3851661496	-
+692	svchost.exe	S-1-5-80-2617507558-3328795327-711547822-311560295-1636921165	-
+692	svchost.exe	S-1-5-80-89818136-74175777-88572358-3912780041-2421659406	hidserv
+692	svchost.exe	S-1-5-80-44780642-2200031541-2427509763-915290973-996987375	-
+692	svchost.exe	S-1-5-80-2355113075-3359631449-3346493237-3667020425-1655874352	-
+692	svchost.exe	S-1-5-80-3169048008-2586333165-76651690-3609634147-4147641610	-
+692	svchost.exe	S-1-5-80-2898649604-2335086160-1904548223-3761738420-3855444835	Netman
+692	svchost.exe	S-1-5-80-1999281942-4196217620-51267815-1628483199-606183737	-
+692	svchost.exe	S-1-5-80-1948712186-1330865447-943413596-1669284603-1648638051	PcaSvc
+692	svchost.exe	S-1-5-80-869152694-422618349-3448047118-1397179936-2828741493	-
+692	svchost.exe	S-1-5-80-3355894222-2288616474-3163838539-1515771758-43395969	StorSvc
+692	svchost.exe	S-1-5-80-2483706823-3321877870-553300257-593996131-450212729	-
+692	svchost.exe	S-1-5-80-949921180-3923668869-394927020-528789358-3592448931	TabletInputService
+692	svchost.exe	S-1-5-80-768763963-4214222998-2156221936-2953597973-713500239	TrkWks
+692	svchost.exe	S-1-5-80-2014626298-1656748749-3847481816-918933055-2469338456	UmRdpService
+692	svchost.exe	S-1-5-80-3074984378-4122987768-2130325677-2031866499-3405430279	-
+692	svchost.exe	S-1-5-80-1877308096-3090306141-3032871208-3115266146-1400827410	-
+692	svchost.exe	S-1-5-80-3110303136-3426481729-3186938678-1087894076-2178433439	-
+692	svchost.exe	S-1-5-80-235582178-102246843-358262472-4132936818-1867412993	-
+692	svchost.exe	S-1-5-80-1752088424-1054500994-3489791022-3310831482-3926524968	-
+692	svchost.exe	S-1-5-80-3524758515-3090971750-345616940-2322499744-3530715838	WdiSystemHost
+692	svchost.exe	S-1-5-80-533360197-2630880149-807505739-2151714924-2570839994	-
+692	svchost.exe	S-1-5-80-3981856537-581775623-1136376035-2066872258-409572886	WwanSvc
+692	svchost.exe	S-1-5-5-0-60372	Logon Session
+692	svchost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+692	svchost.exe	S-1-5-32-544	Administrators
+940	svchost.exe	S-1-5-19	NT Authority
+940	svchost.exe	S-1-16-16384	System Mandatory Level
+940	svchost.exe	S-1-1-0	Everyone
+940	svchost.exe	S-1-5-32-545	Users
+940	svchost.exe	S-1-5-6	Service
+940	svchost.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+940	svchost.exe	S-1-5-11	Authenticated Users
+940	svchost.exe	S-1-5-15	This Organization
+940	svchost.exe	S-1-5-80-1264790548-4164306546-4160824920-750804445-3452039388	-
+940	svchost.exe	S-1-5-80-2586557155-168560303-1373426920-983201488-1499765686	bthserv
+940	svchost.exe	S-1-5-80-2195691530-3564058219-2185687823-1858318469-3207429352	-
+940	svchost.exe	S-1-5-80-3433512109-503559027-1389316256-1766580070-2256751264	-
+940	svchost.exe	S-1-5-80-4171086659-1617898341-2870161492-1466607281-2109097600	-
+940	svchost.exe	S-1-5-80-1772571935-1555666882-3369284645-1675012128-2386634627	EventSystem
+940	svchost.exe	S-1-5-80-364023826-931424190-487969545-1024119571-74567675	fdPHost
+940	svchost.exe	S-1-5-80-3655275221-2954682349-3644260495-855223267-1438849333	FontCache
+940	svchost.exe	S-1-5-80-2168654060-3115992504-1782388893-2584760693-2634250426	-
+940	svchost.exe	S-1-5-80-940647296-341435850-43817331-158078607-2483727905	lltdsvc
+940	svchost.exe	S-1-5-80-3635958274-2059881490-2225992882-984577281-633327304	netprofm
+940	svchost.exe	S-1-5-80-2310782386-4237065203-3688974353-390202159-3511571085	nsi
+940	svchost.exe	S-1-5-80-2636612206-2079418197-1004231589-1812192203-4197254245	-
+940	svchost.exe	S-1-5-80-2822507136-3601578665-1013168651-121944544-1825232178	RemoteRegistry
+940	svchost.exe	S-1-5-80-3246321066-2451215914-3422911474-2201726393-166328789	-
+940	svchost.exe	S-1-5-80-3435701886-799518250-3791383489-3228296122-2938884314	SstpSvc
+940	svchost.exe	S-1-5-80-3641914668-2724251012-1186334157-2460844255-322272688	-
+940	svchost.exe	S-1-5-80-3139157870-2983391045-3678747466-658725712-1809340420	WdiServiceHost
+940	svchost.exe	S-1-5-80-324959683-3395802011-921526492-919036580-1730255754	WebClient
+940	svchost.exe	S-1-5-80-3006764832-2469330069-4024865495-2754276538-3243839463	-
+940	svchost.exe	S-1-5-5-0-61435	Logon Session
+940	svchost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+940	svchost.exe	S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674	-
+940	svchost.exe	S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331	-
+940	svchost.exe	S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067	-
+940	svchost.exe	S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263	-
+940	svchost.exe	S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053	-
+940	svchost.exe	S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462	-
+1144	svchost.exe	S-1-5-20	NT Authority
+1144	svchost.exe	S-1-16-16384	System Mandatory Level
+1144	svchost.exe	S-1-1-0	Everyone
+1144	svchost.exe	S-1-5-32-545	Users
+1144	svchost.exe	S-1-5-6	Service
+1144	svchost.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+1144	svchost.exe	S-1-5-11	Authenticated Users
+1144	svchost.exe	S-1-5-15	This Organization
+1144	svchost.exe	S-1-5-80-242729624-280608522-2219052887-3187409060-2225943459	CryptSvc
+1144	svchost.exe	S-1-5-80-859482183-879914841-863379149-1145462774-2388618682	Dnscache
+1144	svchost.exe	S-1-5-80-3055155277-3816794035-3994065555-2874236192-2193176987	-
+1144	svchost.exe	S-1-5-80-719998295-2833700043-1566817583-4093942769-1414026312	LanmanWorkstation
+1144	svchost.exe	S-1-5-80-3141615172-2057878085-1754447212-2405740020-3916490453	NlaSvc
+1144	svchost.exe	S-1-5-80-4230913304-2206818457-801678004-120036174-1892434133	TapiSrv
+1144	svchost.exe	S-1-5-80-4059739203-877974739-1245631912-527174227-2996563517	Wecsvc
+1144	svchost.exe	S-1-5-80-569256582-2953403351-2909559716-1301513147-412116970	WinRM
+1144	svchost.exe	S-1-5-5-0-65987	Logon Session
+1144	svchost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+1184	svchost.exe	S-1-5-19	NT Authority
+1184	svchost.exe	S-1-16-16384	System Mandatory Level
+1184	svchost.exe	S-1-1-0	Everyone
+1184	svchost.exe	S-1-5-32-545	Users
+1184	svchost.exe	S-1-5-6	Service
+1184	svchost.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+1184	svchost.exe	S-1-5-11	Authenticated Users
+1184	svchost.exe	S-1-5-15	This Organization
+1184	svchost.exe	S-1-5-80-2226967063-754826275-1661302337-2802353169-2369347280	-
+1184	svchost.exe	S-1-5-5-0-67910	Logon Session
+1184	svchost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+1184	svchost.exe	S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674	-
+1184	svchost.exe	S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331	-
+1184	svchost.exe	S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067	-
+1184	svchost.exe	S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263	-
+1184	svchost.exe	S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053	-
+1184	svchost.exe	S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462	-
+1240	svchost.exe	S-1-5-18	Local System
+1240	svchost.exe	S-1-16-16384	System Mandatory Level
+1240	svchost.exe	S-1-1-0	Everyone
+1240	svchost.exe	S-1-5-32-545	Users
+1240	svchost.exe	S-1-5-6	Service
+1240	svchost.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+1240	svchost.exe	S-1-5-11	Authenticated Users
+1240	svchost.exe	S-1-5-15	This Organization
+1240	svchost.exe	S-1-5-80-3993802144-2555107232-3516638766-2735499450-3275915967	-
+1240	svchost.exe	S-1-5-80-113310567-2163499630-2787090463-221477905-209227094	WPDBusEnum
+1240	svchost.exe	S-1-5-5-0-69259	Logon Session
+1240	svchost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+1240	svchost.exe	S-1-5-32-544	Administrators
+1288	VBoxService.ex	S-1-5-18	Local System
+1288	VBoxService.ex	S-1-5-32-544	Administrators
+1288	VBoxService.ex	S-1-1-0	Everyone
+1288	VBoxService.ex	S-1-5-11	Authenticated Users
+1288	VBoxService.ex	S-1-16-16384	System Mandatory Level
+1356	MemCompression	S-1-5-18	Local System
+1356	MemCompression	S-1-5-32-544	Administrators
+1356	MemCompression	S-1-1-0	Everyone
+1356	MemCompression	S-1-5-11	Authenticated Users
+1356	MemCompression	S-1-16-16384	System Mandatory Level
+1520	svchost.exe	S-1-5-19	NT Authority
+1520	svchost.exe	S-1-16-16384	System Mandatory Level
+1520	svchost.exe	S-1-1-0	Everyone
+1520	svchost.exe	S-1-5-32-545	Users
+1520	svchost.exe	S-1-5-6	Service
+1520	svchost.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+1520	svchost.exe	S-1-5-11	Authenticated Users
+1520	svchost.exe	S-1-5-15	This Organization
+1520	svchost.exe	S-1-5-80-2676549577-1911656217-2625096541-4178041876-1366760775	Audiosrv
+1520	svchost.exe	S-1-5-5-0-85095	Logon Session
+1520	svchost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+1520	svchost.exe	S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674	-
+1520	svchost.exe	S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331	-
+1520	svchost.exe	S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067	-
+1520	svchost.exe	S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263	-
+1520	svchost.exe	S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053	-
+1520	svchost.exe	S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462	-
+1604	svchost.exe	S-1-5-19	NT Authority
+1604	svchost.exe	S-1-16-16384	System Mandatory Level
+1604	svchost.exe	S-1-1-0	Everyone
+1604	svchost.exe	S-1-5-32-545	Users
+1604	svchost.exe	S-1-5-6	Service
+1604	svchost.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+1604	svchost.exe	S-1-5-11	Authenticated Users
+1604	svchost.exe	S-1-5-15	This Organization
+1604	svchost.exe	S-1-5-80-4071458001-3563271761-1846288968-3700919931-3809667977	-
+1604	svchost.exe	S-1-5-5-0-87759	Logon Session
+1604	svchost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+1604	svchost.exe	S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674	-
+1604	svchost.exe	S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331	-
+1604	svchost.exe	S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067	-
+1604	svchost.exe	S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263	-
+1604	svchost.exe	S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053	-
+1604	svchost.exe	S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462	-
+1612	svchost.exe	S-1-5-19	NT Authority
+1612	svchost.exe	S-1-16-16384	System Mandatory Level
+1612	svchost.exe	S-1-1-0	Everyone
+1612	svchost.exe	S-1-5-32-545	Users
+1612	svchost.exe	S-1-5-6	Service
+1612	svchost.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+1612	svchost.exe	S-1-5-11	Authenticated Users
+1612	svchost.exe	S-1-5-15	This Organization
+1612	svchost.exe	S-1-5-80-4155767994-3874329934-3800885181-2130851812-726865888	-
+1612	svchost.exe	S-1-5-5-0-87780	Logon Session
+1612	svchost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+1612	svchost.exe	S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674	-
+1612	svchost.exe	S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331	-
+1612	svchost.exe	S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067	-
+1612	svchost.exe	S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263	-
+1612	svchost.exe	S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053	-
+1612	svchost.exe	S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462	-
+1716	spoolsv.exe	S-1-5-18	Local System
+1716	spoolsv.exe	S-1-16-16384	System Mandatory Level
+1716	spoolsv.exe	S-1-1-0	Everyone
+1716	spoolsv.exe	S-1-5-32-545	Users
+1716	spoolsv.exe	S-1-5-6	Service
+1716	spoolsv.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+1716	spoolsv.exe	S-1-5-11	Authenticated Users
+1716	spoolsv.exe	S-1-5-15	This Organization
+1716	spoolsv.exe	S-1-5-80-3951239711-1671533544-1416304335-3763227691-3930497994	Spooler
+1716	spoolsv.exe	S-1-5-5-0-90914	Logon Session
+1716	spoolsv.exe	S-1-2-0	Local (Users with the ability to log in locally)
+1716	spoolsv.exe	S-1-5-32-544	Administrators
+1724	svchost.exe	S-1-5-18	Local System
+1724	svchost.exe	S-1-16-16384	System Mandatory Level
+1724	svchost.exe	S-1-1-0	Everyone
+1724	svchost.exe	S-1-5-32-545	Users
+1724	svchost.exe	S-1-5-6	Service
+1724	svchost.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+1724	svchost.exe	S-1-5-11	Authenticated Users
+1724	svchost.exe	S-1-5-15	This Organization
+1724	svchost.exe	S-1-5-80-3369530244-1263555520-1552818992-544823788-1590281562	-
+1724	svchost.exe	S-1-5-80-2744483880-3889877944-846434063-3461941807-3140553215	-
+1724	svchost.exe	S-1-5-80-4118144674-975173503-976751360-2062754009-4288402176	-
+1724	svchost.exe	S-1-5-80-1874328037-1620432936-4113708365-722077214-3851787529	-
+1724	svchost.exe	S-1-5-5-0-91123	Logon Session
+1724	svchost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+1724	svchost.exe	S-1-5-32-544	Administrators
+1768	svchost.exe	S-1-5-19	NT Authority
+1768	svchost.exe	S-1-16-16384	System Mandatory Level
+1768	svchost.exe	S-1-1-0	Everyone
+1768	svchost.exe	S-1-5-32-545	Users
+1768	svchost.exe	S-1-5-6	Service
+1768	svchost.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+1768	svchost.exe	S-1-5-11	Authenticated Users
+1768	svchost.exe	S-1-5-15	This Organization
+1768	svchost.exe	S-1-5-80-1383147646-27650227-2710666058-1662982300-1023958487	BFE
+1768	svchost.exe	S-1-5-80-3088073201-1464728630-1879813800-1107566885-823218052	MpsSvc
+1768	svchost.exe	S-1-5-5-0-92011	Logon Session
+1768	svchost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+1768	svchost.exe	S-1-5-33	Write Restricted
+1768	svchost.exe	S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674	-
+1768	svchost.exe	S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331	-
+1768	svchost.exe	S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067	-
+1768	svchost.exe	S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263	-
+1768	svchost.exe	S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053	-
+1768	svchost.exe	S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462	-
+1988	svchost.exe	S-1-5-20	NT Authority
+1988	svchost.exe	S-1-16-16384	System Mandatory Level
+1988	svchost.exe	S-1-1-0	Everyone
+1988	svchost.exe	S-1-5-32-545	Users
+1988	svchost.exe	S-1-5-6	Service
+1988	svchost.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+1988	svchost.exe	S-1-5-11	Authenticated Users
+1988	svchost.exe	S-1-5-15	This Organization
+1988	svchost.exe	S-1-5-80-3044542841-3639452079-4096941652-1606687743-1256249853	PolicyAgent
+1988	svchost.exe	S-1-5-5-0-147956	Logon Session
+1988	svchost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+1060	AppleMobileDev	S-1-5-19	NT Authority
+1060	AppleMobileDev	S-1-16-16384	System Mandatory Level
+1060	AppleMobileDev	S-1-1-0	Everyone
+1060	AppleMobileDev	S-1-5-32-545	Users
+1060	AppleMobileDev	S-1-5-6	Service
+1060	AppleMobileDev	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+1060	AppleMobileDev	S-1-5-11	Authenticated Users
+1060	AppleMobileDev	S-1-5-15	This Organization
+1060	AppleMobileDev	S-1-2-0	Local (Users with the ability to log in locally)
+1060	AppleMobileDev	S-1-5-5-0-150401	Logon Session
+1060	AppleMobileDev	S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674	-
+1060	AppleMobileDev	S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331	-
+1060	AppleMobileDev	S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067	-
+1060	AppleMobileDev	S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263	-
+1060	AppleMobileDev	S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053	-
+1060	AppleMobileDev	S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462	-
+868	mDNSResponder.	S-1-5-18	Local System
+868	mDNSResponder.	S-1-5-32-544	Administrators
+868	mDNSResponder.	S-1-1-0	Everyone
+868	mDNSResponder.	S-1-5-11	Authenticated Users
+868	mDNSResponder.	S-1-16-16384	System Mandatory Level
+1160	CmWebAdmin.exe	S-1-5-19	NT Authority
+1160	CmWebAdmin.exe	S-1-16-16384	System Mandatory Level
+1160	CmWebAdmin.exe	S-1-1-0	Everyone
+1160	CmWebAdmin.exe	S-1-5-32-545	Users
+1160	CmWebAdmin.exe	S-1-5-6	Service
+1160	CmWebAdmin.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+1160	CmWebAdmin.exe	S-1-5-11	Authenticated Users
+1160	CmWebAdmin.exe	S-1-5-15	This Organization
+1160	CmWebAdmin.exe	S-1-2-0	Local (Users with the ability to log in locally)
+1160	CmWebAdmin.exe	S-1-5-5-0-150715	Logon Session
+1160	CmWebAdmin.exe	S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674	-
+1160	CmWebAdmin.exe	S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331	-
+1160	CmWebAdmin.exe	S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067	-
+1160	CmWebAdmin.exe	S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263	-
+1160	CmWebAdmin.exe	S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053	-
+1160	CmWebAdmin.exe	S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462	-
+1376	CodeMeter.exe	S-1-5-18	Local System
+1376	CodeMeter.exe	S-1-5-32-544	Administrators
+1376	CodeMeter.exe	S-1-1-0	Everyone
+1376	CodeMeter.exe	S-1-5-11	Authenticated Users
+1376	CodeMeter.exe	S-1-16-16384	System Mandatory Level
+1388	svchost.exe	S-1-5-18	Local System
+1388	svchost.exe	S-1-16-16384	System Mandatory Level
+1388	svchost.exe	S-1-1-0	Everyone
+1388	svchost.exe	S-1-5-32-545	Users
+1388	svchost.exe	S-1-5-6	Service
+1388	svchost.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+1388	svchost.exe	S-1-5-11	Authenticated Users
+1388	svchost.exe	S-1-5-15	This Organization
+1388	svchost.exe	S-1-5-80-2620808479-2171380039-3191355562-2070425692-3097948119	-
+1388	svchost.exe	S-1-5-5-0-151899	Logon Session
+1388	svchost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+1388	svchost.exe	S-1-5-32-544	Administrators
+2084	MsMpEng.exe	S-1-5-18	Local System
+2084	MsMpEng.exe	S-1-16-16384	System Mandatory Level
+2084	MsMpEng.exe	S-1-1-0	Everyone
+2084	MsMpEng.exe	S-1-5-32-545	Users
+2084	MsMpEng.exe	S-1-5-6	Service
+2084	MsMpEng.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+2084	MsMpEng.exe	S-1-5-11	Authenticated Users
+2084	MsMpEng.exe	S-1-5-15	This Organization
+2084	MsMpEng.exe	S-1-5-80-1913148863-3492339771-4165695881-2087618961-4109116736	WinDefend
+2084	MsMpEng.exe	S-1-5-5-0-154452	Logon Session
+2084	MsMpEng.exe	S-1-2-0	Local (Users with the ability to log in locally)
+2084	MsMpEng.exe	S-1-5-32-544	Administrators
+2304	svchost.exe	S-1-5-18	Local System
+2304	svchost.exe	S-1-16-16384	System Mandatory Level
+2304	svchost.exe	S-1-1-0	Everyone
+2304	svchost.exe	S-1-5-32-545	Users
+2304	svchost.exe	S-1-5-6	Service
+2304	svchost.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+2304	svchost.exe	S-1-5-11	Authenticated Users
+2304	svchost.exe	S-1-5-15	This Organization
+2304	svchost.exe	S-1-5-80-1949724575-2387902436-65106593-1201171665-3967308604	-
+2304	svchost.exe	S-1-5-80-65843127-2189646064-2697706863-2125155322-3141006483	-
+2304	svchost.exe	S-1-5-5-0-163602	Logon Session
+2304	svchost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+2304	svchost.exe	S-1-5-32-544	Administrators
+2312	SearchIndexer.	S-1-5-18	Local System
+2312	SearchIndexer.	S-1-16-16384	System Mandatory Level
+2312	SearchIndexer.	S-1-1-0	Everyone
+2312	SearchIndexer.	S-1-5-32-545	Users
+2312	SearchIndexer.	S-1-5-6	Service
+2312	SearchIndexer.	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+2312	SearchIndexer.	S-1-5-11	Authenticated Users
+2312	SearchIndexer.	S-1-5-15	This Organization
+2312	SearchIndexer.	S-1-5-80-117416528-2204451360-1913602512-1355018040-1234992034	WSearch
+2312	SearchIndexer.	S-1-5-5-0-164371	Logon Session
+2312	SearchIndexer.	S-1-2-0	Local (Users with the ability to log in locally)
+2312	SearchIndexer.	S-1-5-32-544	Administrators
+2664	svchost.exe	S-1-5-19	NT Authority
+2664	svchost.exe	S-1-16-16384	System Mandatory Level
+2664	svchost.exe	S-1-1-0	Everyone
+2664	svchost.exe	S-1-5-32-545	Users
+2664	svchost.exe	S-1-5-6	Service
+2664	svchost.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+2664	svchost.exe	S-1-5-11	Authenticated Users
+2664	svchost.exe	S-1-5-15	This Organization
+2664	svchost.exe	S-1-5-80-3316959809-2577409367-488518535-1805171532-1438653141	-
+2664	svchost.exe	S-1-5-80-3765985997-1043742756-2756022526-3497566756-2081646175	-
+2664	svchost.exe	S-1-5-5-0-198468	Logon Session
+2664	svchost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+2664	svchost.exe	S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674	-
+2664	svchost.exe	S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331	-
+2664	svchost.exe	S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067	-
+2664	svchost.exe	S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263	-
+2664	svchost.exe	S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053	-
+2664	svchost.exe	S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462	-
+2776	WmiPrvSE.exe	S-1-5-20	NT Authority
+2776	WmiPrvSE.exe	S-1-16-16384	System Mandatory Level
+2776	WmiPrvSE.exe	S-1-1-0	Everyone
+2776	WmiPrvSE.exe	S-1-5-32-545	Users
+2776	WmiPrvSE.exe	S-1-5-6	Service
+2776	WmiPrvSE.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+2776	WmiPrvSE.exe	S-1-5-11	Authenticated Users
+2776	WmiPrvSE.exe	S-1-5-15	This Organization
+2776	WmiPrvSE.exe	S-1-5-86-615999462-62705297-2911207457-59056572-3668589837	WMI (Network Service)
+2776	WmiPrvSE.exe	S-1-5-5-0-205531	Logon Session
+2956	sihost.exe	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+2956	sihost.exe	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+2956	sihost.exe	S-1-1-0	Everyone
+2956	sihost.exe	S-1-5-114	Local Account (Member of Administrators)
+2956	sihost.exe	S-1-5-32-544	Administrators
+2956	sihost.exe	S-1-5-32-545	Users
+2956	sihost.exe	S-1-5-4	Interactive
+2956	sihost.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+2956	sihost.exe	S-1-5-11	Authenticated Users
+2956	sihost.exe	S-1-5-15	This Organization
+2956	sihost.exe	S-1-5-113	Local Account
+2956	sihost.exe	S-1-5-5-0-200270	Logon Session
+2956	sihost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+2956	sihost.exe	S-1-5-64-10	NTLM Authentication
+2956	sihost.exe	S-1-16-8192	Medium Mandatory Level
+2968	svchost.exe	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+2968	svchost.exe	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+2968	svchost.exe	S-1-1-0	Everyone
+2968	svchost.exe	S-1-5-114	Local Account (Member of Administrators)
+2968	svchost.exe	S-1-5-32-544	Administrators
+2968	svchost.exe	S-1-5-32-545	Users
+2968	svchost.exe	S-1-5-4	Interactive
+2968	svchost.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+2968	svchost.exe	S-1-5-11	Authenticated Users
+2968	svchost.exe	S-1-5-15	This Organization
+2968	svchost.exe	S-1-5-113	Local Account
+2968	svchost.exe	S-1-5-5-0-200270	Logon Session
+2968	svchost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+2968	svchost.exe	S-1-5-64-10	NTLM Authentication
+2968	svchost.exe	S-1-16-8192	Medium Mandatory Level
+1660	NisSrv.exe	S-1-5-19	NT Authority
+1660	NisSrv.exe	S-1-16-16384	System Mandatory Level
+1660	NisSrv.exe	S-1-1-0	Everyone
+1660	NisSrv.exe	S-1-5-32-545	Users
+1660	NisSrv.exe	S-1-5-6	Service
+1660	NisSrv.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+1660	NisSrv.exe	S-1-5-11	Authenticated Users
+1660	NisSrv.exe	S-1-5-15	This Organization
+1660	NisSrv.exe	S-1-5-80-3668810961-2468724468-4084584310-3029221373-430494444	-
+1660	NisSrv.exe	S-1-5-5-0-228315	Logon Session
+1660	NisSrv.exe	S-1-2-0	Local (Users with the ability to log in locally)
+1660	NisSrv.exe	S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674	-
+1660	NisSrv.exe	S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331	-
+1660	NisSrv.exe	S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067	-
+1660	NisSrv.exe	S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263	-
+1660	NisSrv.exe	S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053	-
+1660	NisSrv.exe	S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462	-
+2648	taskhostw.exe	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+2648	taskhostw.exe	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+2648	taskhostw.exe	S-1-1-0	Everyone
+2648	taskhostw.exe	S-1-5-114	Local Account (Member of Administrators)
+2648	taskhostw.exe	S-1-5-32-544	Administrators
+2648	taskhostw.exe	S-1-5-32-545	Users
+2648	taskhostw.exe	S-1-5-4	Interactive
+2648	taskhostw.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+2648	taskhostw.exe	S-1-5-11	Authenticated Users
+2648	taskhostw.exe	S-1-5-15	This Organization
+2648	taskhostw.exe	S-1-5-113	Local Account
+2648	taskhostw.exe	S-1-5-5-0-200270	Logon Session
+2648	taskhostw.exe	S-1-2-0	Local (Users with the ability to log in locally)
+2648	taskhostw.exe	S-1-5-64-10	NTLM Authentication
+2648	taskhostw.exe	S-1-16-8192	Medium Mandatory Level
+2936	MicrosoftEdgeU	S-1-5-18	Local System
+2936	MicrosoftEdgeU	S-1-16-16384	System Mandatory Level
+2936	MicrosoftEdgeU	S-1-1-0	Everyone
+2936	MicrosoftEdgeU	S-1-5-32-545	Users
+2936	MicrosoftEdgeU	S-1-5-6	Service
+2936	MicrosoftEdgeU	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+2936	MicrosoftEdgeU	S-1-5-11	Authenticated Users
+2936	MicrosoftEdgeU	S-1-5-15	This Organization
+2936	MicrosoftEdgeU	S-1-5-80-2962817144-200689703-2266453665-3849882635-1986547430	BDESVC
+2936	MicrosoftEdgeU	S-1-5-80-864916184-135290571-3087830041-1716922880-4237303741	BITS
+2936	MicrosoftEdgeU	S-1-5-80-3841379657-834162867-3056945855-2577476187-70241904	-
+2936	MicrosoftEdgeU	S-1-5-80-286057374-2594772386-1471686342-3682429118-820474675	-
+2936	MicrosoftEdgeU	S-1-5-80-3578261754-285310837-913589462-2834155770-667502746	EapHost
+2936	MicrosoftEdgeU	S-1-5-80-698886940-375981264-2691324669-2937073286-3841916615	IKEEXT
+2936	MicrosoftEdgeU	S-1-5-80-62724632-2456781206-3863850748-1496050881-1042387526	iphlpsvc
+2936	MicrosoftEdgeU	S-1-5-80-879696042-2351668846-370232824-2524288904-4023536711	LanmanServer
+2936	MicrosoftEdgeU	S-1-5-80-3704025948-1094794811-1175534343-2088422159-783153058	-
+2936	MicrosoftEdgeU	S-1-5-80-917953661-2020045820-2727011118-2260243830-4032185929	MSiSCSI
+2936	MicrosoftEdgeU	S-1-5-80-154974075-1852685594-3179713959-2755908004-3936262621	-
+2936	MicrosoftEdgeU	S-1-5-80-3290392786-819420393-1694314755-3737624005-3552167228	-
+2936	MicrosoftEdgeU	S-1-5-80-2949785411-1458004381-4011503523-1439849274-3428788682	-
+2936	MicrosoftEdgeU	S-1-5-80-1802467488-1541022566-2033325545-854566965-652742428	RasAuto
+2936	MicrosoftEdgeU	S-1-5-80-4125092361-1567024937-842823819-2091237918-836075745	Schedule
+2936	MicrosoftEdgeU	S-1-5-80-4259241309-1822918763-1176128033-1339750638-3428293995	SENS
+2936	MicrosoftEdgeU	S-1-5-80-4022436659-1090538466-1613889075-870485073-3428993833	SessionEnv
+2936	MicrosoftEdgeU	S-1-5-80-2009329905-444645132-2728249442-922493431-93864177	SharedAccess
+2936	MicrosoftEdgeU	S-1-5-80-1690854464-3758363787-3981977099-3843555589-1401248062	ShellHWDetection
+2936	MicrosoftEdgeU	S-1-5-80-1139522462-2689595747-457373284-4037083511-4201549542	-
+2936	MicrosoftEdgeU	S-1-5-80-223807737-1693445485-119162242-1977420160-1403034029	-
+2936	MicrosoftEdgeU	S-1-5-80-3594706986-2537596223-181334840-1741483385-1351671666	wercplsupport
+2936	MicrosoftEdgeU	S-1-5-80-3750560858-172214265-3889451188-1914796615-4100997547	Winmgmt
+2936	MicrosoftEdgeU	S-1-5-80-2429767553-128593128-2427591838-1778256749-2155598187	-
+2936	MicrosoftEdgeU	S-1-5-80-2952724807-2252311773-3412998076-2712868122-780978283	-
+2936	MicrosoftEdgeU	S-1-5-80-3577588319-513283748-931039988-2701962192-2148388740	-
+2936	MicrosoftEdgeU	S-1-5-80-1938892561-4120931771-3580170924-3403102300-2651602529	-
+2936	MicrosoftEdgeU	S-1-5-80-1014140700-3308905587-3330345912-272242898-93311788	wuauserv
+2936	MicrosoftEdgeU	S-1-5-80-1352715831-1104254428-97934242-2131353953-1898040052	-
+2936	MicrosoftEdgeU	S-1-5-5-0-54780	Logon Session
+2936	MicrosoftEdgeU	S-1-2-0	Local (Users with the ability to log in locally)
+2936	MicrosoftEdgeU	S-1-5-32-544	Administrators
+3168	userinit.exe	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+3168	userinit.exe	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+3168	userinit.exe	S-1-1-0	Everyone
+3168	userinit.exe	S-1-5-114	Local Account (Member of Administrators)
+3168	userinit.exe	S-1-5-32-544	Administrators
+3168	userinit.exe	S-1-5-32-545	Users
+3168	userinit.exe	S-1-5-4	Interactive
+3168	userinit.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+3168	userinit.exe	S-1-5-11	Authenticated Users
+3168	userinit.exe	S-1-5-15	This Organization
+3168	userinit.exe	S-1-5-113	Local Account
+3168	userinit.exe	S-1-5-5-0-200270	Logon Session
+3168	userinit.exe	S-1-2-0	Local (Users with the ability to log in locally)
+3168	userinit.exe	S-1-5-64-10	NTLM Authentication
+3168	userinit.exe	S-1-16-8192	Medium Mandatory Level
+3216	explorer.exe	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+3216	explorer.exe	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+3216	explorer.exe	S-1-1-0	Everyone
+3216	explorer.exe	S-1-5-114	Local Account (Member of Administrators)
+3216	explorer.exe	S-1-5-32-544	Administrators
+3216	explorer.exe	S-1-5-32-545	Users
+3216	explorer.exe	S-1-5-4	Interactive
+3216	explorer.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+3216	explorer.exe	S-1-5-11	Authenticated Users
+3216	explorer.exe	S-1-5-15	This Organization
+3216	explorer.exe	S-1-5-113	Local Account
+3216	explorer.exe	S-1-5-5-0-200270	Logon Session
+3216	explorer.exe	S-1-2-0	Local (Users with the ability to log in locally)
+3216	explorer.exe	S-1-5-64-10	NTLM Authentication
+3216	explorer.exe	S-1-16-8192	Medium Mandatory Level
+3472	ctfmon.exe	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+3472	ctfmon.exe	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+3472	ctfmon.exe	S-1-1-0	Everyone
+3472	ctfmon.exe	S-1-5-114	Local Account (Member of Administrators)
+3472	ctfmon.exe	S-1-5-32-544	Administrators
+3472	ctfmon.exe	S-1-5-32-545	Users
+3472	ctfmon.exe	S-1-5-4	Interactive
+3472	ctfmon.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+3472	ctfmon.exe	S-1-5-11	Authenticated Users
+3472	ctfmon.exe	S-1-5-15	This Organization
+3472	ctfmon.exe	S-1-5-113	Local Account
+3472	ctfmon.exe	S-1-5-5-0-200270	Logon Session
+3472	ctfmon.exe	S-1-2-0	Local (Users with the ability to log in locally)
+3472	ctfmon.exe	S-1-5-64-10	NTLM Authentication
+3472	ctfmon.exe	S-1-16-12288	High Mandatory Level
+3544	svchost.exe	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+3544	svchost.exe	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+3544	svchost.exe	S-1-1-0	Everyone
+3544	svchost.exe	S-1-5-114	Local Account (Member of Administrators)
+3544	svchost.exe	S-1-5-32-544	Administrators
+3544	svchost.exe	S-1-5-32-545	Users
+3544	svchost.exe	S-1-5-4	Interactive
+3544	svchost.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+3544	svchost.exe	S-1-5-11	Authenticated Users
+3544	svchost.exe	S-1-5-15	This Organization
+3544	svchost.exe	S-1-5-113	Local Account
+3544	svchost.exe	S-1-5-5-0-200270	Logon Session
+3544	svchost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+3544	svchost.exe	S-1-5-64-10	NTLM Authentication
+3544	svchost.exe	S-1-16-8192	Medium Mandatory Level
+3744	dllhost.exe	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+3744	dllhost.exe	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+3744	dllhost.exe	S-1-1-0	Everyone
+3744	dllhost.exe	S-1-5-114	Local Account (Member of Administrators)
+3744	dllhost.exe	S-1-5-32-544	Administrators
+3744	dllhost.exe	S-1-5-32-545	Users
+3744	dllhost.exe	S-1-5-4	Interactive
+3744	dllhost.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+3744	dllhost.exe	S-1-5-11	Authenticated Users
+3744	dllhost.exe	S-1-5-15	This Organization
+3744	dllhost.exe	S-1-5-113	Local Account
+3744	dllhost.exe	S-1-5-5-0-200270	Logon Session
+3744	dllhost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+3744	dllhost.exe	S-1-5-64-10	NTLM Authentication
+3744	dllhost.exe	S-1-16-8192	Medium Mandatory Level
+3844	StartMenuExper	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+3844	StartMenuExper	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+3844	StartMenuExper	S-1-1-0	Everyone
+3844	StartMenuExper	S-1-5-114	Local Account (Member of Administrators)
+3844	StartMenuExper	S-1-5-32-544	Administrators
+3844	StartMenuExper	S-1-5-32-545	Users
+3844	StartMenuExper	S-1-5-4	Interactive
+3844	StartMenuExper	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+3844	StartMenuExper	S-1-5-11	Authenticated Users
+3844	StartMenuExper	S-1-5-15	This Organization
+3844	StartMenuExper	S-1-5-113	Local Account
+3844	StartMenuExper	S-1-5-5-0-200270	Logon Session
+3844	StartMenuExper	S-1-2-0	Local (Users with the ability to log in locally)
+3844	StartMenuExper	S-1-5-64-10	NTLM Authentication
+3844	StartMenuExper	S-1-16-4096	Low Mandatory Level
+3940	RuntimeBroker.	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+3940	RuntimeBroker.	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+3940	RuntimeBroker.	S-1-1-0	Everyone
+3940	RuntimeBroker.	S-1-5-114	Local Account (Member of Administrators)
+3940	RuntimeBroker.	S-1-5-32-544	Administrators
+3940	RuntimeBroker.	S-1-5-32-545	Users
+3940	RuntimeBroker.	S-1-5-4	Interactive
+3940	RuntimeBroker.	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+3940	RuntimeBroker.	S-1-5-11	Authenticated Users
+3940	RuntimeBroker.	S-1-5-15	This Organization
+3940	RuntimeBroker.	S-1-5-113	Local Account
+3940	RuntimeBroker.	S-1-5-5-0-200270	Logon Session
+3940	RuntimeBroker.	S-1-2-0	Local (Users with the ability to log in locally)
+3940	RuntimeBroker.	S-1-5-64-10	NTLM Authentication
+3940	RuntimeBroker.	S-1-16-8192	Medium Mandatory Level
+4080	SearchApp.exe	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+4080	SearchApp.exe	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+4080	SearchApp.exe	S-1-1-0	Everyone
+4080	SearchApp.exe	S-1-5-114	Local Account (Member of Administrators)
+4080	SearchApp.exe	S-1-5-32-544	Administrators
+4080	SearchApp.exe	S-1-5-32-545	Users
+4080	SearchApp.exe	S-1-5-4	Interactive
+4080	SearchApp.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+4080	SearchApp.exe	S-1-5-11	Authenticated Users
+4080	SearchApp.exe	S-1-5-15	This Organization
+4080	SearchApp.exe	S-1-5-113	Local Account
+4080	SearchApp.exe	S-1-5-5-0-200270	Logon Session
+4080	SearchApp.exe	S-1-2-0	Local (Users with the ability to log in locally)
+4080	SearchApp.exe	S-1-5-64-10	NTLM Authentication
+4080	SearchApp.exe	S-1-16-4096	Low Mandatory Level
+724	RuntimeBroker.	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+724	RuntimeBroker.	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+724	RuntimeBroker.	S-1-1-0	Everyone
+724	RuntimeBroker.	S-1-5-114	Local Account (Member of Administrators)
+724	RuntimeBroker.	S-1-5-32-544	Administrators
+724	RuntimeBroker.	S-1-5-32-545	Users
+724	RuntimeBroker.	S-1-5-4	Interactive
+724	RuntimeBroker.	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+724	RuntimeBroker.	S-1-5-11	Authenticated Users
+724	RuntimeBroker.	S-1-5-15	This Organization
+724	RuntimeBroker.	S-1-5-113	Local Account
+724	RuntimeBroker.	S-1-5-5-0-200270	Logon Session
+724	RuntimeBroker.	S-1-2-0	Local (Users with the ability to log in locally)
+724	RuntimeBroker.	S-1-5-64-10	NTLM Authentication
+724	RuntimeBroker.	S-1-16-8192	Medium Mandatory Level
+4140	backgroundTask	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+4140	backgroundTask	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+4140	backgroundTask	S-1-1-0	Everyone
+4140	backgroundTask	S-1-5-114	Local Account (Member of Administrators)
+4140	backgroundTask	S-1-5-32-544	Administrators
+4140	backgroundTask	S-1-5-32-545	Users
+4140	backgroundTask	S-1-5-4	Interactive
+4140	backgroundTask	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+4140	backgroundTask	S-1-5-11	Authenticated Users
+4140	backgroundTask	S-1-5-15	This Organization
+4140	backgroundTask	S-1-5-113	Local Account
+4140	backgroundTask	S-1-5-5-0-200270	Logon Session
+4140	backgroundTask	S-1-2-0	Local (Users with the ability to log in locally)
+4140	backgroundTask	S-1-5-64-10	NTLM Authentication
+4140	backgroundTask	S-1-16-4096	Low Mandatory Level
+4296	RuntimeBroker.	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+4296	RuntimeBroker.	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+4296	RuntimeBroker.	S-1-1-0	Everyone
+4296	RuntimeBroker.	S-1-5-114	Local Account (Member of Administrators)
+4296	RuntimeBroker.	S-1-5-32-544	Administrators
+4296	RuntimeBroker.	S-1-5-32-545	Users
+4296	RuntimeBroker.	S-1-5-4	Interactive
+4296	RuntimeBroker.	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+4296	RuntimeBroker.	S-1-5-11	Authenticated Users
+4296	RuntimeBroker.	S-1-5-15	This Organization
+4296	RuntimeBroker.	S-1-5-113	Local Account
+4296	RuntimeBroker.	S-1-5-5-0-200270	Logon Session
+4296	RuntimeBroker.	S-1-2-0	Local (Users with the ability to log in locally)
+4296	RuntimeBroker.	S-1-5-64-10	NTLM Authentication
+4296	RuntimeBroker.	S-1-16-8192	Medium Mandatory Level
+4692	smartscreen.ex	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+4692	smartscreen.ex	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+4692	smartscreen.ex	S-1-1-0	Everyone
+4692	smartscreen.ex	S-1-5-114	Local Account (Member of Administrators)
+4692	smartscreen.ex	S-1-5-32-544	Administrators
+4692	smartscreen.ex	S-1-5-32-545	Users
+4692	smartscreen.ex	S-1-5-4	Interactive
+4692	smartscreen.ex	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+4692	smartscreen.ex	S-1-5-11	Authenticated Users
+4692	smartscreen.ex	S-1-5-15	This Organization
+4692	smartscreen.ex	S-1-5-113	Local Account
+4692	smartscreen.ex	S-1-5-5-0-200270	Logon Session
+4692	smartscreen.ex	S-1-2-0	Local (Users with the ability to log in locally)
+4692	smartscreen.ex	S-1-5-64-10	NTLM Authentication
+4692	smartscreen.ex	S-1-16-8192	Medium Mandatory Level
+4732	SecurityHealth	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+4732	SecurityHealth	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+4732	SecurityHealth	S-1-1-0	Everyone
+4732	SecurityHealth	S-1-5-114	Local Account (Member of Administrators)
+4732	SecurityHealth	S-1-5-32-544	Administrators
+4732	SecurityHealth	S-1-5-32-545	Users
+4732	SecurityHealth	S-1-5-4	Interactive
+4732	SecurityHealth	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+4732	SecurityHealth	S-1-5-11	Authenticated Users
+4732	SecurityHealth	S-1-5-15	This Organization
+4732	SecurityHealth	S-1-5-113	Local Account
+4732	SecurityHealth	S-1-5-5-0-200270	Logon Session
+4732	SecurityHealth	S-1-2-0	Local (Users with the ability to log in locally)
+4732	SecurityHealth	S-1-5-64-10	NTLM Authentication
+4732	SecurityHealth	S-1-16-8192	Medium Mandatory Level
+4764	SecurityHealth	S-1-5-18	Local System
+4764	SecurityHealth	S-1-16-16384	System Mandatory Level
+4764	SecurityHealth	S-1-1-0	Everyone
+4764	SecurityHealth	S-1-5-32-545	Users
+4764	SecurityHealth	S-1-5-6	Service
+4764	SecurityHealth	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+4764	SecurityHealth	S-1-5-11	Authenticated Users
+4764	SecurityHealth	S-1-5-15	This Organization
+4764	SecurityHealth	S-1-5-80-259296475-4084429506-1152984619-38739575-565535606	-
+4764	SecurityHealth	S-1-5-5-0-477865	Logon Session
+4764	SecurityHealth	S-1-2-0	Local (Users with the ability to log in locally)
+4764	SecurityHealth	S-1-5-32-544	Administrators
+4816	VBoxTray.exe	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+4816	VBoxTray.exe	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+4816	VBoxTray.exe	S-1-1-0	Everyone
+4816	VBoxTray.exe	S-1-5-114	Local Account (Member of Administrators)
+4816	VBoxTray.exe	S-1-5-32-544	Administrators
+4816	VBoxTray.exe	S-1-5-32-545	Users
+4816	VBoxTray.exe	S-1-5-4	Interactive
+4816	VBoxTray.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+4816	VBoxTray.exe	S-1-5-11	Authenticated Users
+4816	VBoxTray.exe	S-1-5-15	This Organization
+4816	VBoxTray.exe	S-1-5-113	Local Account
+4816	VBoxTray.exe	S-1-5-5-0-200270	Logon Session
+4816	VBoxTray.exe	S-1-2-0	Local (Users with the ability to log in locally)
+4816	VBoxTray.exe	S-1-5-64-10	NTLM Authentication
+4816	VBoxTray.exe	S-1-16-8192	Medium Mandatory Level
+4836	svchost.exe	S-1-5-20	NT Authority
+4836	svchost.exe	S-1-16-16384	System Mandatory Level
+4836	svchost.exe	S-1-1-0	Everyone
+4836	svchost.exe	S-1-5-32-545	Users
+4836	svchost.exe	S-1-5-6	Service
+4836	svchost.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+4836	svchost.exe	S-1-5-11	Authenticated Users
+4836	svchost.exe	S-1-5-15	This Organization
+4836	svchost.exe	S-1-5-80-3055155277-3816794035-3994065555-2874236192-2193176987	-
+4836	svchost.exe	S-1-5-80-4230913304-2206818457-801678004-120036174-1892434133	TapiSrv
+4836	svchost.exe	S-1-5-80-4059739203-877974739-1245631912-527174227-2996563517	Wecsvc
+4836	svchost.exe	S-1-5-80-569256582-2953403351-2909559716-1301513147-412116970	WinRM
+4836	svchost.exe	S-1-5-5-0-482871	Logon Session
+4836	svchost.exe	S-1-2-0	Local (Users with the ability to log in locally)
+4996	OneDrive.exe	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+4996	OneDrive.exe	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+4996	OneDrive.exe	S-1-1-0	Everyone
+4996	OneDrive.exe	S-1-5-114	Local Account (Member of Administrators)
+4996	OneDrive.exe	S-1-5-32-544	Administrators
+4996	OneDrive.exe	S-1-5-32-545	Users
+4996	OneDrive.exe	S-1-5-4	Interactive
+4996	OneDrive.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+4996	OneDrive.exe	S-1-5-11	Authenticated Users
+4996	OneDrive.exe	S-1-5-15	This Organization
+4996	OneDrive.exe	S-1-5-113	Local Account
+4996	OneDrive.exe	S-1-5-5-0-200270	Logon Session
+4996	OneDrive.exe	S-1-2-0	Local (Users with the ability to log in locally)
+4996	OneDrive.exe	S-1-5-64-10	NTLM Authentication
+4996	OneDrive.exe	S-1-16-8192	Medium Mandatory Level
+2612	CodeMeterCC.ex	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+2612	CodeMeterCC.ex	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+2612	CodeMeterCC.ex	S-1-1-0	Everyone
+2612	CodeMeterCC.ex	S-1-5-114	Local Account (Member of Administrators)
+2612	CodeMeterCC.ex	S-1-5-32-544	Administrators
+2612	CodeMeterCC.ex	S-1-5-32-545	Users
+2612	CodeMeterCC.ex	S-1-5-4	Interactive
+2612	CodeMeterCC.ex	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+2612	CodeMeterCC.ex	S-1-5-11	Authenticated Users
+2612	CodeMeterCC.ex	S-1-5-15	This Organization
+2612	CodeMeterCC.ex	S-1-5-113	Local Account
+2612	CodeMeterCC.ex	S-1-5-5-0-200270	Logon Session
+2612	CodeMeterCC.ex	S-1-2-0	Local (Users with the ability to log in locally)
+2612	CodeMeterCC.ex	S-1-5-64-10	NTLM Authentication
+2612	CodeMeterCC.ex	S-1-16-8192	Medium Mandatory Level
+4988	audiodg.exe	S-1-5-19	NT Authority
+4988	audiodg.exe	S-1-16-16384	System Mandatory Level
+4988	audiodg.exe	S-1-1-0	Everyone
+4988	audiodg.exe	S-1-5-32-545	Users
+4988	audiodg.exe	S-1-5-6	Service
+4988	audiodg.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+4988	audiodg.exe	S-1-5-11	Authenticated Users
+4988	audiodg.exe	S-1-5-15	This Organization
+4988	audiodg.exe	S-1-5-80-2676549577-1911656217-2625096541-4178041876-1366760775	Audiosrv
+4988	audiodg.exe	S-1-5-5-0-85095	Logon Session
+4988	audiodg.exe	S-1-2-0	Local (Users with the ability to log in locally)
+4988	audiodg.exe	S-1-5-32-1488445330-856673777-1515413738-1380768593-2977925950-2228326386-886087428-2802422674	-
+4988	audiodg.exe	S-1-5-32-383293015-3350740429-1839969850-1819881064-1569454686-4198502490-78857879-1413643331	-
+4988	audiodg.exe	S-1-5-32-2035927579-283314533-3422103930-3587774809-765962649-3034203285-3544878962-607181067	-
+4988	audiodg.exe	S-1-5-32-3659434007-2290108278-1125199667-3679670526-1293081662-2164323352-1777701501-2595986263	-
+4988	audiodg.exe	S-1-5-32-11742800-2107441976-3443185924-4134956905-3840447964-3749968454-3843513199-670971053	-
+4988	audiodg.exe	S-1-5-32-3523901360-1745872541-794127107-675934034-1867954868-1951917511-1111796624-2052600462	-
+496	FTK Imager.exe	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+496	FTK Imager.exe	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+496	FTK Imager.exe	S-1-1-0	Everyone
+496	FTK Imager.exe	S-1-5-114	Local Account (Member of Administrators)
+496	FTK Imager.exe	S-1-5-32-544	Administrators
+496	FTK Imager.exe	S-1-5-32-545	Users
+496	FTK Imager.exe	S-1-5-4	Interactive
+496	FTK Imager.exe	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+496	FTK Imager.exe	S-1-5-11	Authenticated Users
+496	FTK Imager.exe	S-1-5-15	This Organization
+496	FTK Imager.exe	S-1-5-113	Local Account
+496	FTK Imager.exe	S-1-5-5-0-200270	Logon Session
+496	FTK Imager.exe	S-1-2-0	Local (Users with the ability to log in locally)
+496	FTK Imager.exe	S-1-5-64-10	NTLM Authentication
+496	FTK Imager.exe	S-1-16-12288	High Mandatory Level
+5636	WinStore.App.e	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+5636	WinStore.App.e	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+5636	WinStore.App.e	S-1-1-0	Everyone
+5636	WinStore.App.e	S-1-5-114	Local Account (Member of Administrators)
+5636	WinStore.App.e	S-1-5-32-544	Administrators
+5636	WinStore.App.e	S-1-5-32-545	Users
+5636	WinStore.App.e	S-1-5-4	Interactive
+5636	WinStore.App.e	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+5636	WinStore.App.e	S-1-5-11	Authenticated Users
+5636	WinStore.App.e	S-1-5-15	This Organization
+5636	WinStore.App.e	S-1-5-113	Local Account
+5636	WinStore.App.e	S-1-5-5-0-200270	Logon Session
+5636	WinStore.App.e	S-1-2-0	Local (Users with the ability to log in locally)
+5636	WinStore.App.e	S-1-5-64-10	NTLM Authentication
+5636	WinStore.App.e	S-1-16-4096	Low Mandatory Level
+5644	ApplicationFra	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+5644	ApplicationFra	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+5644	ApplicationFra	S-1-1-0	Everyone
+5644	ApplicationFra	S-1-5-114	Local Account (Member of Administrators)
+5644	ApplicationFra	S-1-5-32-544	Administrators
+5644	ApplicationFra	S-1-5-32-545	Users
+5644	ApplicationFra	S-1-5-4	Interactive
+5644	ApplicationFra	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+5644	ApplicationFra	S-1-5-11	Authenticated Users
+5644	ApplicationFra	S-1-5-15	This Organization
+5644	ApplicationFra	S-1-5-113	Local Account
+5644	ApplicationFra	S-1-5-5-0-200270	Logon Session
+5644	ApplicationFra	S-1-2-0	Local (Users with the ability to log in locally)
+5644	ApplicationFra	S-1-5-64-10	NTLM Authentication
+5644	ApplicationFra	S-1-16-8192	Medium Mandatory Level
+5760	RuntimeBroker.	S-1-5-21-2404055049-1604330850-3828681742-1000	windows10_user
+5760	RuntimeBroker.	S-1-5-21-2404055049-1604330850-3828681742-513	Domain Users
+5760	RuntimeBroker.	S-1-1-0	Everyone
+5760	RuntimeBroker.	S-1-5-114	Local Account (Member of Administrators)
+5760	RuntimeBroker.	S-1-5-32-544	Administrators
+5760	RuntimeBroker.	S-1-5-32-545	Users
+5760	RuntimeBroker.	S-1-5-4	Interactive
+5760	RuntimeBroker.	S-1-2-1	Console Logon (Users who are logged onto the physical console)
+5760	RuntimeBroker.	S-1-5-11	Authenticated Users
+5760	RuntimeBroker.	S-1-5-15	This Organization
+5760	RuntimeBroker.	S-1-5-113	Local Account
+5760	RuntimeBroker.	S-1-5-5-0-200270	Logon Session
+5760	RuntimeBroker.	S-1-2-0	Local (Users with the ability to log in locally)
+5760	RuntimeBroker.	S-1-5-64-10	NTLM Authentication
+5760	RuntimeBroker.	S-1-16-8192	Medium Mandatory Level

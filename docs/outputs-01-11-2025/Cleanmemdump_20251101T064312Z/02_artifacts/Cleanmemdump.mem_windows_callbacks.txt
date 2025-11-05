@@ -1,0 +1,206 @@
+Progress:    0.00		Scanning FileLayer using PageMapScannerProgress:   23.33		Scanning FileLayer using PageMapScannerProgress:  100.00		Stacking attempts finished             Progress:    0.00		Scanning memory_layer using BytesScannerProgress:    0.78		Scanning memory_layer using BytesScannerProgress:    1.56		Scanning memory_layer using BytesScannerProgress:    2.34		Scanning memory_layer using BytesScannerProgress:    3.13		Scanning memory_layer using BytesScannerProgress:    3.91		Scanning memory_layer using BytesScannerProgress:    4.69		Scanning memory_layer using BytesScannerProgress:    5.47		Scanning memory_layer using BytesScannerProgress:    6.25		Scanning memory_layer using BytesScannerProgress:    7.03		Scanning memory_layer using BytesScannerProgress:    7.81		Scanning memory_layer using BytesScannerProgress:    8.59		Scanning memory_layer using BytesScannerProgress:    9.38		Scanning memory_layer using BytesScannerProgress:   10.16		Scanning memory_layer using BytesScannerProgress:   10.94		Scanning memory_layer using BytesScannerProgress:   11.72		Scanning memory_layer using BytesScannerProgress:   12.50		Scanning memory_layer using BytesScannerProgress:   13.28		Scanning memory_layer using BytesScannerProgress:   14.06		Scanning memory_layer using BytesScannerProgress:   14.84		Scanning memory_layer using BytesScannerProgress:   15.63		Scanning memory_layer using BytesScannerProgress:   16.41		Scanning memory_layer using BytesScannerProgress:   17.19		Scanning memory_layer using BytesScannerProgress:   17.97		Scanning memory_layer using BytesScannerProgress:   18.75		Scanning memory_layer using BytesScannerProgress:   19.53		Scanning memory_layer using BytesScannerProgress:   20.31		Scanning memory_layer using BytesScannerProgress:   21.09		Scanning memory_layer using BytesScannerProgress:   21.88		Scanning memory_layer using BytesScannerProgress:   22.66		Scanning memory_layer using BytesScannerProgress:   23.44		Scanning memory_layer using BytesScannerProgress:   24.22		Scanning memory_layer using BytesScannerProgress:   25.00		Scanning memory_layer using BytesScannerProgress:   25.78		Scanning memory_layer using BytesScannerProgress:   26.56		Scanning memory_layer using BytesScannerProgress:   27.34		Scanning memory_layer using BytesScannerProgress:   28.13		Scanning memory_layer using BytesScannerProgress:   28.91		Scanning memory_layer using BytesScannerProgress:   29.69		Scanning memory_layer using BytesScannerProgress:   30.47		Scanning memory_layer using BytesScannerProgress:   31.25		Scanning memory_layer using BytesScannerProgress:   32.03		Scanning memory_layer using BytesScannerProgress:   32.81		Scanning memory_layer using BytesScannerProgress:   33.59		Scanning memory_layer using BytesScannerProgress:   34.38		Scanning memory_layer using BytesScannerProgress:   35.16		Scanning memory_layer using BytesScannerProgress:   35.94		Scanning memory_layer using BytesScannerProgress:   36.72		Scanning memory_layer using BytesScannerProgress:   37.50		Scanning memory_layer using BytesScannerProgress:   38.28		Scanning memory_layer using BytesScannerProgress:   39.06		Scanning memory_layer using BytesScannerProgress:   39.85		Scanning memory_layer using BytesScannerProgress:   40.63		Scanning memory_layer using BytesScannerProgress:   41.41		Scanning memory_layer using BytesScannerProgress:   42.19		Scanning memory_layer using BytesScannerProgress:   42.97		Scanning memory_layer using BytesScannerProgress:   43.75		Scanning memory_layer using BytesScannerProgress:   44.53		Scanning memory_layer using BytesScannerProgress:   45.31		Scanning memory_layer using BytesScannerProgress:   46.10		Scanning memory_layer using BytesScannerProgress:   46.88		Scanning memory_layer using BytesScannerProgress:   47.66		Scanning memory_layer using BytesScannerProgress:   48.44		Scanning memory_layer using BytesScannerProgress:   49.22		Scanning memory_layer using BytesScannerProgress:   50.00		Scanning memory_layer using BytesScannerProgress:   50.78		Scanning memory_layer using BytesScannerProgress:   51.56		Scanning memory_layer using BytesScannerProgress:   52.35		Scanning memory_layer using BytesScannerProgress:   53.13		Scanning memory_layer using BytesScannerProgress:   53.91		Scanning memory_layer using BytesScannerProgress:   54.69		Scanning memory_layer using BytesScannerProgress:   55.47		Scanning memory_layer using BytesScannerProgress:   56.25		Scanning memory_layer using BytesScannerProgress:   57.03		Scanning memory_layer using BytesScannerProgress:   57.81		Scanning memory_layer using BytesScannerProgress:   58.60		Scanning memory_layer using BytesScannerProgress:   59.38		Scanning memory_layer using BytesScannerProgress:   60.16		Scanning memory_layer using BytesScannerProgress:   60.94		Scanning memory_layer using BytesScannerProgress:   61.72		Scanning memory_layer using BytesScannerProgress:   62.50		Scanning memory_layer using BytesScannerProgress:   63.28		Scanning memory_layer using BytesScannerProgress:   64.06		Scanning memory_layer using BytesScannerProgress:   64.85		Scanning memory_layer using BytesScannerProgress:   65.63		Scanning memory_layer using BytesScannerProgress:   66.41		Scanning memory_layer using BytesScannerProgress:   67.19		Scanning memory_layer using BytesScannerProgress:   67.97		Scanning memory_layer using BytesScannerProgress:   68.75		Scanning memory_layer using BytesScannerProgress:   69.53		Scanning memory_layer using BytesScannerProgress:   70.31		Scanning memory_layer using BytesScannerProgress:   71.10		Scanning memory_layer using BytesScannerProgress:   71.88		Scanning memory_layer using BytesScannerProgress:   72.66		Scanning memory_layer using BytesScannerProgress:   73.44		Scanning memory_layer using BytesScannerProgress:   74.22		Scanning memory_layer using BytesScannerProgress:   75.00		Scanning memory_layer using BytesScannerProgress:   75.78		Scanning memory_layer using BytesScannerProgress:   76.57		Scanning memory_layer using BytesScannerProgress:   77.35		Scanning memory_layer using BytesScannerProgress:   78.13		Scanning memory_layer using BytesScannerProgress:   78.91		Scanning memory_layer using BytesScannerProgress:   79.69		Scanning memory_layer using BytesScannerProgress:   80.47		Scanning memory_layer using BytesScannerProgress:   81.25		Scanning memory_layer using BytesScannerProgress:   82.03		Scanning memory_layer using BytesScannerProgress:   82.82		Scanning memory_layer using BytesScannerProgress:   83.60		Scanning memory_layer using BytesScannerProgress:   84.38		Scanning memory_layer using BytesScannerProgress:   85.16		Scanning memory_layer using BytesScannerProgress:   85.94		Scanning memory_layer using BytesScannerProgress:   86.72		Scanning memory_layer using BytesScannerProgress:   87.50		Scanning memory_layer using BytesScannerProgress:   88.28		Scanning memory_layer using BytesScannerProgress:   89.07		Scanning memory_layer using BytesScannerProgress:   89.85		Scanning memory_layer using BytesScannerProgress:   90.63		Scanning memory_layer using BytesScannerProgress:   91.41		Scanning memory_layer using BytesScannerProgress:   92.19		Scanning memory_layer using BytesScannerProgress:   92.97		Scanning memory_layer using BytesScannerProgress:   93.75		Scanning memory_layer using BytesScannerProgress:   94.53		Scanning memory_layer using BytesScannerProgress:   95.32		Scanning memory_layer using BytesScannerProgress:   96.10		Scanning memory_layer using BytesScannerProgress:   96.88		Scanning memory_layer using BytesScannerProgress:   97.66		Scanning memory_layer using BytesScannerProgress:   98.44		Scanning memory_layer using BytesScannerProgress:   99.22		Scanning memory_layer using BytesScannerProgress:    0.00		Scanning memory_layer using BytesScannerProgress:    0.78		Scanning memory_layer using BytesScannerProgress:    1.56		Scanning memory_layer using BytesScannerProgress:    2.34		Scanning memory_layer using BytesScannerProgress:    3.13		Scanning memory_layer using BytesScannerProgress:    3.91		Scanning memory_layer using BytesScannerProgress:    4.69		Scanning memory_layer using BytesScannerProgress:    5.47		Scanning memory_layer using BytesScannerProgress:    6.25		Scanning memory_layer using BytesScannerProgress:    7.03		Scanning memory_layer using BytesScannerProgress:    7.81		Scanning memory_layer using BytesScannerProgress:    8.59		Scanning memory_layer using BytesScannerProgress:    9.38		Scanning memory_layer using BytesScannerProgress:   10.16		Scanning memory_layer using BytesScannerProgress:   10.94		Scanning memory_layer using BytesScannerProgress:   11.72		Scanning memory_layer using BytesScannerProgress:   12.50		Scanning memory_layer using BytesScannerProgress:   13.28		Scanning memory_layer using BytesScannerProgress:   14.06		Scanning memory_layer using BytesScannerProgress:   14.84		Scanning memory_layer using BytesScannerProgress:   15.63		Scanning memory_layer using BytesScannerProgress:   16.41		Scanning memory_layer using BytesScannerProgress:   17.19		Scanning memory_layer using BytesScannerProgress:   17.97		Scanning memory_layer using BytesScannerProgress:   18.75		Scanning memory_layer using BytesScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:   32.62		Scanning layer_name using PdbSignatureScannerProgress:  100.00		PDB scanning finished                        Volatility 3 Framework 2.27.0
+
+Type	Callback	Module	Symbol	Detail
+
+PspLoadImageNotifyRoutine	0xf8035035ce80	WdFilter	GUID_MSIMAIN_SDB	N/A
+PspLoadImageNotifyRoutine	0xf80352d6eb20	ahcache	-	N/A
+PspCreateThreadNotifyRoutine	0xf8035035da50	WdFilter	-	N/A
+PspCreateThreadNotifyRoutine	0xf8035035d830	WdFilter	-	N/A
+PspCreateThreadNotifyRoutine	0xf803630d1060	mmcss	?DeviceClassesKeyPrefix@?1??_CmDeleteDeviceInterfaceRegKeyWorker@@9@9	N/A
+PspCreateThreadNotifyRoutine	0xf803630d1060	mmcss	?DeviceClassesKeyPrefix@?1??_CmOpenCommonClassRegKeyWorker@@9@9	N/A
+PspCreateThreadNotifyRoutine	0xf803630d1060	mmcss	?DeviceClassesKeyPrefix@?1??_CmOpenDeviceInterfaceRegKeyWorker@@9@9	N/A
+PspCreateProcessNotifyRoutine	0xf8034e9684b0	ntoskrnl	ViCreateProcessCallback	N/A
+PspCreateProcessNotifyRoutine	0xf8034fae7070	cng	-	N/A
+PspCreateProcessNotifyRoutine	0xf8035035c610	WdFilter	-	N/A
+PspCreateProcessNotifyRoutine	0xf8034f93ba40	ksecdd	-	N/A
+PspCreateProcessNotifyRoutine	0xf80350925830	tcpip	SeCiPrivateApis	N/A
+PspCreateProcessNotifyRoutine	0xf80350ebd930	iorate	??_C@_1CE@FMONOGNH@?$AAS?$AAe?$AAc?$AAo?$AAn?$AAd?$AAa?$AAr?$AAy?$AAG?$AAs?$AAi?$AAv?$AAS?$AAi@	N/A
+PspCreateProcessNotifyRoutine	0xf8034fa6f330	CI	-	N/A
+PspCreateProcessNotifyRoutine	0xf80351406710	dxgkrnl	-	N/A
+PspCreateProcessNotifyRoutine	0xf803631c3ce0	peauth	-	N/A
+KeBugCheckCallbackListHead	0xf8035072f6d0	ndis	-	-
+KeBugCheckCallbackListHead	0xf80350cdc250	fvevol	-	-
+KeBugCheckCallbackListHead	0xf80350662590	VBoxGuest	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf80351a28fc0	crashdmp	-	-
+KeBugCheckReasonCallbackListHead	0xf80351a24220	crashdmp	-	-
+KeBugCheckReasonCallbackListHead	0xf80351a243b0	crashdmp	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf80352cb4270	mssmbios	-	-
+KeBugCheckReasonCallbackListHead	0xf80352cb4220	mssmbios	-	-
+KeBugCheckReasonCallbackListHead	0xf80352cb41c0	mssmbios	-	-
+KeBugCheckReasonCallbackListHead	0xf80352cb4170	mssmbios	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf80351442da0	dxgkrnl	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf803502280a0	storport	-	-
+KeBugCheckReasonCallbackListHead	0xf80350f4b020	CLASSPNP	EVENT_WHEA_ERROR	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034ff1d330	pci	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc901a0	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fc90450	Wdf01000	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3480	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034fbd3430	WppRecorder	-	-
+KeBugCheckReasonCallbackListHead	0xf8034ebb4e50	ntoskrnl	EtwpBugCheckMultiPartCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb831d0	ntoskrnl	PopBlackBoxBugcheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb831d0	ntoskrnl	PopBlackBoxBugcheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb831d0	ntoskrnl	PopBlackBoxBugcheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb831d0	ntoskrnl	PopBlackBoxBugcheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb831d0	ntoskrnl	PopBlackBoxBugcheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb831d0	ntoskrnl	PopBlackBoxBugcheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb831d0	ntoskrnl	PopBlackBoxBugcheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb831d0	ntoskrnl	PopBlackBoxBugcheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb831d0	ntoskrnl	PopBlackBoxBugcheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb831d0	ntoskrnl	PopBlackBoxBugcheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb831d0	ntoskrnl	PopBlackBoxBugcheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb831d0	ntoskrnl	PopBlackBoxBugcheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb831d0	ntoskrnl	PopBlackBoxBugcheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb831d0	ntoskrnl	PopBlackBoxBugcheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb831d0	ntoskrnl	PopBlackBoxBugcheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb831d0	ntoskrnl	PopBlackBoxBugcheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb831d0	ntoskrnl	PopBlackBoxBugcheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb831d0	ntoskrnl	PopBlackBoxBugcheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb831d0	ntoskrnl	PopBlackBoxBugcheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb831d0	ntoskrnl	PopBlackBoxBugcheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb831d0	ntoskrnl	PopBlackBoxBugcheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb831d0	ntoskrnl	PopBlackBoxBugcheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eafc4e0	ntoskrnl	HvlpHvIdentityInfoCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034e96f1f0	ntoskrnl	HalpMiscBugCheckCallback	-
+KeBugCheckReasonCallbackListHead	0xf8034eb0bf50	ntoskrnl	IoBugCheckTriageDumpDataCallback	-
+CmRegisterCallbackEx	0xf8035034f590	WdFilter	-	Altitude: 425000
+IoRegisterFsRegistrationChange	0xf8034e4f67d0	FLTMGR	-	N/A
+GenericKernelCallback	0xf8034e9684b0	ntoskrnl	ViCreateProcessCallback	N/A
+IoRegisterShutdownNotification	0xf8034e954780	ntoskrnl	IopInvalidDeviceRequest	\Driver\WMIxWDM
+GenericKernelCallback	0xf8034fae7070	cng	-	N/A
+IoRegisterShutdownNotification	0xf8034fd110c0	SgrmAgent	-	\Driver\SgrmAgent
+GenericKernelCallback	0xf8035035c610	WdFilter	-	N/A
+IoRegisterShutdownNotification	0xf8034ef1b960	ntoskrnl	RawShutdown	\FileSystem\RAW
+IoRegisterShutdownNotification	0xf803500e4b80	volmgr	-	\Driver\volmgr
+IoRegisterShutdownNotification	0xf80350043c20	spaceport	-	\Driver\spaceport
+IoRegisterShutdownNotification	0xf80350181a00	mountmgr	-	\Driver\mountmgr
+GenericKernelCallback	0xf8035035d830	WdFilter	-	N/A
+GenericKernelCallback	0xf8035035da50	WdFilter	-	N/A
+IoRegisterShutdownNotification	0xf8034f93c6a0	ksecdd	??_C@_15JDAMOMFA@?$AAd?$AAv@	\Driver\KSecDD
+GenericKernelCallback	0xf8035035ce80	WdFilter	GUID_MSIMAIN_SDB	N/A
+GenericKernelCallback	0xf8034f93ba40	ksecdd	-	N/A
+GenericKernelCallback	0xf80350925830	tcpip	SeCiPrivateApis	N/A
+GenericKernelCallback	0xf80350ebd930	iorate	??_C@_1CE@FMONOGNH@?$AAS?$AAe?$AAc?$AAo?$AAn?$AAd?$AAa?$AAr?$AAy?$AAG?$AAs?$AAi?$AAv?$AAS?$AAi@	N/A
+IoRegisterShutdownNotification	0xf803516614d0	dxgkrnl	-	\Driver\DXGKrnl
+GenericKernelCallback	0xf8034fa6f330	CI	-	N/A
+GenericKernelCallback	0xf80351406710	dxgkrnl	-	N/A
+GenericKernelCallback	0xf80352d6eb20	ahcache	-	N/A
+IoRegisterShutdownNotification	0xf80352d91170	ahcache	-	\Driver\ahcache
+IoRegisterShutdownNotification	0xf8034fc0a7b0	Wdf01000	-	\Driver\USBHUB3
+GenericKernelCallback	0x80d88f2010a0	win32k	-	N/A
+GenericKernelCallback	0x80d88eb3b1d0	win32kbase	-	N/A
+GenericKernelCallback	0xf803630d1060	mmcss	?DeviceClassesKeyPrefix@?1??_CmDeleteDeviceInterfaceRegKeyWorker@@9@9	N/A
+GenericKernelCallback	0xf803630d1060	mmcss	?DeviceClassesKeyPrefix@?1??_CmOpenCommonClassRegKeyWorker@@9@9	N/A
+GenericKernelCallback	0xf803630d1060	mmcss	?DeviceClassesKeyPrefix@?1??_CmOpenDeviceInterfaceRegKeyWorker@@9@9	N/A
+GenericKernelCallback	0xf803631c3ce0	peauth	-	N/A
+GenericKernelCallback	0x894808708948	-	-	N/A
+IoRegisterShutdownNotification	0xf8034edc8cd5	ntoskrnl	-	N/A
+IoRegisterShutdownNotification	0xf8034edc8d55	ntoskrnl	-	N/A
+IoRegisterFsRegistrationChange	0x36850f21394c	-	-	N/A

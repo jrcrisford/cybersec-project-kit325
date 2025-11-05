@@ -1,0 +1,787 @@
+Progress:    0.00		Scanning FileLayer using PageMapScannerProgress:   23.33		Scanning FileLayer using PageMapScannerProgress:  100.00		Stacking attempts finished             Progress:    0.00		Scanning memory_layer using BytesScannerProgress:    0.78		Scanning memory_layer using BytesScannerProgress:    1.56		Scanning memory_layer using BytesScannerProgress:    2.34		Scanning memory_layer using BytesScannerProgress:    3.13		Scanning memory_layer using BytesScannerProgress:    3.91		Scanning memory_layer using BytesScannerProgress:    4.69		Scanning memory_layer using BytesScannerProgress:    5.47		Scanning memory_layer using BytesScannerProgress:    6.25		Scanning memory_layer using BytesScannerProgress:    7.03		Scanning memory_layer using BytesScannerProgress:    7.81		Scanning memory_layer using BytesScannerProgress:    8.59		Scanning memory_layer using BytesScannerProgress:    9.38		Scanning memory_layer using BytesScannerProgress:   10.16		Scanning memory_layer using BytesScannerProgress:   10.94		Scanning memory_layer using BytesScannerProgress:   11.72		Scanning memory_layer using BytesScannerProgress:   12.50		Scanning memory_layer using BytesScannerProgress:   13.28		Scanning memory_layer using BytesScannerProgress:   14.06		Scanning memory_layer using BytesScannerProgress:   14.84		Scanning memory_layer using BytesScannerProgress:   15.63		Scanning memory_layer using BytesScannerProgress:   16.41		Scanning memory_layer using BytesScannerProgress:   17.19		Scanning memory_layer using BytesScannerProgress:   17.97		Scanning memory_layer using BytesScannerProgress:   18.75		Scanning memory_layer using BytesScannerProgress:   19.53		Scanning memory_layer using BytesScannerProgress:   20.31		Scanning memory_layer using BytesScannerProgress:   21.09		Scanning memory_layer using BytesScannerProgress:   21.88		Scanning memory_layer using BytesScannerProgress:   22.66		Scanning memory_layer using BytesScannerProgress:   23.44		Scanning memory_layer using BytesScannerProgress:   24.22		Scanning memory_layer using BytesScannerProgress:   25.00		Scanning memory_layer using BytesScannerProgress:   25.78		Scanning memory_layer using BytesScannerProgress:   26.56		Scanning memory_layer using BytesScannerProgress:   27.34		Scanning memory_layer using BytesScannerProgress:   28.13		Scanning memory_layer using BytesScannerProgress:   28.91		Scanning memory_layer using BytesScannerProgress:   29.69		Scanning memory_layer using BytesScannerProgress:   30.47		Scanning memory_layer using BytesScannerProgress:   31.25		Scanning memory_layer using BytesScannerProgress:   32.03		Scanning memory_layer using BytesScannerProgress:   32.81		Scanning memory_layer using BytesScannerProgress:   33.59		Scanning memory_layer using BytesScannerProgress:   34.38		Scanning memory_layer using BytesScannerProgress:   35.16		Scanning memory_layer using BytesScannerProgress:   35.94		Scanning memory_layer using BytesScannerProgress:   36.72		Scanning memory_layer using BytesScannerProgress:   37.50		Scanning memory_layer using BytesScannerProgress:   38.28		Scanning memory_layer using BytesScannerProgress:   39.06		Scanning memory_layer using BytesScannerProgress:   39.85		Scanning memory_layer using BytesScannerProgress:   40.63		Scanning memory_layer using BytesScannerProgress:   41.41		Scanning memory_layer using BytesScannerProgress:   42.19		Scanning memory_layer using BytesScannerProgress:   42.97		Scanning memory_layer using BytesScannerProgress:   43.75		Scanning memory_layer using BytesScannerProgress:   44.53		Scanning memory_layer using BytesScannerProgress:   45.31		Scanning memory_layer using BytesScannerProgress:   46.10		Scanning memory_layer using BytesScannerProgress:   46.88		Scanning memory_layer using BytesScannerProgress:   47.66		Scanning memory_layer using BytesScannerProgress:   48.44		Scanning memory_layer using BytesScannerProgress:   49.22		Scanning memory_layer using BytesScannerProgress:   50.00		Scanning memory_layer using BytesScannerProgress:   50.78		Scanning memory_layer using BytesScannerProgress:   51.56		Scanning memory_layer using BytesScannerProgress:   52.35		Scanning memory_layer using BytesScannerProgress:   53.13		Scanning memory_layer using BytesScannerProgress:   53.91		Scanning memory_layer using BytesScannerProgress:   54.69		Scanning memory_layer using BytesScannerProgress:   55.47		Scanning memory_layer using BytesScannerProgress:   56.25		Scanning memory_layer using BytesScannerProgress:   57.03		Scanning memory_layer using BytesScannerProgress:   57.81		Scanning memory_layer using BytesScannerProgress:   58.60		Scanning memory_layer using BytesScannerProgress:   59.38		Scanning memory_layer using BytesScannerProgress:   60.16		Scanning memory_layer using BytesScannerProgress:   60.94		Scanning memory_layer using BytesScannerProgress:   61.72		Scanning memory_layer using BytesScannerProgress:   62.50		Scanning memory_layer using BytesScannerProgress:   63.28		Scanning memory_layer using BytesScannerProgress:   64.06		Scanning memory_layer using BytesScannerProgress:   64.85		Scanning memory_layer using BytesScannerProgress:   65.63		Scanning memory_layer using BytesScannerProgress:   66.41		Scanning memory_layer using BytesScannerProgress:   67.19		Scanning memory_layer using BytesScannerProgress:   67.97		Scanning memory_layer using BytesScannerProgress:   68.75		Scanning memory_layer using BytesScannerProgress:   69.53		Scanning memory_layer using BytesScannerProgress:   70.31		Scanning memory_layer using BytesScannerProgress:   71.10		Scanning memory_layer using BytesScannerProgress:   71.88		Scanning memory_layer using BytesScannerProgress:   72.66		Scanning memory_layer using BytesScannerProgress:   73.44		Scanning memory_layer using BytesScannerProgress:   74.22		Scanning memory_layer using BytesScannerProgress:   75.00		Scanning memory_layer using BytesScannerProgress:   75.78		Scanning memory_layer using BytesScannerProgress:   76.57		Scanning memory_layer using BytesScannerProgress:   77.35		Scanning memory_layer using BytesScannerProgress:   78.13		Scanning memory_layer using BytesScannerProgress:   78.91		Scanning memory_layer using BytesScannerProgress:   79.69		Scanning memory_layer using BytesScannerProgress:   80.47		Scanning memory_layer using BytesScannerProgress:   81.25		Scanning memory_layer using BytesScannerProgress:   82.03		Scanning memory_layer using BytesScannerProgress:   82.82		Scanning memory_layer using BytesScannerProgress:   83.60		Scanning memory_layer using BytesScannerProgress:   84.38		Scanning memory_layer using BytesScannerProgress:   85.16		Scanning memory_layer using BytesScannerProgress:   85.94		Scanning memory_layer using BytesScannerProgress:   86.72		Scanning memory_layer using BytesScannerProgress:   87.50		Scanning memory_layer using BytesScannerProgress:   88.28		Scanning memory_layer using BytesScannerProgress:   89.07		Scanning memory_layer using BytesScannerProgress:   89.85		Scanning memory_layer using BytesScannerProgress:   90.63		Scanning memory_layer using BytesScannerProgress:   91.41		Scanning memory_layer using BytesScannerProgress:   92.19		Scanning memory_layer using BytesScannerProgress:   92.97		Scanning memory_layer using BytesScannerProgress:   93.75		Scanning memory_layer using BytesScannerProgress:   94.53		Scanning memory_layer using BytesScannerProgress:   95.32		Scanning memory_layer using BytesScannerProgress:   96.10		Scanning memory_layer using BytesScannerProgress:   96.88		Scanning memory_layer using BytesScannerProgress:   97.66		Scanning memory_layer using BytesScannerProgress:   98.44		Scanning memory_layer using BytesScannerProgress:   99.22		Scanning memory_layer using BytesScannerProgress:    0.00		Scanning memory_layer using BytesScannerProgress:    0.78		Scanning memory_layer using BytesScannerProgress:    1.56		Scanning memory_layer using BytesScannerProgress:    2.34		Scanning memory_layer using BytesScannerProgress:    3.13		Scanning memory_layer using BytesScannerProgress:    3.91		Scanning memory_layer using BytesScannerProgress:    4.69		Scanning memory_layer using BytesScannerProgress:    5.47		Scanning memory_layer using BytesScannerProgress:    6.25		Scanning memory_layer using BytesScannerProgress:    7.03		Scanning memory_layer using BytesScannerProgress:    7.81		Scanning memory_layer using BytesScannerProgress:    8.59		Scanning memory_layer using BytesScannerProgress:    9.38		Scanning memory_layer using BytesScannerProgress:   10.16		Scanning memory_layer using BytesScannerProgress:   10.94		Scanning memory_layer using BytesScannerProgress:   11.72		Scanning memory_layer using BytesScannerProgress:   12.50		Scanning memory_layer using BytesScannerProgress:   13.28		Scanning memory_layer using BytesScannerProgress:   14.06		Scanning memory_layer using BytesScannerProgress:   14.84		Scanning memory_layer using BytesScannerProgress:   15.63		Scanning memory_layer using BytesScannerProgress:   16.41		Scanning memory_layer using BytesScannerProgress:   17.19		Scanning memory_layer using BytesScannerProgress:   17.97		Scanning memory_layer using BytesScannerProgress:   18.75		Scanning memory_layer using BytesScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:   32.62		Scanning layer_name using PdbSignatureScannerProgress:  100.00		PDB scanning finished                        Volatility 3 Framework 2.27.0
+
+Index	Address	Module	Symbol
+
+0	0xf8034e9351d0	ntoskrnl	NtAccessCheck
+1	0xf8034e955040	ntoskrnl	NtWorkerFactoryWorkerReady
+2	0xf8034ed246d0	ntoskrnl	NtAcceptConnectPort
+3	0xf8034eee36a0	ntoskrnl	NtMapUserPhysicalPagesScatter
+4	0xf8034ec4fcc0	ntoskrnl	NtWaitForSingleObject
+5	0xf8034ea0bec0	ntoskrnl	NtCallbackReturn
+6	0xf8034ec15360	ntoskrnl	NtReadFile
+7	0xf8034ec4e180	ntoskrnl	NtDeviceIoControlFile
+8	0xf8034ec145e0	ntoskrnl	NtWriteFile
+9	0xf8034ecf2100	ntoskrnl	NtRemoveIoCompletion
+10	0xf8034ecf1600	ntoskrnl	NtReleaseSemaphore
+11	0xf8034ec26410	ntoskrnl	NtReplyWaitReceivePort
+12	0xf8034ecc4590	ntoskrnl	NtReplyPort
+13	0xf8034ec4d060	ntoskrnl	NtSetInformationThread
+14	0xf8034ecf1bf0	ntoskrnl	NtSetEvent
+15	0xf8034ec4fe10	ntoskrnl	NtClose
+16	0xf8034eccc000	ntoskrnl	NtQueryObject
+17	0xf8034ec4c2e0	ntoskrnl	NtQueryInformationFile
+18	0xf8034ed027d0	ntoskrnl	NtOpenKey
+19	0xf8034ec43df0	ntoskrnl	NtEnumerateValueKey
+20	0xf8034ec6dc70	ntoskrnl	NtFindAtom
+21	0xf8034ed0edd0	ntoskrnl	NtQueryDefaultLocale
+22	0xf8034ec57a00	ntoskrnl	NtQueryKey
+23	0xf8034ec56f70	ntoskrnl	NtQueryValueKey
+24	0xf8034ec49c80	ntoskrnl	NtAllocateVirtualMemory
+25	0xf8034ecce920	ntoskrnl	NtQueryInformationProcess
+26	0xf8034ed02d60	ntoskrnl	NtWaitForMultipleObjects32
+27	0xf8034ed09180	ntoskrnl	NtWriteFileGather
+28	0xf8034ecadac0	ntoskrnl	NtSetInformationProcess
+29	0xf8034ec78890	ntoskrnl	NtCreateKey
+30	0xf8034ec663a0	ntoskrnl	NtFreeVirtualMemory
+31	0xf8034eece6e0	ntoskrnl	NtImpersonateClientOfPort
+32	0xf8034ecf22a0	ntoskrnl	NtReleaseMutant
+33	0xf8034ec1c920	ntoskrnl	NtQueryInformationToken
+34	0xf8034ed033b0	ntoskrnl	NtRequestWaitReplyPort
+35	0xf8034ec637a0	ntoskrnl	NtQueryVirtualMemory
+36	0xf8034ec274f0	ntoskrnl	NtOpenThreadToken
+37	0xf8034ec25480	ntoskrnl	NtQueryInformationThread
+38	0xf8034ebe3820	ntoskrnl	NtOpenProcess
+39	0xf8034e83ee20	ntoskrnl	NtSetInformationFile
+40	0xf8034ec62be0	ntoskrnl	NtMapViewOfSection
+41	0xf8034ec34d00	ntoskrnl	NtAccessCheckAndAuditAlarm
+42	0xf8034ec99a30	ntoskrnl	NtUnmapViewOfSection
+43	0xf8034ec26430	ntoskrnl	NtReplyWaitReceivePortEx
+44	0xf8034ec8d180	ntoskrnl	NtTerminateProcess
+45	0xf8034ef5bad0	ntoskrnl	NtSetEventBoostPriority
+46	0xf8034ed089e0	ntoskrnl	NtReadFileScatter
+47	0xf8034ec27510	ntoskrnl	NtOpenThreadTokenEx
+48	0xf8034ec27cd0	ntoskrnl	NtOpenProcessTokenEx
+49	0xf8034ec124c0	ntoskrnl	NtQueryPerformanceCounter
+50	0xf8034ec43350	ntoskrnl	NtEnumerateKey
+51	0xf8034eca4050	ntoskrnl	NtOpenFile
+52	0xf8034ec95dd0	ntoskrnl	NtDelayExecution
+53	0xf8034ed105f0	ntoskrnl	NtQueryDirectoryFile
+54	0xf8034ec18880	ntoskrnl	NtQuerySystemInformation
+55	0xf8034ed01fe0	ntoskrnl	NtOpenSection
+56	0xf8034ef5b8c0	ntoskrnl	NtQueryTimer
+57	0xf8034ed02260	ntoskrnl	NtFsControlFile
+58	0xf8034ed1e100	ntoskrnl	NtWriteVirtualMemory
+59	0xf8034ed0f420	ntoskrnl	NtCloseObjectAuditAlarm
+60	0xf8034ecf7f60	ntoskrnl	NtDuplicateObject
+61	0xf8034ecf57f0	ntoskrnl	NtQueryAttributesFile
+62	0xf8034ecf6e40	ntoskrnl	NtClearEvent
+63	0xf8034ec45660	ntoskrnl	NtReadVirtualMemory
+64	0xf8034ed084e0	ntoskrnl	NtOpenEvent
+65	0xf8034ec31f90	ntoskrnl	NtAdjustPrivilegesToken
+66	0xf8034ec28ae0	ntoskrnl	NtDuplicateToken
+67	0xf8034ea07e20	ntoskrnl	NtContinue
+68	0xf8034ed98a90	ntoskrnl	NtQueryDefaultUILanguage
+69	0xf8034ed25c60	ntoskrnl	NtQueueApcThread
+70	0xf8034e9379d0	ntoskrnl	NtYieldExecution
+71	0xf8034ef632a0	ntoskrnl	NtAddAtom
+72	0xf8034ec29270	ntoskrnl	NtCreateEvent
+73	0xf8034ec18320	ntoskrnl	NtQueryVolumeInformationFile
+74	0xf8034ec269d0	ntoskrnl	NtCreateSection
+75	0xf8034ed07560	ntoskrnl	NtFlushBuffersFile
+76	0xf8034ecce030	ntoskrnl	NtApphelpCacheControl
+77	0xf8034ef13650	ntoskrnl	NtCreateProcessEx
+78	0xf8034ef136f0	ntoskrnl	NtCreateThread
+79	0xf8034ed0e8f0	ntoskrnl	NtIsProcessInJob
+80	0xf8034ec48380	ntoskrnl	NtProtectVirtualMemory
+81	0xf8034ed14dd0	ntoskrnl	NtQuerySection
+82	0xf8034ed053d0	ntoskrnl	NtResumeThread
+83	0xf8034ecb61c0	ntoskrnl	NtTerminateThread
+84	0xf8034eece7e0	ntoskrnl	NtReadRequestData
+85	0xf8034ec49ee0	ntoskrnl	NtCreateFile
+86	0xf8034ed1b200	ntoskrnl	NtQueryEvent
+87	0xf8034eece960	ntoskrnl	NtWriteRequestData
+88	0xf8034ed01f10	ntoskrnl	NtOpenDirectoryObject
+89	0xf8034ed0fd20	ntoskrnl	NtAccessCheckByTypeAndAuditAlarm
+90	0xf8034ef58340	ntoskrnl	NtQuerySystemTime
+91	0xf8034ec95580	ntoskrnl	NtWaitForMultipleObjects
+92	0xf8034ed042e0	ntoskrnl	NtSetInformationObject
+93	0xf8034ecb43a0	ntoskrnl	NtCancelIoFile
+94	0xf8034e8c5d30	ntoskrnl	NtTraceEvent
+95	0xf8034ec85140	ntoskrnl	NtPowerInformation
+96	0xf8034ec3d3f0	ntoskrnl	NtSetValueKey
+97	0xf8034e8c8fb0	ntoskrnl	NtCancelTimer
+98	0xf8034e983160	ntoskrnl	NtSetTimer
+99	0xf8034e935160	ntoskrnl	NtAccessCheckByType
+100	0xf8034eba0260	ntoskrnl	NtAccessCheckByTypeResultList
+101	0xf8034ef2d830	ntoskrnl	NtAccessCheckByTypeResultListAndAuditAlarm
+102	0xf8034ef2d8e0	ntoskrnl	NtAccessCheckByTypeResultListAndAuditAlarmByHandle
+103	0xf8034ef633d0	ntoskrnl	NtAcquireCrossVmMutant
+104	0xf8034ed3b750	ntoskrnl	NtAcquireProcessActivityReference
+105	0xf8034ed0ef00	ntoskrnl	NtAddAtomEx
+106	0xf8034ef5f640	ntoskrnl	NtAddBootEntry
+107	0xf8034ef5f670	ntoskrnl	NtAddDriverEntry
+108	0xf8034ecc09e0	ntoskrnl	NtAdjustGroupsToken
+109	0xf8034ed30220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+109	0xf8034ed30220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+109	0xf8034ed30220	ntoskrnl	NtCreateEventPair
+109	0xf8034ed30220	ntoskrnl	NtDirectGraphicsCall
+109	0xf8034ed30220	ntoskrnl	NtFilterTokenEx
+109	0xf8034ed30220	ntoskrnl	NtOpenEventPair
+109	0xf8034ed30220	ntoskrnl	NtSetHighEventPair
+109	0xf8034ed30220	ntoskrnl	NtSetHighWaitLowEventPair
+109	0xf8034ed30220	ntoskrnl	NtSetLowEventPair
+109	0xf8034ed30220	ntoskrnl	NtSetLowWaitHighEventPair
+109	0xf8034ed30220	ntoskrnl	NtVdmControl
+109	0xf8034ed30220	ntoskrnl	NtWaitHighEventPair
+109	0xf8034ed30220	ntoskrnl	NtWaitLowEventPair
+109	0xf8034ed30220	ntoskrnl	PsNotifyWriteToExecutableMemory
+109	0xf8034ed30220	ntoskrnl	SeAdjustObjectSecurity
+109	0xf8034ed30220	ntoskrnl	xHalIommuMapDevice
+109	0xf8034ed30220	ntoskrnl	xHalLoadMicrocode
+109	0xf8034ed30220	ntoskrnl	xHalPostMicrocodeUpdate
+109	0xf8034ed30220	ntoskrnl	xHalUnloadMicrocode
+110	0xf8034ef18c60	ntoskrnl	NtAlertResumeThread
+111	0xf8034ef18d80	ntoskrnl	NtAlertThread
+112	0xf8034ecd32e0	ntoskrnl	NtAlertThreadByThreadId
+113	0xf8034ecf65c0	ntoskrnl	NtAllocateLocallyUniqueId
+114	0xf8034ed1eb40	ntoskrnl	NtAllocateReserveObject
+115	0xf8034eee2ec0	ntoskrnl	NtAllocateUserPhysicalPages
+116	0xf8034eee2ee0	ntoskrnl	NtAllocateUserPhysicalPagesEx
+117	0xf8034ed253c0	ntoskrnl	NtAllocateUuids
+118	0xf8034ec489c0	ntoskrnl	NtAllocateVirtualMemoryEx
+119	0xf8034ecc6500	ntoskrnl	NtAlpcAcceptConnectPort
+120	0xf8034ed2b360	ntoskrnl	NtAlpcCancelMessage
+121	0xf8034ecc47b0	ntoskrnl	NtAlpcConnectPort
+122	0xf8034ecc4830	ntoskrnl	NtAlpcConnectPortEx
+123	0xf8034ed15c80	ntoskrnl	NtAlpcCreatePort
+124	0xf8034eccb860	ntoskrnl	NtAlpcCreatePortSection
+125	0xf8034ed022d0	ntoskrnl	NtAlpcCreateResourceReserve
+126	0xf8034ecc9210	ntoskrnl	NtAlpcCreateSectionView
+127	0xf8034ecc97e0	ntoskrnl	NtAlpcCreateSecurityContext
+128	0xf8034eccba30	ntoskrnl	NtAlpcDeletePortSection
+129	0xf8034eecfb70	ntoskrnl	NtAlpcDeleteResourceReserve
+130	0xf8034ed0cff0	ntoskrnl	NtAlpcDeleteSectionView
+131	0xf8034ecc96e0	ntoskrnl	NtAlpcDeleteSecurityContext
+132	0xf8034ecc3a10	ntoskrnl	NtAlpcDisconnectPort
+133	0xf8034eecec30	ntoskrnl	NtAlpcImpersonateClientContainerOfPort
+134	0xf8034ec24540	ntoskrnl	NtAlpcImpersonateClientOfPort
+135	0xf8034ecc6ae0	ntoskrnl	NtAlpcOpenSenderProcess
+136	0xf8034ed17c90	ntoskrnl	NtAlpcOpenSenderThread
+137	0xf8034ecf09d0	ntoskrnl	NtAlpcQueryInformation
+138	0xf8034ecf2890	ntoskrnl	NtAlpcQueryInformationMessage
+139	0xf8034eecee70	ntoskrnl	NtAlpcRevokeSecurityContext
+140	0xf8034ec22520	ntoskrnl	NtAlpcSendWaitReceivePort
+141	0xf8034ed012f0	ntoskrnl	NtAlpcSetInformation
+142	0xf8034ed27980	ntoskrnl	NtAreMappedFilesTheSame
+143	0xf8034ec8da70	ntoskrnl	NtAssignProcessToJobObject
+144	0xf8034e92eb50	ntoskrnl	NtAssociateWaitCompletionPacket
+145	0xf8034ea11c10	ntoskrnl	NtCallEnclave
+146	0xf8034ecb4550	ntoskrnl	NtCancelIoFileEx
+147	0xf8034eea0e90	ntoskrnl	NtCancelSynchronousIoFile
+148	0xf8034e96ced0	ntoskrnl	NtCancelTimer2
+149	0xf8034e8c0f40	ntoskrnl	NtCancelWaitCompletionPacket
+150	0xf8034e9da370	ntoskrnl	NtCommitComplete
+151	0xf8034e9da390	ntoskrnl	NtCommitEnlistment
+152	0xf8034ec756e0	ntoskrnl	NtCommitRegistryTransaction
+153	0xf8034e9da3b0	ntoskrnl	NtCommitTransaction
+154	0xf8034ee74870	ntoskrnl	NtCompactKeys
+155	0xf8034ed0d120	ntoskrnl	NtCompareObjects
+156	0xf8034ed27630	ntoskrnl	NtCompareSigningLevels
+157	0xf8034ece3b70	ntoskrnl	NtCompareTokens
+158	0xf8034ed27080	ntoskrnl	ArbPreprocessEntry
+158	0xf8034ed27080	ntoskrnl	ArbQueryArbitrate
+158	0xf8034ed27080	ntoskrnl	EmFalseCallback
+158	0xf8034ed27080	ntoskrnl	FsRtlSyncVolumes
+158	0xf8034ed27080	ntoskrnl	IopPnPAddDevice
+158	0xf8034ed27080	ntoskrnl	NtCompleteConnectPort
+158	0xf8034ed27080	ntoskrnl	NtFlushInstructionCache
+158	0xf8034ed27080	ntoskrnl	NtFlushWriteBuffer
+158	0xf8034ed27080	ntoskrnl	PopPowerAggregatorVoidStateHandler
+158	0xf8034ed27080	ntoskrnl	TtmpCalloutLiveDumpSecondaryCallback
+158	0xf8034ed27080	ntoskrnl	xHalAcpiGetMultiNode
+158	0xf8034ed27080	ntoskrnl	xHalAddInterruptRemapping
+158	0xf8034ed27080	ntoskrnl	xHalGetInterruptTranslator
+158	0xf8034ed27080	ntoskrnl	xHalPowerSetRebootHandler
+158	0xf8034ed27080	ntoskrnl	xHalTimerQueryCycleCounter
+159	0xf8034ee74b50	ntoskrnl	NtCompressKey
+160	0xf8034ecc3ab0	ntoskrnl	NtConnectPort
+161	0xf8034ea07e30	ntoskrnl	NtContinueEx
+162	0xf8034ef670e0	ntoskrnl	NtConvertBetweenAuxiliaryCounterAndPerformanceCounter
+163	0xf8034ebd8400	ntoskrnl	NtCopyFileChunk
+164	0xf8034ef5ba20	ntoskrnl	NtCreateCrossVmEvent
+165	0xf8034ef634a0	ntoskrnl	NtCreateCrossVmMutant
+166	0xf8034ee92330	ntoskrnl	NtCreateDebugObject
+167	0xf8034ed10350	ntoskrnl	NtCreateDirectoryObject
+168	0xf8034ed10330	ntoskrnl	NtCreateDirectoryObjectEx
+169	0xf8034eee0420	ntoskrnl	NtCreateEnclave
+170	0xf8034e9da3d0	ntoskrnl	NtCreateEnlistment
+171	0xf8034ed30220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+171	0xf8034ed30220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+171	0xf8034ed30220	ntoskrnl	NtCreateEventPair
+171	0xf8034ed30220	ntoskrnl	NtDirectGraphicsCall
+171	0xf8034ed30220	ntoskrnl	NtFilterTokenEx
+171	0xf8034ed30220	ntoskrnl	NtOpenEventPair
+171	0xf8034ed30220	ntoskrnl	NtSetHighEventPair
+171	0xf8034ed30220	ntoskrnl	NtSetHighWaitLowEventPair
+171	0xf8034ed30220	ntoskrnl	NtSetLowEventPair
+171	0xf8034ed30220	ntoskrnl	NtSetLowWaitHighEventPair
+171	0xf8034ed30220	ntoskrnl	NtVdmControl
+171	0xf8034ed30220	ntoskrnl	NtWaitHighEventPair
+171	0xf8034ed30220	ntoskrnl	NtWaitLowEventPair
+171	0xf8034ed30220	ntoskrnl	PsNotifyWriteToExecutableMemory
+171	0xf8034ed30220	ntoskrnl	SeAdjustObjectSecurity
+171	0xf8034ed30220	ntoskrnl	xHalIommuMapDevice
+171	0xf8034ed30220	ntoskrnl	xHalLoadMicrocode
+171	0xf8034ed30220	ntoskrnl	xHalPostMicrocodeUpdate
+171	0xf8034ed30220	ntoskrnl	xHalUnloadMicrocode
+172	0xf8034ed98a60	ntoskrnl	NtCreateIRTimer
+173	0xf8034ed0bde0	ntoskrnl	NtCreateIoCompletion
+174	0xf8034ec8d550	ntoskrnl	NtCreateJobObject
+175	0xf8034ed30140	ntoskrnl	ArbAddReserved
+175	0xf8034ed30140	ntoskrnl	HalpAssignSlotResourcesStub
+175	0xf8034ed30140	ntoskrnl	HalpGetMceInformation
+175	0xf8034ed30140	ntoskrnl	LpcReplyWaitReplyPort
+175	0xf8034ed30140	ntoskrnl	MmAllocateMemoryRanges
+175	0xf8034ed30140	ntoskrnl	MmConfigureGraphicsPtes
+175	0xf8034ed30140	ntoskrnl	MmFreeMemoryRanges
+175	0xf8034ed30140	ntoskrnl	MmQueryMemoryRanges
+175	0xf8034ed30140	ntoskrnl	NtCreateJobSet
+175	0xf8034ed30140	ntoskrnl	xHalAllocatePmcCounterSet
+175	0xf8034ed30140	ntoskrnl	xHalDpReplaceBegin
+175	0xf8034ed30140	ntoskrnl	xHalGetProcessorId
+175	0xf8034ed30140	ntoskrnl	xHalQueryBusSlots
+175	0xf8034ed30140	ntoskrnl	xHalRegisterBusHandler
+175	0xf8034ed30140	ntoskrnl	xHalStartMirroring
+176	0xf8034ed73b10	ntoskrnl	NtCreateKeyTransacted
+177	0xf8034edcf7c0	ntoskrnl	NtCreateKeyedEvent
+178	0xf8034ec84960	ntoskrnl	NtCreateLowBoxToken
+179	0xf8034ebe24b0	ntoskrnl	NtCreateMailslotFile
+180	0xf8034ece7ea0	ntoskrnl	NtCreateMutant
+181	0xf8034ed15400	ntoskrnl	NtCreateNamedPipeFile
+182	0xf8034edc1210	ntoskrnl	NtCreatePagingFile
+183	0xf8034ef19450	ntoskrnl	NtCreatePartition
+184	0xf8034ed7ccd0	ntoskrnl	NtCreatePort
+185	0xf8034ecbda40	ntoskrnl	NtCreatePrivateNamespace
+186	0xf8034ef135c0	ntoskrnl	NtCreateProcess
+187	0xf8034ef67210	ntoskrnl	NtCreateProfile
+188	0xf8034ef672f0	ntoskrnl	NtCreateProfileEx
+189	0xf8034ed282b0	ntoskrnl	NtCreateRegistryTransaction
+190	0xf8034e9da3f0	ntoskrnl	NtCreateResourceManager
+191	0xf8034eed40f0	ntoskrnl	NtCreateSectionEx
+192	0xf8034ec290a0	ntoskrnl	NtCreateSemaphore
+193	0xf8034ed172e0	ntoskrnl	NtCreateSymbolicLinkObject
+194	0xf8034ebf4e40	ntoskrnl	NtCreateThreadEx
+195	0xf8034ec93be0	ntoskrnl	NtCreateTimer
+196	0xf8034ec89480	ntoskrnl	NtCreateTimer2
+197	0xf8034ef2edc0	ntoskrnl	NtCreateToken
+198	0xf8034ecc2850	ntoskrnl	NtCreateTokenEx
+199	0xf8034e9da410	ntoskrnl	NtCreateTransaction
+200	0xf8034e9da430	ntoskrnl	NtCreateTransactionManager
+201	0xf8034ebf6770	ntoskrnl	NtCreateUserProcess
+202	0xf8034ed03530	ntoskrnl	NtCreateWaitCompletionPacket
+203	0xf8034ed982a0	ntoskrnl	NtCreateWaitablePort
+204	0xf8034ebf84d0	ntoskrnl	NtCreateWnfStateName
+205	0xf8034ec890b0	ntoskrnl	NtCreateWorkerFactory
+206	0xf8034ee92530	ntoskrnl	NtDebugActiveProcess
+207	0xf8034ee92700	ntoskrnl	NtDebugContinue
+208	0xf8034ed0c7a0	ntoskrnl	NtDeleteAtom
+209	0xf8034ef5f6a0	ntoskrnl	NtDeleteBootEntry
+210	0xf8034ef5f830	ntoskrnl	NtDeleteDriverEntry
+211	0xf8034ed869e0	ntoskrnl	NtDeleteFile
+212	0xf8034ec06990	ntoskrnl	NtDeleteKey
+213	0xf8034ed3ee80	ntoskrnl	NtDeleteObjectAuditAlarm
+214	0xf8034eeebcf0	ntoskrnl	NtDeletePrivateNamespace
+215	0xf8034ec092e0	ntoskrnl	NtDeleteValueKey
+216	0xf8034edd70f0	ntoskrnl	NtDeleteWnfStateData
+217	0xf8034ebf81c0	ntoskrnl	NtDeleteWnfStateName
+218	0xf8034ed30220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+218	0xf8034ed30220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+218	0xf8034ed30220	ntoskrnl	NtCreateEventPair
+218	0xf8034ed30220	ntoskrnl	NtDirectGraphicsCall
+218	0xf8034ed30220	ntoskrnl	NtFilterTokenEx
+218	0xf8034ed30220	ntoskrnl	NtOpenEventPair
+218	0xf8034ed30220	ntoskrnl	NtSetHighEventPair
+218	0xf8034ed30220	ntoskrnl	NtSetHighWaitLowEventPair
+218	0xf8034ed30220	ntoskrnl	NtSetLowEventPair
+218	0xf8034ed30220	ntoskrnl	NtSetLowWaitHighEventPair
+218	0xf8034ed30220	ntoskrnl	NtVdmControl
+218	0xf8034ed30220	ntoskrnl	NtWaitHighEventPair
+218	0xf8034ed30220	ntoskrnl	NtWaitLowEventPair
+218	0xf8034ed30220	ntoskrnl	PsNotifyWriteToExecutableMemory
+218	0xf8034ed30220	ntoskrnl	SeAdjustObjectSecurity
+218	0xf8034ed30220	ntoskrnl	xHalIommuMapDevice
+218	0xf8034ed30220	ntoskrnl	xHalLoadMicrocode
+218	0xf8034ed30220	ntoskrnl	xHalPostMicrocodeUpdate
+218	0xf8034ed30220	ntoskrnl	xHalUnloadMicrocode
+219	0xf8034ed86d90	ntoskrnl	NtDisableLastKnownGood
+220	0xf8034ef58b30	ntoskrnl	NtDisplayString
+221	0xf8034ebbccb0	ntoskrnl	NtDrawText
+222	0xf8034ed86180	ntoskrnl	NtEnableLastKnownGood
+223	0xf8034ef5f9c0	ntoskrnl	NtEnumerateBootEntries
+224	0xf8034ef60010	ntoskrnl	NtEnumerateDriverEntries
+225	0xf8034ef604d0	ntoskrnl	NtEnumerateSystemEnvironmentValuesEx
+226	0xf8034e9da450	ntoskrnl	NtEnumerateTransactionObject
+227	0xf8034ecf4140	ntoskrnl	NtExtendSection
+228	0xf8034ef30450	ntoskrnl	NtFilterBootOption
+229	0xf8034ecbf750	ntoskrnl	NtFilterToken
+230	0xf8034ed30220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+230	0xf8034ed30220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+230	0xf8034ed30220	ntoskrnl	NtCreateEventPair
+230	0xf8034ed30220	ntoskrnl	NtDirectGraphicsCall
+230	0xf8034ed30220	ntoskrnl	NtFilterTokenEx
+230	0xf8034ed30220	ntoskrnl	NtOpenEventPair
+230	0xf8034ed30220	ntoskrnl	NtSetHighEventPair
+230	0xf8034ed30220	ntoskrnl	NtSetHighWaitLowEventPair
+230	0xf8034ed30220	ntoskrnl	NtSetLowEventPair
+230	0xf8034ed30220	ntoskrnl	NtSetLowWaitHighEventPair
+230	0xf8034ed30220	ntoskrnl	NtVdmControl
+230	0xf8034ed30220	ntoskrnl	NtWaitHighEventPair
+230	0xf8034ed30220	ntoskrnl	NtWaitLowEventPair
+230	0xf8034ed30220	ntoskrnl	PsNotifyWriteToExecutableMemory
+230	0xf8034ed30220	ntoskrnl	SeAdjustObjectSecurity
+230	0xf8034ed30220	ntoskrnl	xHalIommuMapDevice
+230	0xf8034ed30220	ntoskrnl	xHalLoadMicrocode
+230	0xf8034ed30220	ntoskrnl	xHalPostMicrocodeUpdate
+230	0xf8034ed30220	ntoskrnl	xHalUnloadMicrocode
+231	0xf8034ed07590	ntoskrnl	NtFlushBuffersFileEx
+232	0xf8034edd9390	ntoskrnl	NtFlushInstallUILanguage
+233	0xf8034ed27080	ntoskrnl	ArbPreprocessEntry
+233	0xf8034ed27080	ntoskrnl	ArbQueryArbitrate
+233	0xf8034ed27080	ntoskrnl	EmFalseCallback
+233	0xf8034ed27080	ntoskrnl	FsRtlSyncVolumes
+233	0xf8034ed27080	ntoskrnl	IopPnPAddDevice
+233	0xf8034ed27080	ntoskrnl	NtCompleteConnectPort
+233	0xf8034ed27080	ntoskrnl	NtFlushInstructionCache
+233	0xf8034ed27080	ntoskrnl	NtFlushWriteBuffer
+233	0xf8034ed27080	ntoskrnl	PopPowerAggregatorVoidStateHandler
+233	0xf8034ed27080	ntoskrnl	TtmpCalloutLiveDumpSecondaryCallback
+233	0xf8034ed27080	ntoskrnl	xHalAcpiGetMultiNode
+233	0xf8034ed27080	ntoskrnl	xHalAddInterruptRemapping
+233	0xf8034ed27080	ntoskrnl	xHalGetInterruptTranslator
+233	0xf8034ed27080	ntoskrnl	xHalPowerSetRebootHandler
+233	0xf8034ed27080	ntoskrnl	xHalTimerQueryCycleCounter
+234	0xf8034ed1f4b0	ntoskrnl	NtFlushKey
+235	0xf8034e8c3050	ntoskrnl	NtFlushProcessWriteBuffers
+236	0xf8034ecf3d00	ntoskrnl	NtFlushVirtualMemory
+237	0xf8034ed27080	ntoskrnl	ArbPreprocessEntry
+237	0xf8034ed27080	ntoskrnl	ArbQueryArbitrate
+237	0xf8034ed27080	ntoskrnl	EmFalseCallback
+237	0xf8034ed27080	ntoskrnl	FsRtlSyncVolumes
+237	0xf8034ed27080	ntoskrnl	IopPnPAddDevice
+237	0xf8034ed27080	ntoskrnl	NtCompleteConnectPort
+237	0xf8034ed27080	ntoskrnl	NtFlushInstructionCache
+237	0xf8034ed27080	ntoskrnl	NtFlushWriteBuffer
+237	0xf8034ed27080	ntoskrnl	PopPowerAggregatorVoidStateHandler
+237	0xf8034ed27080	ntoskrnl	TtmpCalloutLiveDumpSecondaryCallback
+237	0xf8034ed27080	ntoskrnl	xHalAcpiGetMultiNode
+237	0xf8034ed27080	ntoskrnl	xHalAddInterruptRemapping
+237	0xf8034ed27080	ntoskrnl	xHalGetInterruptTranslator
+237	0xf8034ed27080	ntoskrnl	xHalPowerSetRebootHandler
+237	0xf8034ed27080	ntoskrnl	xHalTimerQueryCycleCounter
+238	0xf8034eee2f00	ntoskrnl	NtFreeUserPhysicalPages
+239	0xf8034ee74d30	ntoskrnl	NtFreezeRegistry
+240	0xf8034e9da470	ntoskrnl	NtFreezeTransactions
+241	0xf8034ed0e570	ntoskrnl	NtGetCachedSigningLevel
+242	0xf8034ebf8cc0	ntoskrnl	NtGetCompleteWnfStateSubscription
+243	0xf8034ed28170	ntoskrnl	NtGetContextThread
+244	0xf8034ef13e70	ntoskrnl	NtGetCurrentProcessorNumber
+245	0xf8034ef13ed0	ntoskrnl	NtGetCurrentProcessorNumberEx
+246	0xf8034eefca30	ntoskrnl	NtGetDevicePowerState
+247	0xf8034ed0c1c0	ntoskrnl	NtGetMUIRegistryInfo
+248	0xf8034ed94640	ntoskrnl	NtGetNextProcess
+249	0xf8034ed1ffa0	ntoskrnl	NtGetNextThread
+250	0xf8034ed25690	ntoskrnl	NtGetNlsSectionPtr
+251	0xf8034e9da490	ntoskrnl	NtGetNotificationResourceManager
+252	0xf8034e888d80	ntoskrnl	NtGetWriteWatch
+253	0xf8034ece36a0	ntoskrnl	NtImpersonateAnonymousToken
+254	0xf8034ece7580	ntoskrnl	NtImpersonateThread
+255	0xf8034eee0870	ntoskrnl	NtInitializeEnclave
+256	0xf8034ebfd830	ntoskrnl	NtInitializeNlsFiles
+257	0xf8034ed97290	ntoskrnl	NtInitializeRegistry
+258	0xf8034ed7ed50	ntoskrnl	NtInitiatePowerAction
+259	0xf8034ed84280	ntoskrnl	NtIsSystemResumeAutomatic
+260	0xf8034ed7bfa0	ntoskrnl	NtIsUILanguageComitted
+261	0xf8034edddb80	ntoskrnl	NtListenPort
+262	0xf8034ed89de0	ntoskrnl	NtLoadDriver
+263	0xf8034eee0b50	ntoskrnl	NtLoadEnclaveData
+264	0xf8034ed8b910	ntoskrnl	NtLoadKey
+265	0xf8034ed8b8b0	ntoskrnl	NtLoadKey2
+266	0xf8034ec77760	ntoskrnl	NtLoadKeyEx
+267	0xf8034ecf78f0	ntoskrnl	NtLockFile
+268	0xf8034edbe980	ntoskrnl	NtLockProductActivationKeys
+269	0xf8034edcd830	ntoskrnl	NtLockRegistryKey
+270	0xf8034e8e7fe0	ntoskrnl	NtLockVirtualMemory
+271	0xf8034ed3bf50	ntoskrnl	NtMakePermanentObject
+272	0xf8034ed29dd0	ntoskrnl	NtMakeTemporaryObject
+273	0xf8034eedb440	ntoskrnl	NtManageHotPatch
+274	0xf8034ec007f0	ntoskrnl	NtManagePartition
+275	0xf8034ef66120	ntoskrnl	NtMapCMFModule
+276	0xf8034eee33e0	ntoskrnl	NtMapUserPhysicalPages
+277	0xf8034ed274c0	ntoskrnl	NtMapViewOfSectionEx
+278	0xf8034ef60790	ntoskrnl	NtModifyBootEntry
+279	0xf8034ef607c0	ntoskrnl	NtModifyDriverEntry
+280	0xf8034ed1a0e0	ntoskrnl	NtNotifyChangeDirectoryFile
+281	0xf8034ed1a140	ntoskrnl	NtNotifyChangeDirectoryFileEx
+282	0xf8034ec13530	ntoskrnl	NtNotifyChangeKey
+283	0xf8034ec135a0	ntoskrnl	NtNotifyChangeMultipleKeys
+284	0xf8034ed048a0	ntoskrnl	NtNotifyChangeSession
+285	0xf8034e9da4b0	ntoskrnl	NtOpenEnlistment
+286	0xf8034ed30220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+286	0xf8034ed30220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+286	0xf8034ed30220	ntoskrnl	NtCreateEventPair
+286	0xf8034ed30220	ntoskrnl	NtDirectGraphicsCall
+286	0xf8034ed30220	ntoskrnl	NtFilterTokenEx
+286	0xf8034ed30220	ntoskrnl	NtOpenEventPair
+286	0xf8034ed30220	ntoskrnl	NtSetHighEventPair
+286	0xf8034ed30220	ntoskrnl	NtSetHighWaitLowEventPair
+286	0xf8034ed30220	ntoskrnl	NtSetLowEventPair
+286	0xf8034ed30220	ntoskrnl	NtSetLowWaitHighEventPair
+286	0xf8034ed30220	ntoskrnl	NtVdmControl
+286	0xf8034ed30220	ntoskrnl	NtWaitHighEventPair
+286	0xf8034ed30220	ntoskrnl	NtWaitLowEventPair
+286	0xf8034ed30220	ntoskrnl	PsNotifyWriteToExecutableMemory
+286	0xf8034ed30220	ntoskrnl	SeAdjustObjectSecurity
+286	0xf8034ed30220	ntoskrnl	xHalIommuMapDevice
+286	0xf8034ed30220	ntoskrnl	xHalLoadMicrocode
+286	0xf8034ed30220	ntoskrnl	xHalPostMicrocodeUpdate
+286	0xf8034ed30220	ntoskrnl	xHalUnloadMicrocode
+287	0xf8034eea0be0	ntoskrnl	NtOpenIoCompletion
+288	0xf8034ebe29c0	ntoskrnl	NtOpenJobObject
+289	0xf8034ec5c0b0	ntoskrnl	NtOpenKeyEx
+290	0xf8034ee74dd0	ntoskrnl	NtOpenKeyTransacted
+291	0xf8034ec75a50	ntoskrnl	NtOpenKeyTransactedEx
+292	0xf8034ef67740	ntoskrnl	NtOpenKeyedEvent
+293	0xf8034ed0f640	ntoskrnl	NtOpenMutant
+294	0xf8034ed14810	ntoskrnl	NtOpenObjectAuditAlarm
+295	0xf8034eddb2c0	ntoskrnl	NtOpenPartition
+296	0xf8034ecbd870	ntoskrnl	NtOpenPrivateNamespace
+297	0xf8034ec27cb0	ntoskrnl	NtOpenProcessToken
+298	0xf8034ee74df0	ntoskrnl	NtOpenRegistryTransaction
+299	0xf8034e9da4d0	ntoskrnl	NtOpenResourceManager
+300	0xf8034ed10170	ntoskrnl	NtOpenSemaphore
+301	0xf8034ed2a4a0	ntoskrnl	NtOpenSession
+302	0xf8034ecf5720	ntoskrnl	NtOpenSymbolicLinkObject
+303	0xf8034ec348b0	ntoskrnl	NtOpenThread
+304	0xf8034ef5b810	ntoskrnl	NtOpenTimer
+305	0xf8034e9da4f0	ntoskrnl	NtOpenTransaction
+306	0xf8034e9da510	ntoskrnl	NtOpenTransactionManager
+307	0xf8034ecd50e0	ntoskrnl	NtPlugPlayControl
+308	0xf8034e9da530	ntoskrnl	NtPrePrepareComplete
+309	0xf8034e9da550	ntoskrnl	NtPrePrepareEnlistment
+310	0xf8034e9da570	ntoskrnl	NtPrepareComplete
+311	0xf8034e9da590	ntoskrnl	NtPrepareEnlistment
+312	0xf8034ed082f0	ntoskrnl	NtPrivilegeCheck
+313	0xf8034ed957b0	ntoskrnl	NtPrivilegeObjectAuditAlarm
+314	0xf8034ed23340	ntoskrnl	NtPrivilegedServiceAuditAlarm
+315	0xf8034e9da5b0	ntoskrnl	NtPropagationComplete
+316	0xf8034e9da5d0	ntoskrnl	NtPropagationFailed
+317	0xf8034ef68540	ntoskrnl	NtPssCaptureVaSpaceBulk
+318	0xf8034ecf88b0	ntoskrnl	NtPulseEvent
+319	0xf8034ef67360	ntoskrnl	NtQueryAuxiliaryCounterFrequency
+320	0xf8034ef607f0	ntoskrnl	NtQueryBootEntryOrder
+321	0xf8034ef60a70	ntoskrnl	NtQueryBootOptions
+322	0xf8034e96eda0	ntoskrnl	NtQueryDebugFilterState
+323	0xf8034ec160d0	ntoskrnl	NtQueryDirectoryFileEx
+324	0xf8034ec30f30	ntoskrnl	NtQueryDirectoryObject
+325	0xf8034ef60d70	ntoskrnl	NtQueryDriverEntryOrder
+326	0xf8034ed0a350	ntoskrnl	NtQueryEaFile
+327	0xf8034ecf5db0	ntoskrnl	NtQueryFullAttributesFile
+328	0xf8034ed0ec20	ntoskrnl	NtQueryInformationAtom
+329	0xf8034eea0f80	ntoskrnl	NtQueryInformationByName
+330	0xf8034e9da5f0	ntoskrnl	NtQueryInformationEnlistment
+331	0xf8034ec0e630	ntoskrnl	NtQueryInformationJobObject
+332	0xf8034eece710	ntoskrnl	NtQueryInformationPort
+333	0xf8034e9da610	ntoskrnl	NtQueryInformationResourceManager
+334	0xf8034e9da630	ntoskrnl	NtQueryInformationTransaction
+335	0xf8034e9da650	ntoskrnl	NtQueryInformationTransactionManager
+336	0xf8034ebc3d30	ntoskrnl	NtQueryInformationWorkerFactory
+337	0xf8034ed1ee60	ntoskrnl	NtQueryInstallUILanguage
+338	0xf8034ed3e3d0	ntoskrnl	NtQueryIntervalProfile
+339	0xf8034eea0d00	ntoskrnl	NtQueryIoCompletion
+340	0xf8034ec8de50	ntoskrnl	NtQueryLicenseValue
+341	0xf8034eceeb80	ntoskrnl	NtQueryMultipleValueKey
+342	0xf8034ef63550	ntoskrnl	NtQueryMutant
+343	0xf8034ee74f40	ntoskrnl	NtQueryOpenSubKeys
+344	0xf8034ee75160	ntoskrnl	NtQueryOpenSubKeysEx
+345	0xf8034ed30150	ntoskrnl	CmpCleanUpHigherLayerKcbCachesPreCallback
+345	0xf8034ed30150	ntoskrnl	CmpInvalidateAllHigherLayerKcbsPreCallback
+345	0xf8034ed30150	ntoskrnl	CmpPrepareToInvalidateAllHigherLayerKcbsPreCallback
+345	0xf8034ed30150	ntoskrnl	HaliAcpiQueryFlags
+345	0xf8034ed30150	ntoskrnl	NtQueryPortInformationProcess
+346	0xf8034eea22c0	ntoskrnl	NtQueryQuotaInformationFile
+347	0xf8034ebf4040	ntoskrnl	NtQuerySecurityAttributesToken
+348	0xf8034ecf76e0	ntoskrnl	NtQuerySecurityObject
+349	0xf8034ef28200	ntoskrnl	NtQuerySecurityPolicy
+350	0xf8034ef63110	ntoskrnl	NtQuerySemaphore
+351	0xf8034ecf5aa0	ntoskrnl	NtQuerySymbolicLinkObject
+352	0xf8034ef610a0	ntoskrnl	NtQuerySystemEnvironmentValue
+353	0xf8034ed2a5c0	ntoskrnl	NtQuerySystemEnvironmentValueEx
+354	0xf8034ed09f40	ntoskrnl	NtQuerySystemInformationEx
+355	0xf8034ed28a70	ntoskrnl	NtQueryTimerResolution
+356	0xf8034ebf9c80	ntoskrnl	NtQueryWnfStateData
+357	0xf8034ed12aa0	ntoskrnl	NtQueryWnfStateNameInformation
+358	0xf8034ebe0c20	ntoskrnl	NtQueueApcThreadEx
+359	0xf8034ebda090	ntoskrnl	NtQueueApcThreadEx2
+360	0xf8034ea08240	ntoskrnl	NtRaiseException
+361	0xf8034ef62dc0	ntoskrnl	NtRaiseHardError
+362	0xf8034e9da670	ntoskrnl	NtReadOnlyEnlistment
+363	0xf8034e9da690	ntoskrnl	NtRecoverEnlistment
+364	0xf8034e9da6b0	ntoskrnl	NtRecoverResourceManager
+365	0xf8034e9da6d0	ntoskrnl	NtRecoverTransactionManager
+366	0xf8034e9dabf0	ntoskrnl	NtRegisterProtocolAddressInformation
+367	0xf8034ed285c0	ntoskrnl	NtRegisterThreadTerminatePort
+368	0xf8034ef67840	ntoskrnl	NtReleaseKeyedEvent
+369	0xf8034e8cc720	ntoskrnl	NtReleaseWorkerFactoryWorker
+370	0xf8034ec1ec60	ntoskrnl	NtRemoveIoCompletionEx
+371	0xf8034ee92900	ntoskrnl	NtRemoveProcessDebug
+372	0xf8034ee754a0	ntoskrnl	NtRenameKey
+373	0xf8034e9dac10	ntoskrnl	NtRenameTransactionManager
+374	0xf8034ee759a0	ntoskrnl	NtReplaceKey
+375	0xf8034ebd46f0	ntoskrnl	NtReplacePartitionUnit
+376	0xf8034eece840	ntoskrnl	NtReplyWaitReplyPort
+377	0xf8034ed1d380	ntoskrnl	NtRequestPort
+378	0xf8034ebe9090	ntoskrnl	NtResetEvent
+379	0xf8034ec65ec0	ntoskrnl	NtResetWriteWatch
+380	0xf8034ee75d30	ntoskrnl	NtRestoreKey
+381	0xf8034ef18e00	ntoskrnl	NtResumeProcess
+382	0xf8034eb8c380	ntoskrnl	NtRevertContainerImpersonation
+383	0xf8034e9da6f0	ntoskrnl	NtRollbackComplete
+384	0xf8034e9da710	ntoskrnl	NtRollbackEnlistment
+385	0xf8034ed3d9f0	ntoskrnl	NtRollbackRegistryTransaction
+386	0xf8034e9da730	ntoskrnl	NtRollbackTransaction
+387	0xf8034e9dac70	ntoskrnl	NtRollforwardTransactionManager
+388	0xf8034ee75fe0	ntoskrnl	NtSaveKey
+389	0xf8034ed32d40	ntoskrnl	NtSaveKeyEx
+390	0xf8034ee76000	ntoskrnl	NtSaveMergedKeys
+391	0xf8034ecc3b00	ntoskrnl	NtSecureConnectPort
+392	0xf8034eddc290	ntoskrnl	NtSerializeBoot
+393	0xf8034ef613c0	ntoskrnl	NtSetBootEntryOrder
+394	0xf8034ef615d0	ntoskrnl	NtSetBootOptions
+395	0xf8034ed34a10	ntoskrnl	NtSetCachedSigningLevel
+396	0xf8034ed34a40	ntoskrnl	NtSetCachedSigningLevel2
+397	0xf8034ef17a50	ntoskrnl	NtSetContextThread
+398	0xf8034edaff70	ntoskrnl	NtSetDebugFilterState
+399	0xf8034eddbbe0	ntoskrnl	NtSetDefaultHardErrorPort
+400	0xf8034ed95be0	ntoskrnl	NtSetDefaultLocale
+401	0xf8034ed95bc0	ntoskrnl	NtSetDefaultUILanguage
+402	0xf8034ef617e0	ntoskrnl	NtSetDriverEntryOrder
+403	0xf8034ed3b070	ntoskrnl	NtSetEaFile
+404	0xf8034ed30220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+404	0xf8034ed30220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+404	0xf8034ed30220	ntoskrnl	NtCreateEventPair
+404	0xf8034ed30220	ntoskrnl	NtDirectGraphicsCall
+404	0xf8034ed30220	ntoskrnl	NtFilterTokenEx
+404	0xf8034ed30220	ntoskrnl	NtOpenEventPair
+404	0xf8034ed30220	ntoskrnl	NtSetHighEventPair
+404	0xf8034ed30220	ntoskrnl	NtSetHighWaitLowEventPair
+404	0xf8034ed30220	ntoskrnl	NtSetLowEventPair
+404	0xf8034ed30220	ntoskrnl	NtSetLowWaitHighEventPair
+404	0xf8034ed30220	ntoskrnl	NtVdmControl
+404	0xf8034ed30220	ntoskrnl	NtWaitHighEventPair
+404	0xf8034ed30220	ntoskrnl	NtWaitLowEventPair
+404	0xf8034ed30220	ntoskrnl	PsNotifyWriteToExecutableMemory
+404	0xf8034ed30220	ntoskrnl	SeAdjustObjectSecurity
+404	0xf8034ed30220	ntoskrnl	xHalIommuMapDevice
+404	0xf8034ed30220	ntoskrnl	xHalLoadMicrocode
+404	0xf8034ed30220	ntoskrnl	xHalPostMicrocodeUpdate
+404	0xf8034ed30220	ntoskrnl	xHalUnloadMicrocode
+405	0xf8034ed30220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+405	0xf8034ed30220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+405	0xf8034ed30220	ntoskrnl	NtCreateEventPair
+405	0xf8034ed30220	ntoskrnl	NtDirectGraphicsCall
+405	0xf8034ed30220	ntoskrnl	NtFilterTokenEx
+405	0xf8034ed30220	ntoskrnl	NtOpenEventPair
+405	0xf8034ed30220	ntoskrnl	NtSetHighEventPair
+405	0xf8034ed30220	ntoskrnl	NtSetHighWaitLowEventPair
+405	0xf8034ed30220	ntoskrnl	NtSetLowEventPair
+405	0xf8034ed30220	ntoskrnl	NtSetLowWaitHighEventPair
+405	0xf8034ed30220	ntoskrnl	NtVdmControl
+405	0xf8034ed30220	ntoskrnl	NtWaitHighEventPair
+405	0xf8034ed30220	ntoskrnl	NtWaitLowEventPair
+405	0xf8034ed30220	ntoskrnl	PsNotifyWriteToExecutableMemory
+405	0xf8034ed30220	ntoskrnl	SeAdjustObjectSecurity
+405	0xf8034ed30220	ntoskrnl	xHalIommuMapDevice
+405	0xf8034ed30220	ntoskrnl	xHalLoadMicrocode
+405	0xf8034ed30220	ntoskrnl	xHalPostMicrocodeUpdate
+405	0xf8034ed30220	ntoskrnl	xHalUnloadMicrocode
+406	0xf8034e96d570	ntoskrnl	NtSetIRTimer
+407	0xf8034ee92a70	ntoskrnl	NtSetInformationDebugObject
+408	0xf8034e9da750	ntoskrnl	NtSetInformationEnlistment
+409	0xf8034ebfecf0	ntoskrnl	NtSetInformationJobObject
+410	0xf8034ec42f00	ntoskrnl	NtSetInformationKey
+411	0xf8034e9da770	ntoskrnl	NtSetInformationResourceManager
+412	0xf8034eee9330	ntoskrnl	NtSetInformationSymbolicLink
+413	0xf8034ebee930	ntoskrnl	NtSetInformationToken
+414	0xf8034e9da790	ntoskrnl	NtSetInformationTransaction
+415	0xf8034e9dac30	ntoskrnl	NtSetInformationTransactionManager
+416	0xf8034ec6ac20	ntoskrnl	NtSetInformationVirtualMemory
+417	0xf8034e8bfaa0	ntoskrnl	NtSetInformationWorkerFactory
+418	0xf8034ed3e690	ntoskrnl	NtSetIntervalProfile
+419	0xf8034ed04c50	ntoskrnl	NtSetIoCompletion
+420	0xf8034eceaf40	ntoskrnl	NtSetIoCompletionEx
+421	0xf8034e9da0b0	ntoskrnl	BvgaSetVirtualFrameBuffer
+421	0xf8034e9da0b0	ntoskrnl	CcTestControl
+421	0xf8034e9da0b0	ntoskrnl	HalpInterruptGetParkingPageInformation
+421	0xf8034e9da0b0	ntoskrnl	HalpPicRequestInterrupt
+421	0xf8034e9da0b0	ntoskrnl	IommupHvConfigureDeviceDomain
+421	0xf8034e9da0b0	ntoskrnl	IommupHvFlushDeviceDomainVaList
+421	0xf8034e9da0b0	ntoskrnl	NtSetLdtEntries
+421	0xf8034e9da0b0	ntoskrnl	PspQueryDescriptorThread
+421	0xf8034e9da0b0	ntoskrnl	PspQueryLdtInformation
+421	0xf8034e9da0b0	ntoskrnl	PspSetLdtInformation
+421	0xf8034e9da0b0	ntoskrnl	PspSetLdtSize
+421	0xf8034e9da0b0	ntoskrnl	PspSetProcessIoHandlers
+421	0xf8034e9da0b0	ntoskrnl	SkIsSecureKernel
+421	0xf8034e9da0b0	ntoskrnl	xHalAllocateMapRegisters
+421	0xf8034e9da0b0	ntoskrnl	xHalConvertAuxiliaryCounterToPerformanceCounter
+421	0xf8034e9da0b0	ntoskrnl	xHalConvertPerformanceCounterToAuxiliaryCounter
+421	0xf8034e9da0b0	ntoskrnl	xHalGetIommuInterface
+421	0xf8034e9da0b0	ntoskrnl	xHalIommuBeginDeviceReset
+421	0xf8034e9da0b0	ntoskrnl	xHalIommuBlockDevice
+421	0xf8034e9da0b0	ntoskrnl	xHalIommuDevicePowerChange
+421	0xf8034e9da0b0	ntoskrnl	xHalIommuDisableDevicePasid
+421	0xf8034e9da0b0	ntoskrnl	xHalIommuEnableDevicePasid
+421	0xf8034e9da0b0	ntoskrnl	xHalIommuFinalizeDeviceReset
+421	0xf8034e9da0b0	ntoskrnl	xHalIommuFreeLibraryContext
+421	0xf8034e9da0b0	ntoskrnl	xHalIommuGetLibraryContext
+421	0xf8034e9da0b0	ntoskrnl	xHalIommuSetAddressSpace
+421	0xf8034e9da0b0	ntoskrnl	xHalIommuUnblockDevice
+421	0xf8034e9da0b0	ntoskrnl	xHalIommuUnmapDevice
+421	0xf8034e9da0b0	ntoskrnl	xHalQueryAuxiliaryCounterFrequency
+421	0xf8034e9da0b0	ntoskrnl	xHalTimerWatchdogTriggerSystemReset
+421	0xf8034e9da0b0	ntoskrnl	xKdEnumerateDebuggingDevices
+421	0xf8034e9da0b0	ntoskrnl	xKdReleaseIntegratedDeviceForDebugging
+421	0xf8034e9da0b0	ntoskrnl	xKdReleasePciDeviceForDebugging
+421	0xf8034e9da0b0	ntoskrnl	xKdSetupIntegratedDeviceForDebugging
+421	0xf8034e9da0b0	ntoskrnl	xKdSetupPciDeviceForDebugging
+422	0xf8034ed30220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+422	0xf8034ed30220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+422	0xf8034ed30220	ntoskrnl	NtCreateEventPair
+422	0xf8034ed30220	ntoskrnl	NtDirectGraphicsCall
+422	0xf8034ed30220	ntoskrnl	NtFilterTokenEx
+422	0xf8034ed30220	ntoskrnl	NtOpenEventPair
+422	0xf8034ed30220	ntoskrnl	NtSetHighEventPair
+422	0xf8034ed30220	ntoskrnl	NtSetHighWaitLowEventPair
+422	0xf8034ed30220	ntoskrnl	NtSetLowEventPair
+422	0xf8034ed30220	ntoskrnl	NtSetLowWaitHighEventPair
+422	0xf8034ed30220	ntoskrnl	NtVdmControl
+422	0xf8034ed30220	ntoskrnl	NtWaitHighEventPair
+422	0xf8034ed30220	ntoskrnl	NtWaitLowEventPair
+422	0xf8034ed30220	ntoskrnl	PsNotifyWriteToExecutableMemory
+422	0xf8034ed30220	ntoskrnl	SeAdjustObjectSecurity
+422	0xf8034ed30220	ntoskrnl	xHalIommuMapDevice
+422	0xf8034ed30220	ntoskrnl	xHalLoadMicrocode
+422	0xf8034ed30220	ntoskrnl	xHalPostMicrocodeUpdate
+422	0xf8034ed30220	ntoskrnl	xHalUnloadMicrocode
+423	0xf8034ed30220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+423	0xf8034ed30220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+423	0xf8034ed30220	ntoskrnl	NtCreateEventPair
+423	0xf8034ed30220	ntoskrnl	NtDirectGraphicsCall
+423	0xf8034ed30220	ntoskrnl	NtFilterTokenEx
+423	0xf8034ed30220	ntoskrnl	NtOpenEventPair
+423	0xf8034ed30220	ntoskrnl	NtSetHighEventPair
+423	0xf8034ed30220	ntoskrnl	NtSetHighWaitLowEventPair
+423	0xf8034ed30220	ntoskrnl	NtSetLowEventPair
+423	0xf8034ed30220	ntoskrnl	NtSetLowWaitHighEventPair
+423	0xf8034ed30220	ntoskrnl	NtVdmControl
+423	0xf8034ed30220	ntoskrnl	NtWaitHighEventPair
+423	0xf8034ed30220	ntoskrnl	NtWaitLowEventPair
+423	0xf8034ed30220	ntoskrnl	PsNotifyWriteToExecutableMemory
+423	0xf8034ed30220	ntoskrnl	SeAdjustObjectSecurity
+423	0xf8034ed30220	ntoskrnl	xHalIommuMapDevice
+423	0xf8034ed30220	ntoskrnl	xHalLoadMicrocode
+423	0xf8034ed30220	ntoskrnl	xHalPostMicrocodeUpdate
+423	0xf8034ed30220	ntoskrnl	xHalUnloadMicrocode
+424	0xf8034eea2a00	ntoskrnl	NtSetQuotaInformationFile
+425	0xf8034ed05cd0	ntoskrnl	NtSetSecurityObject
+426	0xf8034ef619f0	ntoskrnl	NtSetSystemEnvironmentValue
+427	0xf8034ef61d10	ntoskrnl	NtSetSystemEnvironmentValueEx
+428	0xf8034ec92200	ntoskrnl	NtSetSystemInformation
+429	0xf8034efa5f40	ntoskrnl	NtSetSystemPowerState
+430	0xf8034ef583c0	ntoskrnl	NtSetSystemTime
+431	0xf8034ed02ed0	ntoskrnl	NtSetThreadExecutionState
+432	0xf8034e8b9670	ntoskrnl	NtSetTimer2
+433	0xf8034e8c9650	ntoskrnl	NtSetTimerEx
+434	0xf8034ed19d50	ntoskrnl	NtSetTimerResolution
+435	0xf8034edd0e10	ntoskrnl	NtSetUuidSeed
+436	0xf8034ed76e90	ntoskrnl	NtSetVolumeInformationFile
+437	0xf8034ed14210	ntoskrnl	NtSetWnfProcessNotificationEvent
+438	0xf8034ebbce30	ntoskrnl	NtShutdownSystem
+439	0xf8034e966780	ntoskrnl	NtShutdownWorkerFactory
+440	0xf8034eb6eed0	ntoskrnl	NtSignalAndWaitForSingleObject
+441	0xf8034e9dac50	ntoskrnl	NtSinglePhaseReject
+442	0xf8034ef673d0	ntoskrnl	NtStartProfile
+443	0xf8034ef67640	ntoskrnl	NtStopProfile
+444	0xf8034ebf9820	ntoskrnl	NtSubscribeWnfStateChange
+445	0xf8034ef18e80	ntoskrnl	NtSuspendProcess
+446	0xf8034ecb6da0	ntoskrnl	NtSuspendThread
+447	0xf8034edd9500	ntoskrnl	NtSystemDebugControl
+448	0xf8034eee11d0	ntoskrnl	NtTerminateEnclave
+449	0xf8034ed20f80	ntoskrnl	NtTerminateJobObject
+450	0xf8034ed15bc0	ntoskrnl	NtTestAlert
+451	0xf8034ee76240	ntoskrnl	NtThawRegistry
+452	0xf8034e9da7b0	ntoskrnl	NtThawTransactions
+453	0xf8034ec178d0	ntoskrnl	NtTraceControl
+454	0xf8034ef61fc0	ntoskrnl	NtTranslateFilePath
+455	0xf8034eeca490	ntoskrnl	NtUmsThreadYield
+456	0xf8034eea7a00	ntoskrnl	NtUnloadDriver
+457	0xf8034eceb870	ntoskrnl	NtUnloadKey
+458	0xf8034ed7d6c0	ntoskrnl	NtUnloadKey2
+459	0xf8034ecebb90	ntoskrnl	NtUnloadKeyEx
+460	0xf8034ecfd900	ntoskrnl	NtUnlockFile
+461	0xf8034e88a660	ntoskrnl	NtUnlockVirtualMemory
+462	0xf8034ec99d00	ntoskrnl	NtUnmapViewOfSectionEx
+463	0xf8034ebfc3e0	ntoskrnl	NtUnsubscribeWnfStateChange
+464	0xf8034ebf93a0	ntoskrnl	NtUpdateWnfStateData
+465	0xf8034ed30220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+465	0xf8034ed30220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+465	0xf8034ed30220	ntoskrnl	NtCreateEventPair
+465	0xf8034ed30220	ntoskrnl	NtDirectGraphicsCall
+465	0xf8034ed30220	ntoskrnl	NtFilterTokenEx
+465	0xf8034ed30220	ntoskrnl	NtOpenEventPair
+465	0xf8034ed30220	ntoskrnl	NtSetHighEventPair
+465	0xf8034ed30220	ntoskrnl	NtSetHighWaitLowEventPair
+465	0xf8034ed30220	ntoskrnl	NtSetLowEventPair
+465	0xf8034ed30220	ntoskrnl	NtSetLowWaitHighEventPair
+465	0xf8034ed30220	ntoskrnl	NtVdmControl
+465	0xf8034ed30220	ntoskrnl	NtWaitHighEventPair
+465	0xf8034ed30220	ntoskrnl	NtWaitLowEventPair
+465	0xf8034ed30220	ntoskrnl	PsNotifyWriteToExecutableMemory
+465	0xf8034ed30220	ntoskrnl	SeAdjustObjectSecurity
+465	0xf8034ed30220	ntoskrnl	xHalIommuMapDevice
+465	0xf8034ed30220	ntoskrnl	xHalLoadMicrocode
+465	0xf8034ed30220	ntoskrnl	xHalPostMicrocodeUpdate
+465	0xf8034ed30220	ntoskrnl	xHalUnloadMicrocode
+466	0xf8034ec95d60	ntoskrnl	NtWaitForAlertByThreadId
+467	0xf8034ee92c00	ntoskrnl	NtWaitForDebugEvent
+468	0xf8034ef67c00	ntoskrnl	NtWaitForKeyedEvent
+469	0xf8034e820560	ntoskrnl	NtWaitForWorkViaWorkerFactory
+470	0xf8034ed30220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+470	0xf8034ed30220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+470	0xf8034ed30220	ntoskrnl	NtCreateEventPair
+470	0xf8034ed30220	ntoskrnl	NtDirectGraphicsCall
+470	0xf8034ed30220	ntoskrnl	NtFilterTokenEx
+470	0xf8034ed30220	ntoskrnl	NtOpenEventPair
+470	0xf8034ed30220	ntoskrnl	NtSetHighEventPair
+470	0xf8034ed30220	ntoskrnl	NtSetHighWaitLowEventPair
+470	0xf8034ed30220	ntoskrnl	NtSetLowEventPair
+470	0xf8034ed30220	ntoskrnl	NtSetLowWaitHighEventPair
+470	0xf8034ed30220	ntoskrnl	NtVdmControl
+470	0xf8034ed30220	ntoskrnl	NtWaitHighEventPair
+470	0xf8034ed30220	ntoskrnl	NtWaitLowEventPair
+470	0xf8034ed30220	ntoskrnl	PsNotifyWriteToExecutableMemory
+470	0xf8034ed30220	ntoskrnl	SeAdjustObjectSecurity
+470	0xf8034ed30220	ntoskrnl	xHalIommuMapDevice
+470	0xf8034ed30220	ntoskrnl	xHalLoadMicrocode
+470	0xf8034ed30220	ntoskrnl	xHalPostMicrocodeUpdate
+470	0xf8034ed30220	ntoskrnl	xHalUnloadMicrocode
+471	0xf8034ebd73b0	ntoskrnl	NtLoadKey3
+472	0xf8034ed30220	ntoskrnl	?GetPnpProperty@NT_DISK@@UEAAJPEAXPEAPEAX@Z
+472	0xf8034ed30220	ntoskrnl	NtAdjustTokenClaimsAndDeviceGroups
+472	0xf8034ed30220	ntoskrnl	NtCreateEventPair
+472	0xf8034ed30220	ntoskrnl	NtDirectGraphicsCall
+472	0xf8034ed30220	ntoskrnl	NtFilterTokenEx
+472	0xf8034ed30220	ntoskrnl	NtOpenEventPair
+472	0xf8034ed30220	ntoskrnl	NtSetHighEventPair
+472	0xf8034ed30220	ntoskrnl	NtSetHighWaitLowEventPair
+472	0xf8034ed30220	ntoskrnl	NtSetLowEventPair
+472	0xf8034ed30220	ntoskrnl	NtSetLowWaitHighEventPair
+472	0xf8034ed30220	ntoskrnl	NtVdmControl
+472	0xf8034ed30220	ntoskrnl	NtWaitHighEventPair
+472	0xf8034ed30220	ntoskrnl	NtWaitLowEventPair
+472	0xf8034ed30220	ntoskrnl	PsNotifyWriteToExecutableMemory
+472	0xf8034ed30220	ntoskrnl	SeAdjustObjectSecurity
+472	0xf8034ed30220	ntoskrnl	xHalIommuMapDevice
+472	0xf8034ed30220	ntoskrnl	xHalLoadMicrocode
+472	0xf8034ed30220	ntoskrnl	xHalPostMicrocodeUpdate
+472	0xf8034ed30220	ntoskrnl	xHalUnloadMicrocode

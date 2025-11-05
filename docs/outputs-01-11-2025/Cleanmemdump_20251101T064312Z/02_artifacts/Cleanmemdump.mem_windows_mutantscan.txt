@@ -1,0 +1,408 @@
+Progress:    0.00		Scanning FileLayer using PageMapScannerProgress:   23.33		Scanning FileLayer using PageMapScannerProgress:  100.00		Stacking attempts finished             Progress:    0.00		Scanning memory_layer using BytesScannerProgress:    0.78		Scanning memory_layer using BytesScannerProgress:    1.56		Scanning memory_layer using BytesScannerProgress:    2.34		Scanning memory_layer using BytesScannerProgress:    3.13		Scanning memory_layer using BytesScannerProgress:    3.91		Scanning memory_layer using BytesScannerProgress:    4.69		Scanning memory_layer using BytesScannerProgress:    5.47		Scanning memory_layer using BytesScannerProgress:    6.25		Scanning memory_layer using BytesScannerProgress:    7.03		Scanning memory_layer using BytesScannerProgress:    7.81		Scanning memory_layer using BytesScannerProgress:    8.59		Scanning memory_layer using BytesScannerProgress:    9.38		Scanning memory_layer using BytesScannerProgress:   10.16		Scanning memory_layer using BytesScannerProgress:   10.94		Scanning memory_layer using BytesScannerProgress:   11.72		Scanning memory_layer using BytesScannerProgress:   12.50		Scanning memory_layer using BytesScannerProgress:   13.28		Scanning memory_layer using BytesScannerProgress:   14.06		Scanning memory_layer using BytesScannerProgress:   14.84		Scanning memory_layer using BytesScannerProgress:   15.63		Scanning memory_layer using BytesScannerProgress:   16.41		Scanning memory_layer using BytesScannerProgress:   17.19		Scanning memory_layer using BytesScannerProgress:   17.97		Scanning memory_layer using BytesScannerProgress:   18.75		Scanning memory_layer using BytesScannerProgress:   19.53		Scanning memory_layer using BytesScannerProgress:   20.31		Scanning memory_layer using BytesScannerProgress:   21.09		Scanning memory_layer using BytesScannerProgress:   21.88		Scanning memory_layer using BytesScannerProgress:   22.66		Scanning memory_layer using BytesScannerProgress:   23.44		Scanning memory_layer using BytesScannerProgress:   24.22		Scanning memory_layer using BytesScannerProgress:   25.00		Scanning memory_layer using BytesScannerProgress:   25.78		Scanning memory_layer using BytesScannerProgress:   26.56		Scanning memory_layer using BytesScannerProgress:   27.34		Scanning memory_layer using BytesScannerProgress:   28.13		Scanning memory_layer using BytesScannerProgress:   28.91		Scanning memory_layer using BytesScannerProgress:   29.69		Scanning memory_layer using BytesScannerProgress:   30.47		Scanning memory_layer using BytesScannerProgress:   31.25		Scanning memory_layer using BytesScannerProgress:   32.03		Scanning memory_layer using BytesScannerProgress:   32.81		Scanning memory_layer using BytesScannerProgress:   33.59		Scanning memory_layer using BytesScannerProgress:   34.38		Scanning memory_layer using BytesScannerProgress:   35.16		Scanning memory_layer using BytesScannerProgress:   35.94		Scanning memory_layer using BytesScannerProgress:   36.72		Scanning memory_layer using BytesScannerProgress:   37.50		Scanning memory_layer using BytesScannerProgress:   38.28		Scanning memory_layer using BytesScannerProgress:   39.06		Scanning memory_layer using BytesScannerProgress:   39.85		Scanning memory_layer using BytesScannerProgress:   40.63		Scanning memory_layer using BytesScannerProgress:   41.41		Scanning memory_layer using BytesScannerProgress:   42.19		Scanning memory_layer using BytesScannerProgress:   42.97		Scanning memory_layer using BytesScannerProgress:   43.75		Scanning memory_layer using BytesScannerProgress:   44.53		Scanning memory_layer using BytesScannerProgress:   45.31		Scanning memory_layer using BytesScannerProgress:   46.10		Scanning memory_layer using BytesScannerProgress:   46.88		Scanning memory_layer using BytesScannerProgress:   47.66		Scanning memory_layer using BytesScannerProgress:   48.44		Scanning memory_layer using BytesScannerProgress:   49.22		Scanning memory_layer using BytesScannerProgress:   50.00		Scanning memory_layer using BytesScannerProgress:   50.78		Scanning memory_layer using BytesScannerProgress:   51.56		Scanning memory_layer using BytesScannerProgress:   52.35		Scanning memory_layer using BytesScannerProgress:   53.13		Scanning memory_layer using BytesScannerProgress:   53.91		Scanning memory_layer using BytesScannerProgress:   54.69		Scanning memory_layer using BytesScannerProgress:   55.47		Scanning memory_layer using BytesScannerProgress:   56.25		Scanning memory_layer using BytesScannerProgress:   57.03		Scanning memory_layer using BytesScannerProgress:   57.81		Scanning memory_layer using BytesScannerProgress:   58.60		Scanning memory_layer using BytesScannerProgress:   59.38		Scanning memory_layer using BytesScannerProgress:   60.16		Scanning memory_layer using BytesScannerProgress:   60.94		Scanning memory_layer using BytesScannerProgress:   61.72		Scanning memory_layer using BytesScannerProgress:   62.50		Scanning memory_layer using BytesScannerProgress:   63.28		Scanning memory_layer using BytesScannerProgress:   64.06		Scanning memory_layer using BytesScannerProgress:   64.85		Scanning memory_layer using BytesScannerProgress:   65.63		Scanning memory_layer using BytesScannerProgress:   66.41		Scanning memory_layer using BytesScannerProgress:   67.19		Scanning memory_layer using BytesScannerProgress:   67.97		Scanning memory_layer using BytesScannerProgress:   68.75		Scanning memory_layer using BytesScannerProgress:   69.53		Scanning memory_layer using BytesScannerProgress:   70.31		Scanning memory_layer using BytesScannerProgress:   71.10		Scanning memory_layer using BytesScannerProgress:   71.88		Scanning memory_layer using BytesScannerProgress:   72.66		Scanning memory_layer using BytesScannerProgress:   73.44		Scanning memory_layer using BytesScannerProgress:   74.22		Scanning memory_layer using BytesScannerProgress:   75.00		Scanning memory_layer using BytesScannerProgress:   75.78		Scanning memory_layer using BytesScannerProgress:   76.57		Scanning memory_layer using BytesScannerProgress:   77.35		Scanning memory_layer using BytesScannerProgress:   78.13		Scanning memory_layer using BytesScannerProgress:   78.91		Scanning memory_layer using BytesScannerProgress:   79.69		Scanning memory_layer using BytesScannerProgress:   80.47		Scanning memory_layer using BytesScannerProgress:   81.25		Scanning memory_layer using BytesScannerProgress:   82.03		Scanning memory_layer using BytesScannerProgress:   82.82		Scanning memory_layer using BytesScannerProgress:   83.60		Scanning memory_layer using BytesScannerProgress:   84.38		Scanning memory_layer using BytesScannerProgress:   85.16		Scanning memory_layer using BytesScannerProgress:   85.94		Scanning memory_layer using BytesScannerProgress:   86.72		Scanning memory_layer using BytesScannerProgress:   87.50		Scanning memory_layer using BytesScannerProgress:   88.28		Scanning memory_layer using BytesScannerProgress:   89.07		Scanning memory_layer using BytesScannerProgress:   89.85		Scanning memory_layer using BytesScannerProgress:   90.63		Scanning memory_layer using BytesScannerProgress:   91.41		Scanning memory_layer using BytesScannerProgress:   92.19		Scanning memory_layer using BytesScannerProgress:   92.97		Scanning memory_layer using BytesScannerProgress:   93.75		Scanning memory_layer using BytesScannerProgress:   94.53		Scanning memory_layer using BytesScannerProgress:   95.32		Scanning memory_layer using BytesScannerProgress:   96.10		Scanning memory_layer using BytesScannerProgress:   96.88		Scanning memory_layer using BytesScannerProgress:   97.66		Scanning memory_layer using BytesScannerProgress:   98.44		Scanning memory_layer using BytesScannerProgress:   99.22		Scanning memory_layer using BytesScannerProgress:    0.00		Scanning memory_layer using BytesScannerProgress:    0.78		Scanning memory_layer using BytesScannerProgress:    1.56		Scanning memory_layer using BytesScannerProgress:    2.34		Scanning memory_layer using BytesScannerProgress:    3.13		Scanning memory_layer using BytesScannerProgress:    3.91		Scanning memory_layer using BytesScannerProgress:    4.69		Scanning memory_layer using BytesScannerProgress:    5.47		Scanning memory_layer using BytesScannerProgress:    6.25		Scanning memory_layer using BytesScannerProgress:    7.03		Scanning memory_layer using BytesScannerProgress:    7.81		Scanning memory_layer using BytesScannerProgress:    8.59		Scanning memory_layer using BytesScannerProgress:    9.38		Scanning memory_layer using BytesScannerProgress:   10.16		Scanning memory_layer using BytesScannerProgress:   10.94		Scanning memory_layer using BytesScannerProgress:   11.72		Scanning memory_layer using BytesScannerProgress:   12.50		Scanning memory_layer using BytesScannerProgress:   13.28		Scanning memory_layer using BytesScannerProgress:   14.06		Scanning memory_layer using BytesScannerProgress:   14.84		Scanning memory_layer using BytesScannerProgress:   15.63		Scanning memory_layer using BytesScannerProgress:   16.41		Scanning memory_layer using BytesScannerProgress:   17.19		Scanning memory_layer using BytesScannerProgress:   17.97		Scanning memory_layer using BytesScannerProgress:   18.75		Scanning memory_layer using BytesScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:    0.00		Scanning layer_name using PdbSignatureScannerProgress:   32.62		Scanning layer_name using PdbSignatureScannerProgress:  100.00		PDB scanning finished                        Volatility 3 Framework 2.27.0
+
+Offset	Name
+
+0xb78a9eaa91e0	BcdSyncMutant
+0xb78aa062b320	N/A
+0xb78aa0643a90	SM0:5644:304:WilStaging_02
+0xb78aa0643b50	SM0:5644:120:WilError_03
+0xb78aa0643c10	SM0:5636:304:WilStaging_02
+0xb78aa0645350	SM0:5848:304:WilStaging_02
+0xb78aa06454d0	\Windows\System32\amsiprox
+0xb78aa0645a10	SM0:5636:120:WilError_03
+0xb78aa0645ad0	SM0:5760:304:WilStaging_02
+0xb78aa0646250	SessionImmersiveColorMutex
+0xb78aa06b0f00	N/A
+0xb78aa0d5f1b0	SM0:1060:304:WilStaging_02
+0xb78aa0d5f3f0	SM0:1988:304:WilStaging_02
+0xb78aa0d5fc30	SM0:868:304:WilStaging_02
+0xb78aa0d5ff30	SM0:1160:304:WilStaging_02
+0xb78aa0d60bf0	SM0:1376:304:WilStaging_02
+0xb78aa0d61c70	SM0:1388:304:WilStaging_02
+0xb78aa0d65870	SM0:2084:304:WilStaging_02
+0xb78aa0d662f0	SM0:1060:120:WilError_03
+0xb78aa0e9c510	PendingRenameMutex
+0xb78aa3089350	SM0:412:304:WilStaging_02
+0xb78aa3089710	SM0:488:304:WilStaging_02
+0xb78aa3089d10	SM0:480:304:WilStaging_02
+0xb78aa30acb10	SM0:580:304:WilStaging_02
+0xb78aa30ad350	SM0:548:304:WilStaging_02
+0xb78aa30ad950	SM0:572:304:WilStaging_02
+0xb78aa4eaee10	N/A
+0xb78aa4f26190	SM0:700:304:WilStaging_02
+0xb78aa4f26250	SM0:548:120:WilError_03
+0xb78aa4f26310	SM0:716:304:WilStaging_02
+0xb78aa4f26490	SM0:480:120:WilError_03
+0xb78aa4f26d90	SM0:708:304:WilStaging_02
+0xb78aa560ca00	N/A
+0xb78aa560caa0	N/A
+0xb78aa560db70	N/A
+0xb78aa560db80	N/A
+0xb78aa564aae0	N/A
+0xb78aa564b4b0	SM0:796:304:WilStaging_02
+0xb78aa564b9f0	SM0:716:120:WilError_03
+0xb78aa564c830	{A3BD3259-3E4F-428a-84C8-F0463A9D3EB5}
+0xb78aa564d370	SM0:884:304:WilStaging_02
+0xb78aa564e930	SessionImmersiveColorMutex
+0xb78aa564ecf0	SM0:980:304:WilStaging_02
+0xb78aa564edb0	SM0:1004:304:WilStaging_02
+0xb78aa564ee40	N/A
+0xb78aa564ee70	SM0:1012:304:WilStaging_02
+0xb78aa56504f0	SM0:884:120:WilError_03
+0xb78aa5651630	SM0:692:304:WilStaging_02
+0xb78aa56516f0	SM0:940:304:WilStaging_02
+0xb78aa56c86e0	N/A
+0xb78aa56c92c0	N/A
+0xb78aa56ca3a0	N/A
+0xb78aa5765ce0	N/A
+0xb78aa5765ec0	N/A
+0xb78aa57665a0	N/A
+0xb78aa5767e00	N/A
+0xb78aa57695c0	N/A
+0xb78aa57dbd80	N/A
+0xb78aa57dc280	N/A
+0xb78aa57df160	N/A
+0xb78aa5824ef0	DBWinMutex
+0xb78aa5825130	SM0:1004:120:WilError_03
+0xb78aa5826c30	SM0:1144:304:WilStaging_02
+0xb78aa58272f0	SM0:1184:304:WilStaging_02
+0xb78aa5827470	SM0:1184:120:WilError_03
+0xb78aa5827bf0	SM0:940:120:WilError_03
+0xb78aa5828370	DBWinMutex
+0xb78aa5828730	SM0:1240:304:WilStaging_02
+0xb78aa5828c70	SM0:1288:304:WilStaging_02
+0xb78aa5828d30	VBoxService
+0xb78aa5829570	SM0:692:120:WilError_03
+0xb78aa5875760	N/A
+0xb78aa5875a80	N/A
+0xb78aa5875bc0	N/A
+0xb78aa58ba260	N/A
+0xb78aa58baf80	N/A
+0xb78aa58bf260	N/A
+0xb78aa58bf760	N/A
+0xb78aa58bf8a0	N/A
+0xb78aa58bf9e0	N/A
+0xb78aa58c0a20	N/A
+0xb78aa58c0b60	N/A
+0xb78aa58c1740	N/A
+0xb78aa58c2280	N/A
+0xb78aa58c2820	N/A
+0xb78aa58c2c80	N/A
+0xb78aa58c2d20	N/A
+0xb78aa58c2f00	N/A
+0xb78aa58c2fa0	N/A
+0xb78aa58c3ae0	N/A
+0xb78aa58c3b80	N/A
+0xb78aa58c3cc0	N/A
+0xb78aa58c3f40	N/A
+0xb78aa58c6f60	N/A
+0xb78aa58c70a0	N/A
+0xb78aa58c7500	N/A
+0xb78aa59460b0	SM0:1520:304:WilStaging_02
+0xb78aa5946770	AudioResourceAcquisitionMutex
+0xb78aa5946830	SM0:1520:120:WilError_03
+0xb78aa5946b30	SM0:1612:304:WilStaging_02
+0xb78aa5946e30	SM0:1716:304:WilStaging_02
+0xb78aa5946ef0	SM0:1724:304:WilStaging_02
+0xb78aa5946fb0	SM0:1612:120:WilError_03
+0xb78aa5947670	SM0:1604:304:WilStaging_02
+0xb78aa5949770	SM0:1768:304:WilStaging_02
+0xb78aa59bc2a0	N/A
+0xb78aa59bc480	N/A
+0xb78aa59c3140	N/A
+0xb78aa59c7920	N/A
+0xb78aa59c79c0	N/A
+0xb78aa5acf960	N/A
+0xb78aa5acfaa0	N/A
+0xb78aa5ad3920	N/A
+0xb78aa5ad4c80	N/A
+0xb78aa5ad4fa0	N/A
+0xb78aa5ad5220	N/A
+0xb78aa5ad6120	N/A
+0xb78aa5ad6260	N/A
+0xb78aa5ad6300	N/A
+0xb78aa5ad6440	N/A
+0xb78aa5ad64e0	N/A
+0xb78aa5ad6940	N/A
+0xb78aa5ad69e0	N/A
+0xb78aa5ad6d00	N/A
+0xb78aa5ad6f80	N/A
+0xb78aa5ad7480	N/A
+0xb78aa5ad7980	N/A
+0xb78aa5ad8240	N/A
+0xb78aa5ad8920	N/A
+0xb78aa5ad8f60	N/A
+0xb78aa5ad9460	N/A
+0xb78aa5ad9780	N/A
+0xb78aa5ad9b40	N/A
+0xb78aa5ad9be0	N/A
+0xb78aa5ad9c80	N/A
+0xb78aa5ada180	N/A
+0xb78aa5adaea0	N/A
+0xb78aa5adb4e0	N/A
+0xb78aa5adbb20	N/A
+0xb78aa5adbbc0	N/A
+0xb78aa5bc8d30	com.apple.asl_asl.log_filename_LOCAL SERVICE
+0xb78aa5bc9330	SM0:1388:120:WilError_03
+0xb78aa5bcae30	SM0:2304:304:WilStaging_02
+0xb78aa5bcb130	SM0:2312:304:WilStaging_02
+0xb78aa5bcb670	SearchServiceMUT
+0xb78aa5bcbbb0	SM0:1376:120:WilError_03
+0xb78aa5bcbc70	SM0:2312:120:WilError_03
+0xb78aa5bcd230	EdgeUpdate{09E661D0-A0CE-4051-BB50-E021BA16FBFC}
+0xb78aa5bcf0f0	SM0:980:120:WilError_03
+0xb78aa5bd0d70	Instance0:  ESENT Performance Data Schema Version 295
+0xb78aa5bd1970	WindowsSearchService_EfsRegKeysMutex
+0xb78aa5bd9760	N/A
+0xb78aa5bd9bc0	N/A
+0xb78aa5bd9c60	N/A
+0xb78aa5bdbc40	N/A
+0xb78aa5be3120	N/A
+0xb78aa5be3c60	N/A
+0xb78aa5ca3c40	N/A
+0xb78aa5ca3ce0	N/A
+0xb78aa5ca43c0	N/A
+0xb78aa5ca4a00	N/A
+0xb78aa5ca4c80	N/A
+0xb78aa5ca87e0	N/A
+0xb78aa5ca9500	N/A
+0xb78aa5ca9dc0	N/A
+0xb78aa5cae6e0	N/A
+0xb78aa5cb0440	N/A
+0xb78aa5cb1200	N/A
+0xb78aa5cb1340	N/A
+0xb78aa5cb18e0	N/A
+0xb78aa5cb2060	N/A
+0xb78aa5cb8aa0	N/A
+0xb78aa5cba080	N/A
+0xb78aa5cba9e0	N/A
+0xb78aa5cbb340	N/A
+0xb78aa5cbc4c0	N/A
+0xb78aa5cbc740	N/A
+0xb78aa5cbe180	N/A
+0xb78aa5cbe5e0	N/A
+0xb78aa5d07470	SM0:2776:304:WilStaging_02
+0xb78aa5d0ba30	SM0:2956:304:WilStaging_02
+0xb78aa5d0c930	ZonesLockedCacheCounterMutex
+0xb78aa5d0d0b0	SM0:796:120:WilError_03
+0xb78aa5d0d170	SM0:2968:304:WilStaging_02
+0xb78aa5d0d9b0	SM0:2956:120:WilError_03
+0xb78aa5d0da70	ZonesCacheCounterMutex
+0xb78aa5d0dad0	N/A
+0xb78aa5d0ed30	SM0:2648:304:WilStaging_02
+0xb78aa5d0f1b0	SM0:1660:304:WilStaging_02
+0xb78aa5d0fcf0	_Microsoft_EdgeUpdate_logging_mutex_C:ProgramDataMicrosoftEdgeUpdateLogMicrosoftEdgeUpdate.log
+0xb78aa5d10170	SM0:2936:168:WilStaging_02
+0xb78aa5d10b30	SM0:2968:120:WilError_03
+0xb78aa5dac8c0	N/A
+0xb78aa5dacaa0	N/A
+0xb78aa5dace60	N/A
+0xb78aa5db10a0	N/A
+0xb78aa5db2ae0	N/A
+0xb78aa5db2ea0	N/A
+0xb78aa5db39e0	N/A
+0xb78aa5db4480	N/A
+0xb78aa5db4ac0	N/A
+0xb78aa5db4b60	N/A
+0xb78aa5db5240	N/A
+0xb78aa5db9840	N/A
+0xb78aa5dbbbe0	N/A
+0xb78aa5dbc7c0	N/A
+0xb78aa5dc0280	N/A
+0xb78aa5dc2300	N/A
+0xb78aa5dc3ca0	N/A
+0xb78aa5dc6e00	N/A
+0xb78aa5dca0a0	N/A
+0xb78aa5dca5a0	N/A
+0xb78aa5dca640	N/A
+0xb78aa5dcaf00	N/A
+0xb78aa5f95670	SM0:2664:304:WilStaging_02
+0xb78aa6070570	Installing
+0xb78aa60710b0	SM0:3216:304:WilStaging_02
+0xb78aa60755b0	SM0:1724:120:WilError_03
+0xb78aa6075bb0	SM0:3216:120:WilError_03
+0xb78aa60761b0	CDPUserSvc_Ready_db7a3b24-68b7-4c2e-8335-533dd99ee0f6_S-1-5-21-2404055049-1604330850-3828681742-1000
+0xb78aa60781f0	SM0:3472:304:WilStaging_02
+0xb78aa6078a30	MSCTF.CtfWatchdogInstMutex1
+0xb78aa6078c70	MSCTF.CtfMonitorInstMutexDefault1
+0xb78aa6079870	CicLoadWinStaWinSta0
+0xb78aa6079cf0	MSCTF.CtfServerMutexDefault1
+0xb78aa607a8f0	InputServiceHostMutex
+0xb78aa6234920	N/A
+0xb78aa62351e0	N/A
+0xb78aa6236f40	N/A
+0xb78aa6238160	N/A
+0xb78aa6239880	N/A
+0xb78aa623e920	N/A
+0xb78aa6244820	N/A
+0xb78aa6245860	N/A
+0xb78aa6249460	N/A
+0xb78aa624e460	N/A
+0xb78aa6250260	N/A
+0xb78aa62503a0	N/A
+0xb78aa62504e0	N/A
+0xb78aa6250ee0	N/A
+0xb78aa6250f80	N/A
+0xb78aa6251ac0	N/A
+0xb78aa63370b0	SM0:3544:304:WilStaging_02
+0xb78aa63379b0	SM0:3472:120:WilError_03
+0xb78aa63399f0	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:iconcache_16.db!dfMaintainer
+0xb78aa6339ab0	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:thumbcache_16.db!dfMaintainer
+0xb78aa6339f30	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:thumbcache_idx.db!rwWriterMutex
+0xb78aa633a0b0	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:thumbcache_96.db!dfMaintainer
+0xb78aa633a170	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:thumbcache_768.db!dfMaintainer
+0xb78aa633a230	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:thumbcache_256.db!dfMaintainer
+0xb78aa633a2f0	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:thumbcache_sr.db!dfMaintainer
+0xb78aa633a3b0	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:thumbcache_exif.db!dfMaintainer
+0xb78aa633a470	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:thumbcache_wide_alternate.db!dfMaintainer
+0xb78aa633a530	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:thumbcache_2560.db!dfMaintainer
+0xb78aa633a5f0	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:thumbcache_custom_stream.db!dfMaintainer
+0xb78aa633a6b0	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:thumbcache_idx.db!ThumbnailCacheInit
+0xb78aa633a830	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:thumbcache_48.db!dfMaintainer
+0xb78aa633a9b0	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:thumbcache_32.db!dfMaintainer
+0xb78aa633acb0	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:thumbcache_1280.db!dfMaintainer
+0xb78aa633ad70	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:thumbcache_1920.db!dfMaintainer
+0xb78aa633ae30	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:thumbcache_wide.db!dfMaintainer
+0xb78aa633afb0	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:iconcache_idx.db!rwWriterMutex
+0xb78aa633b130	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:iconcache_32.db!dfMaintainer
+0xb78aa633b370	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:iconcache_1920.db!dfMaintainer
+0xb78aa633b430	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:iconcache_96.db!dfMaintainer
+0xb78aa633b4f0	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:iconcache_sr.db!dfMaintainer
+0xb78aa633b5b0	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:iconcache_exif.db!dfMaintainer
+0xb78aa633b7f0	ZonesCacheCounterMutex
+0xb78aa633baf0	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:iconcache_1280.db!dfMaintainer
+0xb78aa633bd30	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:iconcache_256.db!dfMaintainer
+0xb78aa633bdf0	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:iconcache_custom_stream.db!dfMaintainer
+0xb78aa633beb0	MSCTF.Asm.MutexDefault1
+0xb78aa633c1b0	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:iconcache_48.db!dfMaintainer
+0xb78aa633c330	ZonesLockedCacheCounterMutex
+0xb78aa633c570	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:iconcache_wide_alternate.db!dfMaintainer
+0xb78aa633c630	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:iconcache_wide.db!dfMaintainer
+0xb78aa633c6f0	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:iconcache_idx.db!IconCacheInit
+0xb78aa633c7b0	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:iconcache_768.db!dfMaintainer
+0xb78aa633c870	C::Users:windows10_user:AppData:Local:Microsoft:Windows:Explorer:iconcache_2560.db!dfMaintainer
+0xb78aa633e700	N/A
+0xb78aa633e730	AccessibilitySoundAgentRunning
+0xb78aa633f3f0	SM0:3544:120:WilError_03
+0xb78aa6341d30	SignalManager_RegistrationCacheMutex
+0xb78aa63432f0	SM0:3744:304:WilStaging_02
+0xb78aa63433b0	SM0:3744:120:WilError_03
+0xb78aa643c1a0	SM0:3844:120:WilError_03
+0xb78aa643c9e0	SessionImmersiveColorMutex
+0xb78aa643cce0	SM0:3844:304:WilStaging_02
+0xb78aa643d460	SM0:3940:304:WilStaging_02
+0xb78aa643e1e0	SM0:2648:120:WilError_03
+0xb78aa643e960	DBWinMutex
+0xb78aa643f1a0	SM0:4080:304:WilStaging_02
+0xb78aa64405e0	SM0:724:304:WilStaging_02
+0xb78aa6440a60	SessionImmersiveColorMutex
+0xb78aa6440d60	ZonesLockedCacheCounterMutex
+0xb78aa6441c60	SM0:3940:120:WilError_03
+0xb78aa6441ea0	ZonesCacheCounterMutex
+0xb78aa64420e0	SM0:4080:120:WilError_03
+0xb78aa64421a0	SM0:4296:304:WilStaging_02
+0xb78aa6448c20	Lowhttps://www.bing.com/
+0xb78aa64490a0	LowInternetExplorerDOMStoreQuota
+0xb78aa644ca60	SM0:4296:120:WilError_03
+0xb78aa644e320	SM0:2664:120:WilError_03
+0xb78aa644fb20	SM0:724:120:WilError_03
+0xb78aa6452820	_SHuassist.mtx
+0xb78aa645aaa0	SM0:1716:120:WilError_03
+0xb78aa6523600	N/A
+0xb78aa6523ba0	N/A
+0xb78aa6524d20	N/A
+0xb78aa65263a0	N/A
+0xb78aa652a360	N/A
+0xb78aa652f540	N/A
+0xb78aa6532420	N/A
+0xb78aa6533e60	N/A
+0xb78aa6535bc0	N/A
+0xb78aa653c7e0	N/A
+0xb78aa653de60	N/A
+0xb78aa653f080	N/A
+0xb78aa653f300	N/A
+0xb78aa6887390	N/A
+0xb78aa68880b0	N/A
+0xb78aa6889910	N/A
+0xb78aa688dbe0	N/A
+0xb78aa688dbf0	N/A
+0xb78aa688e370	N/A
+0xb78aa68925b0	N/A
+0xb78aa6892650	N/A
+0xb78aa68946d0	N/A
+0xb78aa68948b0	N/A
+0xb78aa6896570	N/A
+0xb78aa6897fb0	N/A
+0xb78aa68a0b10	N/A
+0xb78aa68a1ab0	N/A
+0xb78aa68a2cd0	N/A
+0xb78aa68abb50	N/A
+0xb78aa68abe70	N/A
+0xb78aa68ac870	N/A
+0xb78aa68af750	N/A
+0xb78aa68b50b0	N/A
+0xb78aa68b55b0	N/A
+0xb78aa68beed0	N/A
+0xb78aa6920760	N/A
+0xb78aa6920a80	N/A
+0xb78aa6920e40	N/A
+0xb78aa69213e0	N/A
+0xb78aa6921480	N/A
+0xb78aa6921520	N/A
+0xb78aa6921f20	N/A
+0xb78aa6922100	N/A
+0xb78aa69272e0	N/A
+0xb78aa6927380	N/A
+0xb78aa69274c0	N/A
+0xb78aa69277e0	N/A
+0xb78aa6927b00	N/A
+0xb78aa6927ba0	N/A
+0xb78aa6927e20	N/A
+0xb78aa692bde0	N/A
+0xb78aa692d820	N/A
+0xb78aa6930c00	N/A
+0xb78aa6932d20	N/A
+0xb78aa6932e60	N/A
+0xb78aa6934440	N/A
+0xb78aa69389a0	N/A
+0xb78aa6938b80	N/A
+0xb78aa6938e00	N/A
+0xb78aa6939080	N/A
+0xb78aa6939440	N/A
+0xb78aa6939b20	N/A
+0xb78aa693a200	N/A
+0xb78aa693a2a0	N/A
+0xb78aa693a340	N/A
+0xb78aa693a3e0	N/A
+0xb78aa693a660	N/A
+0xb78aa693a7a0	N/A
+0xb78aa693b060	N/A
+0xb78aa693eb00	N/A
+0xb78aa693f5e0	SM0:2612:304:WilStaging_02
+0xb78aa6940a20	Instance1:  ESENT Performance Data Schema Version 295
+0xb78aa6940a80	N/A
+0xb78aa6940de0	SM0:4140:304:WilStaging_02
+0xb78aa69420a0	SM0:4140:120:WilError_03
+0xb78aa6944b60	Microsoft-Windows-Safety-SmartScreen
+0xb78aa6944e60	SM0:4732:304:WilStaging_02
+0xb78aa69453a0	SM0:4692:120:WilError_03
+0xb78aa69456a0	SM0:4692:304:WilStaging_02
+0xb78aa69465a0	SM0:4816:304:WilStaging_02
+0xb78aa6946660	VBoxTray
+0xb78aa6946ba0	SM0:4764:304:WilStaging_02
+0xb78aa6946d20	SM0:4764:120:WilError_03
+0xb78aa69473e0	SM0:4836:304:WilStaging_02
+0xb78aa6948d60	SM0:4996:168:WilStaging_02
+0xb78aa6953da0	SM0:4996:64:WilError_03
+0xb78aa69561a0	SkyDrive Mutex {8EAEBBD8-2370-4716-9C12-1C4BA22A988C} - 2088280787
+0xb78aa69593e0	OneDrive_NetworkLock
+0xb78aa695a160	__DDrawCheckExclMode__
+0xb78aa695a220	__DDrawExclMode__
+0xb78aa695ad60	!BrowserEmulation!SharedMemory!Mutex
+0xb78aa6c356e0	SM0:580:120:WilError_03
+0xb78aa6c36d60	_!SHMSFTHISTORY!_
+0xb78aa6c3c5e0	SM0:496:304:WilStaging_02
+0xb78aa6c3d5a0	SM0:4988:304:WilStaging_02
+0xb78aa6c3d600	⎈ꚩ랊￿⎈ꚩ랊￿?
+0xb78aa6c3f4f0	N/A
+0xb78aa6c3f520	SM0:496:120:WilError_03

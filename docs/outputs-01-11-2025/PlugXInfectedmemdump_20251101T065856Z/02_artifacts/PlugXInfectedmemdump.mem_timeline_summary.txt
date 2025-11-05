@@ -1,0 +1,12 @@
+=== MEMORY FORENSICS TIMELINE SUMMARY ===
+Image: /home/ubuntu_user/volatility3/PlugXInfectedmemdump.mem
+Analysis Timestamp: 20251101T065856Z
+Generated for: KIT325 Memory Forensics Project
+
+=== KEY SYSTEM EVENTS ===
+--- User Sessions ---
+Progress:    0.00		Scanning FileLayer using PageMapScannerProgress:   23.33		Scanning FileLayer using PageMapScannerProgress:    0.00		Scanning FileLayer using PageMapScannerProgress:  100.00		Stacking attempts finished             Progress:  100.00		PDB scanning finished                  Unable to validate the plugin requirements: ['plugins.Sessions.kernel.layer_name', 'plugins.Sessions.kernel.symbol_table_name']
+Unsatisfied requirement plugins.Sessions.kernel.layer_name: 
+Unsatisfied requirement plugins.Sessions.kernel.symbol_table_name: 
+--- Recent File Handles ---
+No file handles found
