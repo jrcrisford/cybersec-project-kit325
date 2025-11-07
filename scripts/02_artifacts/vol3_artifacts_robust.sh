@@ -1,3 +1,10 @@
+# NOTE: This script implements robust error handling and recovery strategies
+# to extract maximum forensic data from infected/corrupted memory images.
+# While it demonstrates advanced techniques for dealing with anti-forensics
+# and system corruption, it is not part of the current assessment scope.
+# The core analysis objectives have been achieved using simpler approaches
+# as documented in the assessment report.
+
 #!/usr/bin/env bash
 # vol3_artifacts_robust.sh
 # Usage: ./vol3_artifacts_robust.sh PATH_TO_MEMORY_IMAGE
